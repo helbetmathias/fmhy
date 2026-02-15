@@ -22,7 +22,6 @@ hero:
     - theme: alt
       text: Contribute
       link: /other/contributing
-    - theme: alt
 
 features:
   - title: Adblocking / Privacy

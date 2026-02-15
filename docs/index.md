@@ -4,8 +4,8 @@ layout: home
 description: The largest collection of free stuff on the internet!
 
 hero:
-  name: freemediaheckyeah
-  tagline: The largest collection of free stuff on the internet!
+  name: Mathy FMHY
+  tagline: My personal collection of internet resources!
   announcement:
     title: Feb 2026 Updates 🌸
     link: /posts/feb-2026
@@ -23,8 +23,6 @@ hero:
       text: Contribute
       link: /other/contributing
     - theme: alt
-      text: Discord
-      link: https://github.com/fmhy/FMHY/wiki/FMHY-Discord
 
 features:
   - title: Adblocking / Privacy

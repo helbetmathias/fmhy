@@ -7,8 +7,8 @@ hero:
   name: Mathy FMHY
   tagline: My personal collection of internet resources!
   announcement:
-    title: Feb 2026 Updates 🌸
-    link: /posts/feb-2026
+    title: Living under capitalism sucks
+    link: /posts/AntiCapitalism
   image:
     src: test.png
     alt: FMHY Icon

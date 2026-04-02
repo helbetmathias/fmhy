@@ -7,8 +7,8 @@ hero:
   name: Mathy FMHY
   tagline: My personal collection of internet resources!
   announcement:
-    title: Keep Android Open 🔓
-    link: /posts/KeepAndroidOpen
+    title: April 2026 Updates 🌅
+    link: /posts/april-2026
   image:
     src: test.png
     alt: FMHY Icon

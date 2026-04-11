@@ -15,9 +15,9 @@
 * ↪️ **[Gaming Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_optimization_tools)**
 * ⭐ **[PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)** - System Tools / [Search](https://github.com/lin-ycv/EverythingPowerToys) / [Plugins](https://github.com/hlaueriksson/awesome-powertoys-run-plugins) / [GitHub](https://github.com/microsoft/PowerToys/)
 * ⭐ **[Sysinternals](https://learn.microsoft.com/en-us/sysinternals/)** - Advanced System Tools
-* ⭐ **[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)**, [winfetch](https://github.com/lptstr/winfetch), [CPU Fetch](https://github.com/Dr-Noob/cpufetch), [Glow](https://github.com/turkaysoftware/glow) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - System Info Tools
 * ⭐ **[SuperF4](https://stefansundin.github.io/superf4/)** or [FKill](https://github.com/sindresorhus/fkill-cli) - Process Killers
 * ⭐ **[Bulk Crap Uninstaller](https://www.bcuninstaller.com/)**, [Revo Uninstaller](https://www.revouninstaller.com/products/revo-uninstaller-free/) or [GeekUninstaller](https://geekuninstaller.com/) - Bulk Uninstallation Tools
+* [winfetch](https://github.com/lptstr/winfetch), [CPU Fetch](https://github.com/Dr-Noob/cpufetch), [Glow](https://github.com/turkaysoftware/glow) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - System Info Tools
 * [NanaRun](https://github.com/M2Team/NanaRun) - System Admin Tools
 * [BleachBit](https://www.bleachbit.org/) - Clean System Storage
 * [PolicyPlus](https://github.com/Fleex255/PolicyPlus) - Local Group Policy Editor
@@ -82,6 +82,7 @@
 * [portableapps](https://portableapps.com/download) - Package Manager for Portable Apps
 * [Baulk](https://github.com/baulk/baulk) - Minimalist Package Manager
 * [NirLauncher](https://launcher.nirsoft.net/) - Portable Package Manager for NirSoft Utilities
+* [⁠bin](https://github.com/marcosnils/bin) - Binary Manager
 
 ***
 
@@ -91,9 +92,9 @@
 * [Scheduler](https://www.splinterware.com/products/scheduler.html), [⁠FluentTaskScheduler](https://github.com/TRGamer-tech/FluentTaskScheduler) or [TaskRunner](https://www.keyefficiency.com/) - System Task Scheduler
 * [AutoIt](https://www.autoitscript.com/) / [Resources](https://github.com/J2TEAM/awesome-AutoIt)
 * [Tinytask](https://tinytask.net/)
-* [MacroRecorder](https://www.macrorecorder.com/)
 * [sikulix](http://sikulix.com/)
 * [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy)
+* [MacroRecorder](https://www.macrorecorder.com/)
 * [Organize](https://organize.readthedocs.io) - Automated File Manager / [GitHub](https://github.com/tfeldmann/organize)
 
 ***
@@ -162,7 +163,7 @@
 
 * ⭐ **[GlazeWM](https://github.com/glzr-io/glazewm)** - Tiling Window Manager
 * ⭐ **[Komorebi](https://github.com/LGUG2Z/komorebi)** - Tiling Window Manager
-* ⭐ **[WorkSpacer](https://workspacer.org/)** / [GitHub](https://github.com/workspacer/workspacer) - Tiling Window Manager
+* ⭐ **[WorkSpacer](https://workspacer.org/)** - Tiling Window Manager / [GitHub](https://github.com/workspacer/workspacer)
 * [⁠Seelen UI](https://github.com/eythaann/Seelen-UI) - Tiling Window Manager / [Discord](https://discord.gg/ABfASx5ZAJ)
 * [Whim](https://github.com/dalyIsaac/Whim/) - Pluggable Dynamic Window Manager
 * [DWM](https://github.com/prabirshrestha/dwm-win32) - Port of X11 dwm to Windows
@@ -230,7 +231,6 @@
 * [Traffic Monitor](https://github.com/zhongyang219/TrafficMonitor/) - Network & Hardware Monitor / Use Lite Version / Windows
 * [CoolerControl](https://docs.coolercontrol.org/) - Cooling Device Monitor / Linux / [Discord](https://discord.gg/MbcgUFAfhV) / [GitLab](https://gitlab.com/coolercontrol/coolercontrol)
 * [BatteryMode](https://en.bmode.tarcode.ru/) - System Tray Battery Percentage / Managers / Windows / [GitHub](https://github.com/tarcode-apps/BatteryMode)
-* [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) - Hardware Monitor / Windows
 * [fastfetch](https://github.com/fastfetch-cli/fastfetch) - Command Line System Info & Monitoring / Windows, Mac, Linux, Android
 * [⁠btop4win](https://github.com/aristocratos/btop4win) - System Info & Monitoring / Windows
 * [⁠NeoHtop](https://abdenasser.github.io/neohtop/) or [NeoHtop-cli](https://github.com/Abdenasser/neohtop-cli) - Task Manager Alt / Windows, Mac, Linux
@@ -370,6 +370,7 @@
 * [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) - Windows Deployment Automation
 * [USBTreeView](https://www.uwe-sieber.de/usbtreeview_e.html) - USB Device Tree Viewer
 * [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/) - Bootloaders / [Config](https://mackie100projects.altervista.org/)
+* [EtchDroid](https://etchdroid.app/) / [GitHub](https://github.com/etchdroid/etchdroid) or [⁠Ventoid](https://github.com/GPLaider/Ventoid) - Create Bootable USB Drives via Android
 
 ***
 
@@ -404,7 +405,7 @@
 
 # ► Customization
 
-* 🌐 **[Windows-Ricing](https://github.com/winthemers/wiki)**, [Frutiger Aero Archive](https://frutigeraeroarchive.org/) or [Heliohost Guide](https://ninjasr.varesia.com/w/lb/windows) - Windows Ricing Resources
+* 🌐 **[Windows-Ricing](https://github.com/winthemers/wiki)**, [Frutiger Aero Archive](https://frutigeraeroarchive.org/) or [Heliohost Guide](https://ninjasr.varesia.com/w/lb/windows) - Windows Customization Resources
 * ⭐ **[Rainmeter](https://www.rainmeter.net/)** / [Discord](https://discord.com/invite/rainmeter) or [⁠Seelen UI](https://github.com/eythaann/Seelen-UI) / [Discord](https://discord.gg/ABfASx5ZAJ) - Desktop Customization Environments
 * ⭐ **[OpenRGB](https://openrgb.org/)** / [Beta](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/openrgb-beta.md), **[WLED](https://kno.wled.ge/)**, [Aurora](https://www.project-aurora.com/), [LiquidCTL](https://github.com/liquidctl/liquidctl), [Artemis](https://artemis-rgb.com/) or [FireLight](https://github.com/nicolasdeory/firelight) - RGB Lighting Control
 * ⭐ **[VSThemes](https://vsthemes.org/en/)**, [WindowsCustomization](https://windowscustomization.com/) or [7Themes](https://7themes.su/) - Theme Indexes
@@ -453,7 +454,7 @@
 * 🌐 **[WallSync](https://roigoatzzz.netlify.app/)**, [2](https://wallsync.pages.dev/) - Wallpaper Site Index / [GitHub](https://github.com/leroiduflow/Wallsync)
 * ⭐ **[wallhaven.cc](https://wallhaven.cc/)** - Search Wallpapers / Some NSFW / [Downloader](https://github.com/eramdam/WallbaseDirectDownloader)
 * ⭐ **[Wallpaper Abyss](https://wall.alphacoders.com/)** - Search Wallpapers
-* ⭐ **[⁠WallWidgy](https://www.wallwidgy.app/)** / [GitHub](https://github.com/not-ayan/wallwidgy), [Simple Desktops](https://simpledesktops.com/), [Minimalistic Wallpaper](https://minimalistic-wallpaper.demolab.com/) or [SetAsWall](https://www.setaswall.com/) - Minimalist Wallpapers
+* ⭐ **[⁠WallWidgy](https://www.wallwidgy.app/)** / [GitHub](https://github.com/not-ayan/wallwidgy), [⁠Fluffy](https://wp.kernal.bid/), [Simple Desktops](https://simpledesktops.com/), [Minimalistic Wallpaper](https://minimalistic-wallpaper.demolab.com/) or [SetAsWall](https://www.setaswall.com/) - Minimalist Wallpapers
 * ⭐ **[Rev Wallpaper](https://weris.ordinall.dev/)** or [r/WallpaperRequests](https://www.reddit.com/r/WallpaperRequests/) - Reverse Wallpaper Search
 * ⭐ **[Studio Ghibli Wallpapers](https://www.ghibli.jp/info/013772)** - Studio Ghibli Wallpapers
 * ⭐ **[LWP](https://github.com/jszczerbinsky/lwp)**, [DesktopHut](https://www.desktophut.com/) / [Discord](https://discord.com/invite/QzgnQtJdfs), [r/LivingBackgrounds](https://reddit.com/r/LivingBackgrounds), [WALLegend](https://wallegend.net/en/) or [MoeWalls](https://moewalls.com/) - Live Wallpapers

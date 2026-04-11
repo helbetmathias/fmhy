@@ -65,6 +65,7 @@
 * [⁠Nept](https://nept.cloud/) - Instantly Deploy 20+ Frameworks (Deploy Next.js, Python, Go, etc.)
 * [Libraries.io](https://libraries.io/) - Package, Framework & Tool Search
 * [Deps.dev](https://deps.dev/) - Open Source Package Search
+* [⁠bin](https://github.com/marcosnils/bin) - Binary Manager
 * [N8N](https://n8n.io/) / [Workflow Index](https://github.com/Zie619/n8n-workflows) - Workflow Automation
 * [botwiki](https://botwiki.org/) - Learn How to Make Bots
 * [Sentry](https://sentry.io/) or [Darkly](https://launchdarkly.com/) - Error Tracking Platforms
@@ -221,14 +222,14 @@
 * 🌐 **[Awesome Docker](https://moistcatawumpus.github.io/awesome-docker/)** - Docker Services Index
 * 🌐 **[Selfhosted-Apps-Docker](https://github.com/DoTheEvo/selfhosted-apps-docker)** - Self-Hosted Docker Apps / Guides
 * ⭐ **[Docker](https://www.docker.com/)** / [Desktop App](https://www.docker.com/products/docker-desktop/) - Build, Manage and Run Apps in Containers
-* ⭐ **[Podman](https://podman.io/)** / [2](https://podman-desktop.io/) / [GitHub](https://github.com/containers/podman) / [Compose](https://github.com/containers/podman-compose) - Root-less, Daemon-less, Open Source Docker Alternative
+* ⭐ **[Podman](https://podman.io/)** / [2](https://podman-desktop.io/) - Root-less, Daemon-less, Open Source Docker Alternative / [GitHub](https://github.com/containers/podman) / [Compose](https://github.com/containers/podman-compose)
 * ⭐ **[Portainer](https://portainer.io/)**, [DockGE](https://dockge.kuma.pet/) or [moncho](https://moncho.github.io/dry/) - Container Managers
 * ⭐ **[Composerize](https://www.composerize.com/)**, [2](https://github.com/irbigdata/data-dockerfiles) - Compose Docker Files
 * ⭐ **[Hub Docker](https://hub.docker.com/)**, [2](https://linuxserver.io/), [3](https://hotio.dev/) - Docker Images
 * [LazyDocker](https://github.com/jesseduffield/lazydocker), [oxker](https://github.com/mrjackwills/oxker), [Arcane](https://getarcane.app/) / [GitHub](https://github.com/getarcaneapp/arcane) or [Isaiah](https://github.com/will-moss/isaiah) - Docker Managers / TUIs
 * [Dockle](https://github.com/goodwithtech/dockle) - Image Linter
 * [Dive](https://github.com/wagoodman/dive) - Analyze Images
-* [WatchTower](http://watchtower.nickfedor.com/) / [GitHub](https://github.com/nicholas-fedor/watchtower) - Container Automation
+* [WatchTower](http://watchtower.nickfedor.com/) - Container Automation / [GitHub](https://github.com/nicholas-fedor/watchtower)
 * [Dozzle](https://dozzle.dev/) - Log Viewer
 * [Docker AutoHeal](https://github.com/willfarrell/docker-autoheal) - Container Monitor
 * [Diun](https://crazymax.dev/diun/) - Docker Notifications
@@ -451,6 +452,7 @@
 * [editorcornfig](https://editorconfig.org/) - Maintain Code Styles Across Editors
 * [ThemesElection](https://themeselection.com/) or [Dracula](https://draculatheme.com/) - Code Editor Themes
 * [Freeze](https://github.com/charmbracelet/freeze) - Generate Images of Code / Terminal Output
+* [Tokei](https://github.com/XAMPPRocky/tokei) - Code Statistics Tool
 * [myCompiler](https://www.mycompiler.io/), [Compiler Explorer](https://compiler-explorer.com/), [OneCompiler](https://onecompiler.com/), [GodBolt](https://godbolt.org/), [ryugod](https://www.ryugod.com/) or [Wandbox](https://wandbox.org/) - Online Compilers / Explorers
 * [DogBolt](https://dogbolt.org/) - Decompiler Explorers / [GitHub](https://github.com/decompiler-explorer/decompiler-explorer)
 * [Code2Flow](https://app.code2flow.com/) or [Flowchart.js](https://flowchart.js.org/) - Code to Flowchart Converter
@@ -524,7 +526,7 @@
 * [OpenCode](https://opencode.ai/) - Coding AI / GPT-5 nano / Minimax-M2.5 / [Resources](https://github.com/awesome-opencode/awesome-opencode) / [Discord](https://discord.com/invite/opencode) / [GitHub](https://github.com/sst/opencode)
 * [Qwen Code](https://github.com/QwenLM/qwen-code) - Coding AI / Qwen3.6-Plus / Qwen3.5-Plus (Qwen3.5-397B-A17B) / [Docs](https://qwenlm.github.io/qwen-code-docs/en/) / [Limits](https://qwenlm.github.io/qwen-code-docs/en/users/configuration/auth/)
 * [Gemini CLI](https://geminicli.com/), [2](https://google-gemini.github.io/gemini-cli/) - Coding AI / Gemini 3 Flash/Pro / [GitHub](https://github.com/google-gemini/gemini-cli)
-* [⁠Google Antigravity](https://antigravity.google/) - Coding AI / Gemini 3 / Claude Opus 4.6 / Limits Reset Weekly / [Add Skills](https://github.com/sickn33/antigravity-awesome-skills) / [Account Manager](https://github.com/lbjlaq/Antigravity-Manager) / [Usage Tracker](https://open-vsx.org/extension/crsx/ag-usage)
+* [⁠Google Antigravity](https://antigravity.google/) - Coding AI / Gemini 3 / Claude Opus 4.6 / Limits Reset Weekly / [Add Skills](https://github.com/sickn33/antigravity-awesome-skills) / [Usage Tracker](https://open-vsx.org/extension/crsx/ag-usage)
 * [Windsurf](https://www.windsurf.com/) - Agentic IDE With Tab Completion / [Subreddit](https://www.reddit.com/r/windsurf/) / [Discord](https://discord.com/invite/3XFf78nAx5)
 * [Cline](https://cline.bot/) / [Discord](https://discord.gg/cline) / [GitHub](https://github.com/cline/cline) or [⁠Roo Code](https://roocode.com/) / [GitHub](https://github.com/RooCodeInc/Roo-Code) - Autonomous VS Code Agents
 * [OpenHands](https://www.all-hands.dev/) - Coding AI / [GitHub](https://github.com/All-Hands-AI/OpenHands)
@@ -533,7 +535,7 @@
 * [GitWit](https://gitwit.dev/) - Coding AI
 * [AI SDK](https://sdk.vercel.ai/) - Coding AI / [GitHub](https://github.com/vercel/ai)
 * [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) - Local Code Interpreter / No Sign-Up / [Discord](https://discord.gg/Hvz9Axh84z)
-* [Code Web Chat](https://codeweb.chat/) - Coding AI / No Sign-Up / [GitHub](https://github.com/robertpiosik/CodeWebChat) / [Discord](https://discord.com/invite/KJySXsrSX5) / [Subreddit](https://www.reddit.com/r/codewebchat/)
+* [Code Web Chat](https://codeweb.chat/) - Coding AI / No Sign-Up / [Discord](https://discord.com/invite/KJySXsrSX5) / [Subreddit](https://www.reddit.com/r/codewebchat/) / [GitHub](https://github.com/robertpiosik/CodeWebChat)
 * [Supermaven](https://supermaven.com/) - Tab Completion Coding AI / No Sign-Up / [Discord](https://discord.com/invite/QQpqBmQH3w)
 * [Qodo](https://www.qodo.ai/) - Coding AI
 * [Ampcode](https://ampcode.com/) - Coding AI
@@ -543,11 +545,12 @@
 ## ▷ Web / App Builders
 
 * [Arena](https://arena.ai/code) - AI Website Builder / Multiple Models / Sign-Up (Direct mode) / Reset Limits w/ Cookie Delete or Temp Mail / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
-* [AI Studio](https://aistudio.google.com/app/apps) - Gemini 3.1 Pro / Requires Sign-Up / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
-* [⁠Z.ai](https://chat.z.ai/) - AI Website Builder / GLM-5 / Unlimited / [Discord](https://discord.gg/QR7SARHRxK)
 * [Design Arena](https://www.designarena.ai/) - Multi-LLM Coding AI / No Direct Mode / Reset Limits / w Temp Mail / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
+* [⁠Z.ai](https://chat.z.ai/) - AI Website Builder / GLM-5.1 / Unlimited / [Discord](https://discord.gg/QR7SARHRxK)
+* [AI Studio](https://aistudio.google.com/app/apps) - Gemini 3.1 Pro / Requires Sign-Up / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * [Perchance](https://perchance.org/minimal#edit) / [Subreddit](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a), [Fragments](https://fragments.e2b.dev/) / [Discord](https://discord.com/invite/U7KEcGErtQ) / [GitHub](https://github.com/e2b-dev), [Websim](https://websim.com/) / [Discord](https://discord.gg/websim) / [Reddit](https://www.reddit.com/r/websim) / [X](https://x.com/websim_ai), [⁠AnyCoder](https://huggingface.co/spaces/akhaliq/anycoder), or [Llama Coder](https://llamacoder.together.ai/) / [GitHub](https://github.com/Nutlope/llamacoder) - App Builders
 * [v0](https://v0.app/) - Text to Site Code
+* [Qwen](https://chat.qwen.ai/) - Qwen3.6-Plus / Qwen3.5-397B-A17B / Requires Sign-Up / Unlimited / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * [Bolt.new](https://bolt.new/) - AI Web App Builder / [Discord](https://discord.com/invite/stackblitz) / [GitHub](https://github.com/stackblitz/bolt.new)
 * [Devv](https://devv.ai/) - Coding Search Engine / [GitHub](https://github.com/devv-ai/devv)
 
@@ -714,7 +717,7 @@
 * 🌐 **[Awesome PHP](https://github.com/ziadoz/awesome-php)** - PHP Resources
 * [XAMPP](https://www.apachefriends.org/) - PHP Development Environment
 * [Clean Code PHP](https://github.com/piotrplenik/clean-code-php) - Clean Code for PHP
-* [Valinor](https://valinor.cuyz.io) / [GitHub](https://github.com/CuyZ/Valinor) - PHP Object Mapper
+* [Valinor](https://valinor.cuyz.io)  - PHP Object Mapper / [GitHub](https://github.com/CuyZ/Valinor)
 * [Spatie](https://spatie.be/open-source) / [GitHub](https://github.com/spatie/fork) or [3v4l](https://3v4l.org) - Run PHP Concurrently
 
 ***
@@ -757,7 +760,7 @@
 * [Motion](https://motion.dev/) - Animation Library
 * [Medusa](https://medusajs.com) - Digital Commerce Development Tool
 * [Can I Use?](https://caniuse.com/) - Browser Support Tables
-* [PocketBase](https://pocketbase.io/) / [GitHub](https://github.com/pocketbase/pocketbase) - Open-Source Backend Platforms
+* [PocketBase](https://pocketbase.io/) - Open-Source Backend Platforms / [GitHub](https://github.com/pocketbase/pocketbase)
 * [⁠CS Chromium](https://cs.chromium.org/) - Chromium Code Search
 * [Caddy](https://caddyserver.com/) - Web Server
 * [Directory Lister](https://directorylister.com/) - Web-Based Directory Listing
@@ -788,7 +791,6 @@
 ## ▷ Website Builders
 
 * 🌐 **[Awesome Static Generators](https://myles.github.io/awesome-static-generators/)** / [GitHub](https://github.com/myles/awesome-static-generators) or **[Jamstack Generators](https://jamstack.org/generators/)** - Static Site Generator Indexes
-* ⭐ **[Framer](https://www.framer.com/)** - Website Builder
 * ⭐ **[Eleventy](https://11ty.dev/)** - Static Site Generator / [Discord](https://discord.gg/GBkBy9u) / [GitHub](https://github.com/11ty/eleventy)
 * ⭐ **[Hugo](https://gohugo.io/)** - Static Site Generator
 * ⭐ **[Webstudio](https://webstudio.is/)** - Website Builder
@@ -807,6 +809,7 @@
 * [tilda](https://tilda.cc/) - Website Builder
 * [bravenet](https://www.bravenet.com/) - Website Builder
 * [cargo](https://cargo.site/) - Website Builder
+* [Framer](https://www.framer.com/) - Website Builder
 * [Mobirise](https://mobirise.com/) - Website Builder
 * [Temper](https://temper.one/) - Website Builder
 * [Silex](https://www.silex.me/) - Website Builder
@@ -1070,7 +1073,7 @@
 
 ## ▷ Static Page Hosting
 
-* **Note** - The tags for each section are as follows: Storage Limit / Monthly Bandwidth Limit.
+* **Note** - The tags for this section are as follows: Storage Limit / Monthly Bandwidth Limit.
 
 * ⭐ **[Cloudflare Pages](https://pages.cloudflare.com/)** - 20K Files (25MB Each) / Unlimited / [Tunnel Client](https://github.com/cloudflare/cloudflared) / [Discord](https://discord.gg/cloudflaredev)
 * ⭐ **[surge](https://surge.sh/)** - Unlimited / Unlimited / [X](https://x.com/surge_sh) / [GitHub](http://github.com/sintaxi/surge)
@@ -1078,7 +1081,7 @@
 * ⭐ **[Firebase](https://firebase.google.com/products/hosting)** - 10GB / 10GB
 * ⭐ **[Sourcehut Pages](https://srht.site/)** - 1GB / Unlimited
 * ⭐ **[Neocities](https://neocities.org/)** - 1GB / 200GB / No Custom Domain
-* ⭐ **[nekoweb](https://nekoweb.org/)** - 500MB, 5K Files / Unlimited / [Bandwidth Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/nekoweb-note.md)
+* ⭐ **[nekoweb](https://nekoweb.org/)** - 500MB, 5K Files / Unlimited / [Bandwidth Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/nekoweb.md)
 * [Web 1.0 Hosting](https://web1.0hosting.net/) - 100MB / Unlimited
 * [Codeberg Pages](https://codeberg.page/) - 750MB / Unlimited / Only Open-Source Projects
 * [⁠pages.gay](https://pages.gay/) - Unspecified / Unspecified
@@ -1091,6 +1094,7 @@
 
 # ► Cybersecurity Tools
 
+* 🌐 **[⁠Awesome Formal Verification](https://github.com/ElNiak/awesome-formal-verification)** - Verification / Model Check Technique Index
 * ⭐ **[pyWhat](https://github.com/bee-san/pyWhat)** - File Analyzer
 * [Open Source Security Software](https://open-source-security-software.net/) - Cybersecurity Software
 * [osquery](https://osquery.io) or [Nmap](https://nmap.org/) / [Results](https://nmap.org/ndiff/) - Security Monitors
@@ -1165,6 +1169,7 @@
 * [Hydra](https://github.com/ory/hydra) - OAuth 2.0 Server / OpenID Connect Provider
 * [SuperTokens](https://supertokens.com/) or [Lucia](https://lucia-auth.com/) - User Authentication
 * [SupaBase](https://supabase.com/) - Database / Authentication Service
+* [⁠GNUnet](https://www.gnunet.org/en/) - Decentralized P2P Framework
 * [ZAP](https://www.zaproxy.org/) - Web App Security Testing
 * [IP Intelligence](https://getipintel.net/), [AbuseIPDB](https://www.abuseipdb.com/) or [Proxy Check](https://proxycheck.io/) - Proxy / VPN / Bad IP Detection
 * [Fail2Ban](https://github.com/fail2ban/fail2ban) - Protect Servers from Brute Force Attacks

@@ -106,7 +106,7 @@
 * [AFAIK](https://afaik.io/) - Learning Map / [Discord](https://discord.gg/mMNwRvWM8s)
 * [AnimaGraffs](https://animagraffs.com/) - Animated Infographs
 * [Memory Toys](https://memory.toys/), [Dual N-Back](https://nbacking.com/) or [BrainScale](https://brainscale.net/) - Memory Tests / Training
-* [Information Is Beautiful](https://informationisbeautiful.net/) or [HalcyonMaps](https://www.halcyonmaps.com/infographics) - Data / Information / Infographics / Visualizations
+* [Information Is Beautiful](https://informationisbeautiful.net/), [⁠sheets.works](https://sheets.works/data-viz/) or [HalcyonMaps](https://www.halcyonmaps.com/infographics) - Data / Information / Infographics / Visualizations
 * [HowStuffWorks](https://www.howstuffworks.com/) or [CoolMindMaps](https://www.coolmindmaps.com/) - Learn How Things Work
 * [Common Misconceptions](https://wikipedia.org/wiki/List_of_common_misconceptions) - Common Misconception Index
 * [masterWiki](https://masterwiki.how/) - MasterClass Classes Republished as wikiHow Articles
@@ -158,7 +158,6 @@
 * ⭐ **[The Feynman Lectures](https://www.feynmanlectures.caltech.edu/)** - Physics Lectures
 * ⭐ **[Bartosz Ciechanowski](https://ciechanow.ski/)**, [Isaac Physics](https://isaacphysics.org/), [PhysicsClassroom](https://www.physicsclassroom.com/), [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/), [MotionMountain](https://www.motionmountain.net/index.html) or [Splung](https://www.splung.com/) - Physics Lessons / Learning
 * ⭐ **[Physics Simulations](https://www.csun.edu/science/software/simulations/physics.html)**, [Mujoco](https://github.com/google-deepmind/mujoco), [Physics Animations](https://www.animations.physics.unsw.edu.au/), [oPhysics](https://ophysics.com/index.html) or [MyPhysicsLab](https://www.myphysicslab.com/index-en.html) - Physics Simulations / Animations
-* [PhysicsTravelGuide](https://physicstravelguide.com/) - Physics Explanations
 * [LibreTexts Physics](https://phys.libretexts.org/Bookshelves) - Physics Learning / Guides
 * [nLab Physics](https://ncatlab.org/nlab/show/higher+category+theory+and+physics) - Physics Encyclopedia
 * [Algodoo](https://www.algodoo.com/) - Interactive Physics Tool
@@ -196,6 +195,7 @@
 * ⭐ **[Manim](https://www.manim.community/)**, [2](https://github.com/3b1b/manim) - Generate Explanatory Math Videos / [Videos](https://github.com/3b1b/videos) / [Difference Between Versions](https://docs.manim.community/en/stable/faq/installation.html#different-versions)
 * ⭐ **[WolframAlpha](https://www.wolframalpha.com/)** - Searchable Knowledge Base / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search)
 * [Wolfram MathWorld](https://mathworld.wolfram.com/) or [nLab Math](https://ncatlab.org/nlab/show/mathematics) - Mathematics Encyclopedias
+* [⁠Algebrica](https://algebrica.org/) - Mathematical Concepts Database 
 * [⁠Immortal's Maths Problems](https://www.math.umd.edu/~immortal/), [⁠Evan Chen](https://web.evanchen.cc/), [Pauls Online Math Notes](https://tutorial.math.lamar.edu/) or [LibreTexts Math](https://math.libretexts.org/Bookshelves) - Math Practice / Guides
 * [Red Blob Games](https://www.redblobgames.com/) or [Mathspad](https://www.mathspad.co.uk/resources.php?interactives=1) - Interactive Math Sites
 * [Matthen](https://blog.matthen.com/) - Math Animations
@@ -212,7 +212,6 @@
 * [Converter Pro](https://f-droid.org/packages/com.ferrarid.converterpro/), [Rink](https://rinkcalc.app/), [Frink](https://frinklang.org/fsp/frink.fsp), [OneConverter](https://oneconverter.com/) or [ConvertAll](https://convertall.bellz.org/) - Unit Converters / Calculators
 * [MathJax](https://www.mathjax.org/) - JavaScript Math Display
 * [ISciDAVis](https://sourceforge.net/projects/scidavis/) - Scientific Data Plotter
-* [Approach0](https://approach0.xyz/search/) - Math Formula Search
 * [MathOnline](http://mathonline.wikidot.com/), [⁠CEMC](https://cemc.uwaterloo.ca/resources/courseware) or [Mathigon](https://mathigon.org/) - Math / Courses
 * [Professor Leonard](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg), [3Blue1Brown](https://www.3blue1brown.com/) or [MisterWootube](https://www.youtube.com/c/misterwootube) - YouTube Math Lessons
 * [Mathispower4u](https://www.mathispower4u.com/), [⁠Andy Math](https://andymath.com/), [SchoolYourself](https://schoolyourself.org/), [mathhelp](https://www.mathhelp.com/), [MathPortal](https://www.mathportal.org/), [⁠MadAsMaths](https://www.madasmaths.com/), [Math Planet](https://www.mathplanet.com/) or [CoolMath](https://www.coolmath.com/) - Math Lessons / Practice
@@ -285,7 +284,8 @@
 * [⁠r/rocketry](https://www.reddit.com/r/rocketry/) - Rocketry Community / [Discord](https://discord.com/invite/Ezgs4TGXvx)
 * [Nakka Rocketry](https://nakka-rocketry.net/) - Rocket Technical Archive
 * [JCRocket](https://www.jcrocket.com) - Rocketry Technical Information / [YouTube](https://www.youtube.com/@JohnLCoker)
-* [Half Cat Rocketry](https://www.halfcatrocketry.com/) - Liquid Rocket Motor Guide / Info / Resources / [X](https://x.com/HalfCatRocketry) / [Discord](https://discord.gg/y2AH6ZegBX) / [GitHub](https://github.com/HalfCatRocketry)
+* [Half Cat Rocketry](https://www.halfcatrocketry.com/) - Liquid Rocket Motor Guide / Info / Resources / [X](https://x.com/HalfCatRocketry) / [Discord](https://discord.gg/y2AH6ZegBX) / [GitHub](https://github.com/HalfCatRocketry) 
+* [Robert’s Rocket Project](https://watzlavick.com/robert/rocket/) - Liquid Rocket Info / Resources
 * [⁠OpenRocket](https://openrocket.info/) - Rocket Simulator / [Wiki](https://wiki.openrocket.info) / [Discord](https://discord.gg/qD2G5v2FAw) / [GitHub](https://github.com/openrocket/openrocket)
 * [⁠RocketReviews](https://www.rocketreviews.com/) - Rocket Reviews / Test Results
 * [ThrustCurve](https://www.thrustcurve.org/) - Rocket Motor Performance Database / [GitHub](https://github.com/JohnCoker/thrustcurve3)
@@ -361,7 +361,6 @@
 * ⭐ **[periodic-table.org](https://www.periodic-table.org/)** or **[Material Properties](https://material-properties.org/)** - Material / Element Learning Resources
 * [Atom Animation](https://atomanimation.com/) / [GitHub](https://github.com/matt765/atom-animation), [Graph Overflow](https://graphoverflow.com/graphs/3d-periodic-table.html) or [3D Periodic Table](https://artsexperiments.withgoogle.com/periodic-table/) - 3D Visualizations of Atoms
 * [Atomic](https://play.google.com/store/apps/details?id=com.jlindemann.science) - Periodic Table Mobile App
-* [The Periodic Table Of Elements](https://periodictableofchemicalelements.com/) - Interactive Table
 * [⁠Zperiod](https://zperiod.app/) - Interactive Table
 * [periodic-table.io](https://periodic-table.io/) - Interactive Table
 * [Periodic Table App](https://periodictableapp.com/) - Interactive Table
@@ -381,7 +380,7 @@
 * [Science Geek](https://www.sciencegeek.net/) - Biology Study Guides
 * [LibreTexts Biology](https://bio.libretexts.org/Bookshelves) - Biology Learning / Guides
 * [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/) - Biodiversity Research
-* [Alien](https://alien-project.org/) - Artificial Life Simulator / [GitHub](https://github.com/chrxh/alien) / [Video](https://youtu.be/w9R6zrdl6jM)
+* [Alien](https://alien-project.org/) - Artificial Life Simulator / [Video](https://youtu.be/w9R6zrdl6jM) / [GitHub](https://github.com/chrxh/alien)
 * [Metazooa](https://metazooa.com/) - Species Connection Game
 * [⁠Phenome10K](https://www.phenome10k.org/) - Biological / Palaeontological 3D Scans
 * [RecentlyExtinctSpecies](https://recentlyextinctspecies.com/) - Recently Extinct Species Database
@@ -467,6 +466,7 @@
 * [CSA](https://www.asc-csa.gc.ca/eng/) - Canadian Space Agency Website
 * [ISRO](https://www.isro.gov.in/) - Indian Space Research Organization
 * [Space.com](https://www.space.com/) - Space News
+* [⁠Russian Space Web](https://russianspaceweb.com/) - Russian Space Program News / History
 * [Encyclopedia Astronautica](http://www.astronautix.com/) - Space Encyclopedia
 * [NASA+](https://plus.nasa.gov/) - Official NASA Streaming Service
 * [NASA History](https://www.nasa.gov/history/history-publications-and-resources/) or [NASA Ebooks](https://www.nasa.gov/ebooks/) - NASA Books
@@ -533,6 +533,7 @@
 * [ISS In Realtime](https://issinrealtime.org/) - Historical ISS Mission Replays / Database
 * [ISS Sim](https://iss-sim.spacex.com/) - ISS Docking Simulator
 * [Transit Finder](https://transit-finder.com/), [ISS Tracker](https://isstracker.pl/en), [Spot The Station](https://spotthestation.nasa.gov/) or [Where The ISS At?](https://wheretheiss.at/) - ISS Transit Tracking
+* [⁠Gunter's Space Page](https://space.skyrocket.de/) - Satellite Encyclopedia / Launch Database
 * [Satellite Map](https://satellitemap.space/), [KeepTrack](https://keeptrack.space/) / [GitHub](https://github.com/thkruz/keeptrack.space/), [SGP4](https://sgp4gl-demo.vercel.app/) / [GitHub](https://github.com/Kayhan-Space/sgp4gl-demo), [KeepTrackSpace](https://www.keeptrack.space/), [Starlink Coverage](https://starlink.sx/), [Find Starlink](https://findstarlink.com/) or [Look4Sat](https://github.com/rt-bishop/Look4Sat) - Satellite Orbit Maps / Trackers
 * [See A Satellite Tonight](https://james.darpinian.com/satellites/) - Satellite Viewing Schedule / Locations
 * [Spacebook](https://www.spacebook.com/) - Evaluates / Tracks Satellite Collision Risks & Maneuvers
@@ -569,7 +570,6 @@
 * [911 Realtime](https://911realtime.org/) - 9/11 in Real-Time
 * [The Food Timeline](https://www.foodtimeline.org/) - Food History Timeline
 * [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) - Historical Recipes Site Index
-* [Arachne](https://arachne.dainst.org/) - Ancient Sculpture Image Archive
 * [SmartHistory](https://smarthistory.org/) - Art / Cultural Object History
 * [⁠gwulo](https://gwulo.com/) - Historical Hong Kong Photo Archive
 * [CARI](https://cari.institute/) or [CARI Are.na](https://www.are.na/consumer-aesthetics-research-institute/channels) - Design Aesthetics History
@@ -643,7 +643,6 @@
 * [NationsEncyclopedia](https://www.nationsencyclopedia.com/) - Location / Population Data
 * [City Data](https://www.city-data.com/) - US City Data
 * [Data Commons](https://datacommons.org/) or [Engaging Data](https://engaging-data.com/) - Data Visualizations
-* [Global Consciousness Project](https://gcpdot.com/) - Real-Time Global Consciousness Data
 * [GovTrack](https://www.govtrack.us/) - US Government Legislation Tracking / Votes
 * [Trans Rights Map](https://transrightsmap.tgeu.org/) - Trans Legal Rights Map / Policy Tracking
 * [OpenSecrets](https://www.opensecrets.org/) - Government Money Tracking
@@ -692,6 +691,7 @@
 * [YourBias.is](https://yourbias.is/) - Learn about Biases
 * [⁠Philosophy Stack Exchange](https://philosophy.stackexchange.com/) - Philosophy Forum
 * [Kialo](https://www.kialo.com/) - Debates / Discussion
+* [⁠Effective Altruism Forum](https://forum.effectivealtruism.org/) - ⁠Effective Altruism Forum
 * [Umsu](https://www.umsu.de/trees/) - Analytic Tableaux Generator
 * [Proofs](https://proofs.openlogicproject.org/) - Natural Deduction Proof Checker
 * [PropCalc](https://www.inf.unibz.it/~franconi/teaching/propcalc/) - Propositional Logic Calculator
@@ -947,7 +947,7 @@
 * [Language Roadmap](https://languageroadmap.com/) - Foreign Language Media Difficulty Guide
 * [LearnWithOliver](https://www.learnwitholiver.com/) - Language Learning Flashcards
 * [MyLanguages](https://mylanguages.org/), [VocabTest](https://www.vocabtest.com/), [My Little Word Land](https://mylittlewordland.com/) or [50Languages](https://www.50languages.com/) - Grammar / Vocabulary Language Learning
-* [Vocatra](https://esite.ch/vocatra/) or [QuizFlow](https://apt.izzysoft.de/fdroid/index/apk/jdm.apps.quizflow/) - Vocabulary Trainers
+* [Vocatra](https://esite.ch/vocatra/), [⁠Conjuguemos](https://www.conjuguemos.com/) or [QuizFlow](https://apt.izzysoft.de/fdroid/index/apk/jdm.apps.quizflow/) - Vocabulary Trainers
 * [Verbix](https://www.verbix.com/) - Verb Conjugator
 * [ListLang](https://www.listlang.com/) - Most Used Words in Any Language
 * [LingYourLanguage](https://lingyourlanguage.com/) or [Language Squad](https://www.languagesquad.com/) - Language Identification Test
@@ -1385,6 +1385,7 @@
 * [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code), [CodeAbbey](https://www.codeabbey.com/), [Kattis](https://open.kattis.com/) or [Coding Problems](https://github.com/MTrajK/coding-problems) - Coding Problems / Solutions
 * [Exercism](https://exercism.org/), [HackerRank](https://www.hackerrank.com/) or [CS Circles](https://cscircles.cemc.uwaterloo.ca/) - Programming Lessons
 * [Hello Algo](https://www.hello-algo.com/en/) - Data Structures and Algorithms Course
+* [Algorithms Books](https://algorithmsbook.com/) - MIT Algorithm Focused Books
 * [Algorithms-Cheatsheet-Resources](https://github.com/starkblaze01/Algorithms-Cheatsheet-Resources) - Code Algorithm Cheat Sheets
 * [algorithms](https://prashantbarahi.com.np/docs/algorithms/intro) - Code Algorithms & Data Structures Tutorials
 * [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and Data Structures in JavaScript
@@ -1539,7 +1540,6 @@
 * ⭐ **[Excalidraw](https://excalidraw.com/)** / [Sharing](https://excalihub.dev/), **[OpenBoard](https://openboard.ch/index.en.html)**, [DGM](https://dgm.sh/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [Microsoft Whiteboard](https://apps.microsoft.com/detail/9MSPC6MP8FM4), [WBO](https://wbo.ophir.dev/), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/) or [Whiteboard Fox](https://r3.whiteboardfox.com/) - Whiteboards
 * [FreeForStudent](https://freeforstudents.org/) or [⁠Student Offers](https://www.studentoffers.co/) - Free Student Deals / Discounts
 * [Better Canvas](https://github.com/UseBetterCanvas/bettercanvas) - Canvas Enhancement Extension
-* [Tasks for Canvas](https://github.com/jtcheng26/canvas-task-extension) - Improved Canvas To-Do List
 * [ImageJ](https://imagej.net/) / [Web](https://ij.imjoy.io/) or [Fiji](https://fiji.sc/) - Scientific Image Analyzers
 * [Altium](https://www.altium365.com/viewer/) - Schematics Visualizer
 * [Wolfram Cloud](https://www.wolframcloud.com/) - Computational Intelligence

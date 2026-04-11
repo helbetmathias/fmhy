@@ -435,6 +435,8 @@
 * [MangaHere](https://www.mangahere.cc/) or [MangaFox](https://fanfox.net/)
 * [Rive Manga](https://rivestream.org/manga)
 * [MangaTown](https://www.mangatown.com/)
+* [ComiKuro](https://comikuro.to/)
+* [All Manga](https://allmanga.to/) / [Discord](https://discord.com/invite/6nce6cyJyM)
 * [The Manga Library](https://rentry.co/FMHYB64#the-manga-library)
 * [MangaHub](https://mangahub.io/)
 * [Cubari Proxy](https://proxy.cubari.moe/) - Multi Site Web Client / [Discord](https://discord.com/invite/SavdUC45MS)
@@ -649,7 +651,6 @@
 * [IT eBooks](https://it-ebooks.info/)
 * [FreeTechBooks](https://www.freetechbooks.com/)
 * [FreeComputerEbooks](https://freecomputerbooks.com/)
-* [TechBooksFree](https://techbooksforfree.com/)
 * [eBooks-IT](https://ebooks-it.org)
 * [Essential Programming Books](https://www.programming-books.io/)
 * [GoalKicker](https://goalkicker.com/)
@@ -971,7 +972,6 @@
 * [Spin.moe](https://spin.moe/) - Find Random Manga
 * [Anime-Planet](https://anime-planet.com/) - Manga
 * [Kenmei](https://www.kenmei.co/) - Manga / [Discord](https://discord.gg/XeTFtYW)
-* [AllManga](https://allmanga.to/) - Manga / [Discord](https://discord.com/invite/6nce6cyJyM)
 * [Manga Codex](https://mangacodex.com/) - Manga Infographics & Sales Stats
 
 ***

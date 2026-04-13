@@ -764,7 +764,6 @@
 * [TabCopy](https://github.com/hansifer/tab-copy) - Copy Tabs to Clipboard
 * [Linkclump Plus](https://chromewebstore.google.com/detail/linkclump-plus/ainlglbojoodfdbndbfofojhmjbmelmm) - Select, Copy or Open Multiple Links at Once / [GitHub](https://github.com/from-es/linkclump-plus)
 * [Bookmarks Cleanup](https://chromewebstore.google.com/detail/bookmarks-clean-up/oncbjlgldmiagjophlhobkogeladjijl) - Bookmark Cleanup
-* [Simple Mass Downloader](https://chromewebstore.google.com/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed) - Download Multiple Links at Once
 * [CrxMouse](https://crxmouse.com/) - Mouse Gestures
 * [Night Shift Redux](https://chromewebstore.google.com/detail/night-shift/ocginjipilabheemhfbedijlhajbcabh) - Adapts Display Color to Time of Day
 * [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - Smooth Key Scrolling
@@ -778,7 +777,6 @@
 * [Caffeine](https://webextension.org/listing/caffeine.html) - Prevent OS from Sleeping
 * [uAutoPagerize](https://chromewebstore.google.com/detail/kdplapeciagkkjoignnkfpbfkebcfbpb) or [Infy Scroll](https://chromewebstore.google.com/detail/infy-scroll/gdnpnkfophbmbpcjdlbiajpkgdndlino) - Merges a Sites "Next" Pages
 * [Amino](https://amino.dev/) - Customize Webpage CSS
-* [Resizing](https://resizing.app/) - Resize Images
 * [Check My Links](https://chromewebstore.google.com/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf) - Check for Broken Links
 * [Disable All Extensions](https://chromewebstore.google.com/detail/disable-all-extensions/ailfldpmpboolaihojfagmmfbhcgohne) - Disable All Extensions
 
@@ -796,7 +794,7 @@
 ## ▷ Userscripts
 
 * 🌐 **[Greasy Fork](https://greasyfork.org/)** / [GitHub](https://github.com/greasyfork-org/greasyfork/), [OpenUserJS](https://openuserjs.org/), [ScriptCat](https://scriptcat.org/en) or [Userscripts](https://userscripts-mirror.org/) - Userscript Stores
-* 🌐 **[Awesome Userscripts](https://github.com/awesome-scripts/awesome-userscripts)**, [XIU2](https://github.com/XIU2/UserScript) or [Userscript.zone](https://www.userscript.zone/) - Curated Userscript Indexes
+* 🌐 **[Awesome Userscripts](https://github.com/awesome-scripts/awesome-userscripts)**, [XIU2](https://github.com/XIU2/UserScript) (use translator) or [Userscript.zone](https://www.userscript.zone/) - Curated Userscript Indexes
 * ↪️ **[Google Search Userscripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_google_search_tools)**
 * ⭐ **[⁠ScriptCat](https://docs.scriptcat.org/en/)** / [Discord](https://discord.gg/JF76nHCCM7) / [GitHub](https://github.com/scriptscat/scriptcat/blob/main/README.md), **[Violentmonkey](https://violentmonkey.github.io/)** / [Discord](https://discord.gg/XHtUNSm6Xc) / [GitHub](https://github.com/violentmonkey/violentmonkey) or [FireMonkey](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/) / [GitHub](https://github.com/erosman/firemonkey) - Userscript Managers
 * ⭐ **Greasy Fork Tools** - [Enhancements](https://greasyfork.org/en/scripts/473830) / [Helper](https://greasyfork.org/en/scripts/393396) / [Tweaks](https://greasyfork.org/en/scripts/368183) / [Cleanup Script](https://greasyfork.org/en/scripts/12179) / [Themes](https://greasyfork.org/en/scripts/4336)

@@ -7,8 +7,8 @@ hero:
   name: Mathy FMHY
   tagline: My personal collection of internet resources!
   announcement:
-    title: Our 8-Year Anniversary 💖
-    link: /posts/anniversary
+    title: May 2026 Updates 🌼
+    link: /posts/may-2026
   image:
     src: test.png
     alt: FMHY Icon

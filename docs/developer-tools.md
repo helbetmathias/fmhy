@@ -261,14 +261,14 @@
 
 ## ▷ API Tools
 
-* 🌐 **[Public APIs](https://github.com/public-apis/public-apis)**, [API List](https://apilist.fun/), [Public APIs](https://publicapis.dev/), [APIsList](https://apislist.com/), [APIs Guru](https://apis.guru/), [FreePublicAPIs](https://www.freepublicapis.com/), [Public API Lists](https://github.com/public-api-lists/public-api-lists), [⁠PublicAPIs](https://publicapis.io/), [APIVault](https://apivault.dev/), [⁠FreeAPIs](https://freeapis.io/) or [Any API](https://any-api.com/) - API Indexes
+* 🌐 **[Public APIs](https://github.com/public-apis/public-apis)**, [API List](https://apilist.fun/), [Public APIs](https://publicapis.dev/), [APIsList](https://apislist.com/), [APIs Guru](https://apis.guru/), [FreePublicAPIs](https://www.freepublicapis.com/), [Public API Lists](https://github.com/public-api-lists/public-api-lists), [⁠PublicAPIs](https://publicapis.io/), [APIVault](https://apivault.dev/) or [Any API](https://any-api.com/) - API Indexes
 * 🌐 **[Awesome API Security](https://github.com/arainho/awesome-api-security)** or [APIKit](https://github.com/API-Security/APIKit) - API Security Resources
 * 🌐 **[Streaming Site APIs](https://rentry.co/FMHYB64#streaming-apis)**
 * 🌐 **[Manga APIs](https://rentry.co/manga-apis)** - Manga Site APIs
 * 🌐 **[Dev Scraping APIs](https://github.com/cporter202/scraping-apis-for-devs)** - ⁠Scraping APIs for Developers
 * 🌐 **[⁠awesome-transit](https://github.com/MobilityData/awesome-transit)** - Transit Focused APIs
 * 🌐 **[⁠NASA API](https://api.nasa.gov/)** - NASA Open APIs
-* 🌐 **[Free AI Stuff](https://github.com/zukixa/cool-ai-stuff)**, [Free LLM API Resources](https://github.com/cheahjs/free-llm-api-resources), [FreeAPIProviders](https://rentry.co/freeapiproviders), [OpenRouter](https://openrouter.ai/models?max_price=0) or [API Together](https://api.together.xyz/playground) - LLM / AI API Indexes
+* 🌐 **[Free LLM API Resources](https://github.com/cheahjs/free-llm-api-resources)**, [OpenRouter](https://openrouter.ai/models?max_price=0) or [API Together](https://api.together.xyz/playground) - LLM / AI API Indexes
 * 🌐 **[AI Price Compare](https://countless.dev/)** or **[PricePerToken](https://pricepertoken.com/)** - AI / LLM API Price Comparisons
 * ⭐ **[hoppscotch](https://hoppscotch.io/)**, [Firecamp](https://firecamp.dev/) or [Strapi](https://strapi.io/) - API Builders
 * ⭐ **[Shizuku](https://shizuku.rikka.app/)** / [Tools](https://github.com/legendsayantan/ShizuTools) / [GitHub](https://github.com/RikkaApps/Shizuku), [Shizuku Fork](https://github.com/thedjchi/Shizuku) or [Dhizuku](https://github.com/iamr0s/Dhizuku) - Let Apps Use System API (Android)
@@ -277,7 +277,7 @@
 * [HTTPie](https://httpie.io/) - Test REST, GraphQL, and HTTP APIs
 * [Rest Test Test](https://resttesttest.com/) - Test REST / CORS Services
 * [Beeceptor](https://beeceptor.com/) - Mock REST APIs
-* [Pipedream](https://pipedream.com/) - Connect APIs / [Tutorial](https://gist.github.com/ItsRauf/48f252c931ac394b1395312b61b8e35b)
+* [Pipedream](https://pipedream.com/) - Connect APIs
 * [FastAPI](https://fastapi.tiangolo.com/) - API Framework
 * [Posting](https://posting.sh/) / [GitHub](https://github.com/darrenburns/posting), [Insomnia](https://insomnia.rest/) or [Yaak](https://yaak.app/) - API Clients
 * [Bruno](https://www.usebruno.com/) - API Testing Client
@@ -500,6 +500,7 @@
 ## ▷ VSCode Tools
 
 * 🌐 **[Awesome VSC Extensions](https://hl2guide.github.io/Awesome-Visual-Studio-Code-Extensions/)**, [VS Studio Marketplace](https://marketplace.visualstudio.com/), [vsixhub](https://www.vsixhub.com/) or [VSCodiuim Marketplace](https://rentry.co/vscodiumguide)
+* [VSCode Web](https://code.visualstudio.com/docs/setup/vscode-web) - VSCode Web Version / Guide
 * [github-vscode-icons](https://github.com/dderevjanik/github-vscode-icons) - VSCode Icons
 * [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - VSCode ChatGPT
 * [Open VSX](https://open-vsx.org/) - Open VSX Registry
@@ -626,13 +627,13 @@
 * 🌐 **[Awesome Java](https://github.com/akullpp/awesome-java)** - Java Resources
 * 🌐 **[Awesome Kotlin](https://kotlin.link/)** - Kotlin Resources / [GitHub](https://github.com/Heapy/awesome-kotlin)
 * 🌐 **[Obfuscator List](https://github.com/3000IQPlay/obfuscator-list)** - Java Obfuscator Index
+* [Adoptium](https://adoptium.net/) - Download OpenJDK Binaries
 * [Recaf](https://www.coley.software/Recaf/) - Java Bytecode Editor / [GUI](https://github.com/Col-E/Recaf-Launcher/)
 * [bytecode-viewer](https://bytecodeviewer.com), [jd-gui](https://github.com/java-decompiler/jd-gui), [Krakatau](https://github.com/Storyyeller/Krakatau), [Luyten](https://github.com/deathmarine/Luyten), [Vineflower](https://github.com/Vineflower/vineflower), [JavaDecompiler](https://www.javadecompilers.com/) or [Fernflower](https://github.com/fesh0r/fernflower) - Java Decompilers
 * [JEnv For Windows](https://github.com/FelixSelter/JEnv-for-Windows) - Change Java Version
 * [⁠WhichJDK](https://whichjdk.com/) - JDK Version Cheatsheet / Info
 * [jadx](https://github.com/skylot/jadx) - Dex to Java Decompiler
 * [GraalVM](https://www.graalvm.org/) - Advanced Multi-language JVM
-* [Adoptium](https://adoptium.net/) - Download OpenJDK Binaries
 
 ***
 
@@ -700,7 +701,6 @@
 * [Bulletproof React](https://github.com/alan2207/bulletproof-react) - React App Architecture
 * [Refine](https://refine.dev/) - React App Builders
 * [Alright](https://github.com/DoneDeal0/alright-react-app) - Generate React Apps
-* [Codux](https://www.codux.com/) - Visual IDE for React
 * [Puck](https://puckeditor.com/) - Create Simplified Visual Editors for Non-Devs / [GitHub](https://github.com/puckeditor/puck/)
 * [React SVG](https://react-svgr.com/playground/) - Convert SVG to React Components
 * [Zorm](https://github.com/esamattis/react-zorm) - Type-Safe Form for React
@@ -712,7 +712,6 @@
 * [Vision Camera](https://www.react-native-vision-camera.com/) - React Camera Support / [GitHub](https://github.com/mrousavy/react-native-vision-camera)
 * [React PDF](https://react-pdf.org/) - Create PDFs in React
 * [react-spring](https://www.react-spring.dev/) - React Spring Animations
-* [Create React App](https://create-react-app.dev) - Set Up React Web Apps / [GitHub](https://github.com/facebook/create-react-app)
 
 ***
 
@@ -766,7 +765,7 @@
 * [Can I Use?](https://caniuse.com/) - Browser Support Tables
 * [PocketBase](https://pocketbase.io/) - Open-Source Backend Platforms / [GitHub](https://github.com/pocketbase/pocketbase)
 * [⁠CS Chromium](https://cs.chromium.org/) - Chromium Code Search
-* [Caddy](https://caddyserver.com/) - Web Server
+* [Caddy](https://caddyserver.com/) - Web Server / [GitHub](https://github.com/caddyserver/caddy)
 * [Directory Lister](https://directorylister.com/) - Web-Based Directory Listing
 * [BawkBox](https://bawkbox.com/) - Website Widgets
 * [The SSO Wall of Shame](https://sso.tax/) - Vendors without Built-in SSO
@@ -870,7 +869,6 @@
 * [OpenUI](https://github.com/wandb/openui) - Make UI with AI
 * [Contentdrips](https://contentdrips.com/) or [CreatorKit](https://creatorkit.com/) - Brand Design Tools
 * [SuperNova](https://www.supernova.io/) - Design System Manager
-* [Interplay](https://interplayapp.com/) - Product Design Tool
 * [StoryBook](https://storybook.js.org/), [Akira](https://github.com/akiraux/Akira) or [Mockend](https://mockend.com/) - UI Development Tools
 * [UI Design Daily](https://www.uidesigndaily.com/) or [UIVerse](https://uiverse.io/) - Free UI Design Resources
 * [Open UI](https://open-ui.org/) - Open Standard UI
@@ -963,6 +961,7 @@
 * ↪️ **[SVG / Vector Icons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_svg_icons)**
 * ↪️ **[Vector Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_painting_.2F_drawing)**
 * [Method](https://editor.method.ac/), [SVG.wtf](https://svg.wtf/), [FreeSVGEditor](https://freesvgeditor.com/), [DrawSVG](https://drawsvg.org/drawsvg.html), [Boxy SVG](https://boxy-svg.com/), [Mossaik](https://mossaik.app/), [SVG Editor](https://editor.svg-gen.com/) or [SVG Viewer](https://www.svgviewer.dev/) - SVG Editors / Viewers
+* [⁠3DSVG](https://3dsvg.design/) - 3D SVG Editor
 * [SVGFilters](https://svgfilters.com/) - SVG Filter Builder
 * [Crayon](https://designstripe.com/crayon) or [SVGArtista](https://svgartista.net/) - SVG Animation Tools
 * [FrameSVG](https://framesvg.romelium.cc/) - GIF to Animated SVG / [GitHub](https://github.com/Romelium/FrameSVG)
@@ -1081,11 +1080,11 @@
 * ⭐ **[Cloudflare Pages](https://pages.cloudflare.com/)** - 20K Files (25MB Each) / Unlimited / [Discord](https://discord.gg/cloudflaredev)
 * ⭐ **[surge](https://surge.sh/)** - Unlimited / Unlimited / [X](https://x.com/surge_sh) / [GitHub](http://github.com/sintaxi/surge)
 * ⭐ **[GitHub Pages](https://docs.github.com/en/pages)** - 1GB (100MB per File) / 100GB
+* ⭐ **[Codeberg Pages](https://codeberg.page/)** - 750MB / Unlimited / Only Open-Source Projects / [Request Storage](https://codeberg.org/Codeberg-e.V./requests)
 * ⭐ **[Sourcehut Pages](https://srht.site/)** - 1GB / Unlimited
-* ⭐ **[Neocities](https://neocities.org/)** - 1GB / 200GB / No Custom Domain
+* ⭐ **[Neocities](https://neocities.org/)** - 1GB / 200GB / No Custom Domain / [Free Tier Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/neocities.md)
 * ⭐ **[nekoweb](https://nekoweb.org/)** - 500MB, 5K Files / Unlimited / [Bandwidth Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/nekoweb.md)
 * [Web 1.0 Hosting](https://web1.0hosting.net/) - 100MB / Unlimited
-* [Codeberg Pages](https://codeberg.page/) - 750MB / Unlimited / Only Open-Source Projects
 * [⁠pages.gay](https://pages.gay/) - Unspecified / Unspecified
 * [⁠AppWrite](https://appwrite.io/) - 2GB Stage / 5GB
 * [BitBucket](https://support.atlassian.com/bitbucket-cloud/docs/publishing-a-website-on-bitbucket-cloud/) - 1GB (Hard Limit 4GB) / Unlimited / No Custom Domain

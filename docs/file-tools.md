@@ -287,6 +287,7 @@
 * [croc](https://github.com/schollz/croc) - Online / Windows, Mac, Linux, Android / [GUI](https://github.com/howeyc/crocgui)
 * [LANDrop](https://landrop.app/) - Local / All Platforms / [Discord](https://discord.com/invite/5adm6sPugT) / [X](https://x.com/LANDropApp)
 * [NahrajSoubor](https://new.nahrajsoubor.cz/) - Online / Web
+* [FilePizza](https://file.pizza/) - Online / Web
 * [IPFS](https://ipfs.tech/) - Desktop / Mobile Transfer / [Discord](https://discord.gg/vj7qWuAyHY)
 * IPFS Tools - [Resources](https://awesome.ipfs.tech/), [2](https://github.com/ipfs/awesome-ipfs) / [Extension](https://github.com/ipfs/ipfs-companion) / [Desktop](https://github.com/ipfs/ipfs-desktop) / [IPFS Cluster](https://ipfscluster.io/)
 * [aQRoss](https://aqross.app/) / Web or [qrcp](https://qrcp.sh/) / Share Files Using QR Codes / Windows, Mac, Linux / [GitHub](https://github.com/claudiodangelis/qrcp)
@@ -317,7 +318,7 @@
 
 ***
 
-* 🌐 **[PolyUpload File Host Index](https://github.com/spel987/PolyUploader?tab=readme-ov-file#-hosts)**
+* 🌐 **[Awesome File Hosts](https://fhhy.vercel.app/)** / [GitHub](https://github.com/FahadBinHussain/awesome-file-hosts) or **[PolyUpload File Hosts](https://github.com/spel987/PolyUploader?tab=readme-ov-file#-hosts)** - File Host Indexes
 * ↪️ **[Video File Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_video_file_hosts)**
 * ↪️ **[Image File Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_image_hosts)**
 * ⭐ **[Gofile](https://gofile.io/)** - 100GB Monthly / Unlimited / 10 Days After Last Download / [Manager Export](https://greasyfork.org/en/scripts/515250)
@@ -339,7 +340,6 @@
 * [DesiUpload](https://desiupload.co/) - 15 Days (2GB per file / 30 Days w/ Account)
 * [FileDitch](https://new.fileditch.com/) / [Discord](https://discord.gg/gACnap5kKx) or [SendGB](https://www.sendgb.com/) - 25GB / 90 Days
 * [hostb](https://hostb.org/) - Unlimited / 30 Days After Last Download / [Source Code](https://r-w-x.org/r/hostb.git)
-* [udrop](https://www.udrop.com/) - 5GB / 50GB on Signup / Forever
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Requires Sign-Up
 * [Ranoz](https://ranoz.gg/) - 20GB / 30 Days After Last Download
 * [Fast File](https://fast-file.com/) - 10GB / 20 Days After Last Download / [Status](https://status.fast-file.com/)
@@ -365,13 +365,12 @@
 * [Tempcloud](https://temp.kotol.cloud/) - 10GB / 3 Days
 * [GrosFichiers](https://www.grosfichiers.com/) - 10GB / 14 Days
 * [FileFast](https://file.fast/) - 5GB / Unlimited
-* [Akira Box](https://akirabox.com/), [2](https://akirabox.to/) - 20GB Free / 30 Days After Last Download / Requires Sign-Up
+* [Akira Box](https://akirabox.com/), [2](https://akirabox.to/) - 20GB Free / 30 Days After Last Download
 * [Imagenetz](https://www.imagenetz.de/?setLang=en) - 5GB / 30 Days After Last Download
-* [⁠Nerushare](https://nerushare.ovh/) - 5GB / Forever
 * [FilePort](https://fileport.io/) - 5GB / 7 Days
-* [MegaUp](https://megaup.net/) - 5GB / 60 Days
+* [MegaUp](https://megaup.net/) - 5GB / 30 Days
 * [⁠DataVaults](https://datavaults.co/) - 5GB / 15GB / 7 Days After Last Download / Requires Sign-Up
-* [FileGo](https://filego.at/) - 5GB / 90 Days After Last Download
+* [Filegoat](https://filego.at/) - 5GB / 90 Days After Last View
 * [Bestfile](https://bestfile.io/) - 5GB / 80 Days After Last Download
 * [ufile.io](https://ufile.io/) - 5GB / 30 Days
 * [Internxt Send](https://send.internxt.com/) - 5GB / 15 Days

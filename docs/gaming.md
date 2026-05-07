@@ -112,7 +112,6 @@
 * [SideQuest](https://sidequestvr.com/) - VR Sideloading Platform / [Subreddit](https://www.reddit.com/r/sidequest)
 * [VRCArena](https://www.vrcarena.com/) - Resources for Social VR Games / [Discord](https://discord.gg/UVs9V58)
 * [UEVR](https://uevr.io/) - Convert Unreal Engine Games to VR
-* [Oculess](https://github.com/basti564/Oculess) - Remove Oculus Quest Account Requirements & Telemetry
 * [ALVR](https://github.com/alvr-org/ALVR) - Stream VR Games from PC to Headset
 
 ***
@@ -223,6 +222,7 @@
 * [FreeCiv](https://www.freeciv.org/) - Civilization Remake / [GitHub](https://github.com/freeciv)
 * [⁠Widelands](https://www.widelands.org/) - Open-Source The Settlers II Successor / [GitHub](https://github.com/widelands/widelands)
 * [CannonBall](https://github.com/djyt/cannonball) - OutRun Remake
+* [KeeperFX](https://keeperfx.net/) - Fan-Made Dungeon Keeper Remake / [Discord](https://discord.gg/hE4p7vy2Hb) / [GitHub](https://github.com/dkfans/keeperfx)
 * [Forge](https://card-forge.github.io/forge/) - Magic: The Gathering Fangame / [GitHub](https://github.com/Card-Forge/forge)
 * [EDOPro](https://projectignis.github.io/) - Yu-Gi-Oh! TCG Fangame / [Discord](https://discord.gg/ygopro-percy) / [GitHub](https://github.com/ProjectIgnis)
 * [⁠Hyper Dragon Ball Z](https://discord.gg/W85hmYcJB9) - Fan-Made Dragon Ball Z Inspired Fighting Game / Mugen + Ikemen GO
@@ -383,6 +383,7 @@
 * [notUltraNX](https://not.ultranx.ru/en) - ROMs / Switch / Requires Sign-Up
 * [ROMSim](https://romsim.com/) - ROMs / Switch / [Discord](https://discord.gg/Zgdhq7xDcd)
 * [ROMSLAB](https://romslab.com/) - ROMs / Switch
+* [NXbrew](https://nxbrew.net/) - ROMs / Switch
 * [GNS](https://rentry.co/FMHYB64#gns) - ROMs / Switch
 * [SwitchROMS](https://switchroms.io/) - ROMs / Switch
 * [SwitchGamesMall](https://switchgamesmall.icu/), [2](https://smallgames.ch/) - ROMs / Switch
@@ -430,28 +431,30 @@
 * 🌐 **[Browser Emulator Index](https://emulation.gametechwiki.com/index.php/Emulators_on_browsers)** - List of Browser Emulators
 * ↪️ **[EmulatorJS / NeptunJS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_emulatorjs_.2F_neptunjs)** - Frontends for EmulatorJS / NeptuneJS
 * ⭐ **[GAM.ONL](https://gam.onl/)**, [2](https://www.retrogames.onl/) - Multi-Console
+* ⭐ **[webЯcade](https://play.webrcade.com/)** - Retro Consoles / [Discord](https://discord.gg/C4gXN2HJAv) / [GitHub](https://github.com/webrcade)
 * ⭐ **[Console Living Room](https://archive.org/details/consolelivingroom)** - Multi-Console / Archive.org
+* ⭐ **[DOS Zone](https://dos.zone/)** - Retro PC Browser Emulators / [Discord](https://discord.com/invite/hMVYEbG)
 * ⭐ **[Telemelt](https://telemelt.com/)** - Multiplayer Browser Emulator
 * ⭐ **[RetroArch Web](https://web.libretro.com/)** - Multi-Console
 * ⭐ **[Play Classic Games](https://playclassic.games/)** - Retro Consoles / Multiple-Emulators
 * ⭐ **[EmulatorJS](https://demo.emulatorjs.org/)** - Multi-Console / [Supported Systems](https://emulatorjs.org/docs/systems) / [Discord](https://discord.gg/6akryGkETU) / [GitHub](https://github.com/EmulatorJS/EmulatorJS)
 * ⭐ **[Eclipse](https://eclipseemu.me/play/)** - Multi-Console / [Discord](https://discord.gg/dTCnM2r5e5)
+* [⁠FreebieGames](https://freebie.games/) - Retro Consoles / Multiple-Emulators
 * [AfterPlay](https://afterplay.io/play/recently-played) - Multi-Console / [Discord](https://discord.gg/PtgKse35q7)
 * [rom.so](https://rom.so/) - Multi-Console / Requires Sign-Up
 * [Online Retro Games](https://www.vincenzoscarpa.it/emuwiki/pmwiki/pmwiki.php?n=OnlineGames.OnlineGames&lng=en) - Retro Consoles / Archive.org
-* [⁠FreebieGames](https://freebie.games/) - Retro Consoles / Multiple-Emulators
 * [RetroGames](https://www.retrogames.cz/) - Retro Consoles
 * [Retro Games Bot](https://retrogamesbot.com/) - Retro Consoles
 * [Aurora](https://skitty.xyz/aurora/) - Retro Consoles / [Discord](https://discord.gg/UAf7Bad)
-* [WebRCade](https://play.webrcade.com/) - Retro Consoles / [Discord](https://discord.gg/C4gXN2HJAv) / [GitHub](https://github.com/webrcade)
 * [Vizzed](https://www.vizzed.com/) - Retro Consoles / Multiple-Emulators
 * [Online.OldGames](https://online.oldgames.sk/) - Retro Consoles / Multiple-Emulators
 * [ClassicGames](https://www.classicgames.me/) - Retro Consoles / Multiple-Emulators
 * [Virtual Consoles](https://virtualconsoles.com/) - Retro Consoles / Multiple-Emulators
+* [⁠ArcadeSpace](https://www.arcadespace.org/) - Retro Consoles / Multiple-Emulators / Sign-Up Required
 * [ClassicReload](https://classicreload.com/) - Retro Consoles / Multiple-Emulators
 * [Emupedia](https://emupedia.net/beta/) - Retro Consoles
 * [yag.im](https://yag.im/) - Retro Edutainment + Adventure Game Browser Emulator / Signup Required / [Discord](https://discord.gg/N4QavHBBAG) / [GitHub](https://github.com/yag-im)
-* [DOS Games Archive](https://www.dosgamesarchive.com/), [Best DOS Games](https://bestdosgames.com/), [Best Old Games](https://www.bestoldgames.net/), [DOSGames](https://dosgames.com/) or [RGB Classic Games](https://www.classicdosgames.com/) - DOS Browser Emulators
+* [DOS Games Archive](https://www.dosgamesarchive.com/), [Best DOS Games](https://bestdosgames.com/), [Best Old Games](https://www.bestoldgames.net/), [DOSGames](https://dosgames.com/), [RGB Classic Games](https://www.classicdosgames.com/), [DosGames](https://dosgames.com/), [WePlayDOS](https://weplaydos.games/) / [Discord](https://discord.gg/82TAR6fJ8g) / [GitHub](https://github.com/muditjuneja/weplaydos.games) or [PlayDOSGames](https://www.playdosgames.com/) - DOS Browser Emulators
 * [⁠Meowio](https://www.information-superhighway.net/meowio/) - NES Browser Emulator / Custom Music + Sounds
 * [SNESFun](https://www.snesfun.com/) - SNES Browser Emulator / Multiplayer
 * [PS1FUN](https://www.ps1fun.com/) - PS1 Browser Emulator
@@ -464,7 +467,6 @@
 * [Homebrew Hub](https://hh.gbdev.io/) - Homebrew ROM Emulator / NES / Gameboy
 * [Tiny8bit](https://floooh.github.io/tiny8bit/) - Vintage 8-Bit / [GitHub](https://github.com/floooh/chips-test)
 * [RetroFab](https://itizso.itch.io/retrofab) or [LCD Games](http://bdrgames.nl/lcdgames/) / [GitHub](https://github.com/BdR76/lcdgame.js) - Retro LCD Game Emulators
-* [DosGames](https://dosgames.com/), [DOSZone](https://dos.zone/) / [Discord](https://discord.com/invite/hMVYEbG), [WePlayDOS](https://weplaydos.games/) / [Discord](https://discord.gg/82TAR6fJ8g) / [GitHub](https://github.com/muditjuneja/weplaydos.games) or [PlayDOSGames](https://www.playdosgames.com/) - DOS Browser Emulators
 
 ***
 
@@ -594,6 +596,7 @@
 * [Board Game Online](https://www.boardgame-online.com/) - Online Board Games
 * [Board Game Arena](https://en.boardgamearena.com/) - Online Board Games / Requires Sign-Up
 * [MahjongFun](https://www.mahjongfun.com/), [⁠Voxjong](https://voxjong.com/), [Mahjong 4 Friends](https://mahjong4friends.com/), [Classic Mahjong](https://classic-mahjong.com/) or [The Mahjong](https://themahjong.com/) - Mahjong Games
+* [⁠Mahjong Solitaire](https://mahjong-solitaire.app/) - Mahjong Solitaire 
 * [lishogi.org](https://lishogi.org/) - Shogi / [Discord](https://discord.gg/YFtpMGg3rR) / [GitHub](https://github.com/WandererXII/lishogi)
 * [Online-Go.com](https://online-go.com/) - Multiplayer GO / [GitHub](https://github.com/online-go)
 * [lidraughts.org](https://lidraughts.org/) - Multiplayer Checkers / [GitHub](https://github.com/RoepStoep/lidraughts)
@@ -741,6 +744,7 @@
 * [Friv](https://www.friv.com/) - Browser Game Aggregator
 * [⁠GamePuma](https://gamepuma.com/) - Browser Game Aggregator
 * [RoundGames](https://www.roundgames.com/) - Browser Game Aggregator
+* [⁠Agame](https://www.agame.com/) - Browser Game Aggregator
 * [Flash by Night](http://www.flashbynight.com/) - Browser Game Aggregator
 * [FlashLegacy](https://www.flashlegacy.com/) - Browser Game Aggregator
 * [iogames.space](https://iogames.space/) - Browser Game Aggregator
@@ -749,6 +753,7 @@
 * [TheBestarcade](https://html5.thebestarcadescript.com/) - Browser Game Aggregator
 * [AlbinoBlackSheep](https://www.albinoblacksheep.com/games/) - Browser Game Aggregator
 * [r/WebGames](https://reddit.com/r/WebGames) - Browser Games Subreddit
+* [UB66](https://ub66.vercel.app/) - Browser Game Aggregator / Gmail Design
 * [Spatial](https://www.spatial.io/) - 3D Browser Games
 * [⁠drifted](https://www.drifted.com/) - Drifting-Focused Browser Games
 * [Curated PICO-8](https://nerdyteachers.com/PICO-8/Games/) - PICO-8 Browser Games
@@ -810,7 +815,8 @@
 * [Bloxd](https://bloxd.io/) / [Texture Editor / Assets](https://www.bloxdforge.com/) / [Discord](https://discord.com/invite/vwMp5y25RX) or [MiniBlox](https://miniblox.io/) / [Discord](https://discord.com/invite/nAwzkUJNmb) - Online Minecraft Clones
 * [Game Of Bombs](https://gameofbombs.com/) - Multiplayer Bomberman Style MMO
 * [PandaBomber](https://pandabomber.gg/) - Multiplayer Bomberman Style Game / [Discord](https://discord.gg/YFJCCxkdFZ)
-* [⁠Splatoon.io](https://splatoon.io/) - Multiplayer ⁠Splatoon Style Game
+* [⁠Splatoon.io](https://splatoon.io/) - ⁠Splatoon Style Game
+* [⁠RocketGoal](https://rocketgoal.io/) - Rocket-League Style Game / [Discord](https://discord.com/invite/MjHEyuhMuG)
 * [Slither.io](http://slither.com/io) - Grow the Longest Worm
 * [Make It Meme](https://makeitmeme.com/) - Meme Party Game / [Discord](https://discord.gg/t3GZmuQndv)
 * [Sigmally](https://one.sigmally.com/) / [Discord](https://discord.com/invite/4j4Rc4dQTP) or [agar.io](https://agar.io/) - Become the Biggest Circle
@@ -945,6 +951,8 @@
 ## ▷ Strategy
 
 * ⭐ **[Super Auto Pets](https://teamwood.itch.io/super-auto-pets)** - Pet Battle Game / [Resources](https://www.groundedsap.co.uk/)
+* [⁠Littlewargame](https://littlewargame.com/) - Browser-Based RTS
+* [⁠Feudal Wars](https://feudalwars.net/) - Browser-Based RTS / [Discord](https://discord.com/invite/SQFMnMK)
 * [KDice](https://www.kdice.com/) - Multiplayer Dice War
 * [OpenFront](https://openfront.io/) / [Discord](https://discord.gg/k22YrnAzGp) or [Territorial](https://territorial.io/) - Conquest / War Style Games
 * [Warzone](https://www.warzone.com/) - RISK Clone
@@ -985,6 +993,7 @@
 * [The Impossible Quiz](https://www.newgrounds.com/portal/view/365143) - Classic Quiz Browser Game 
 * [TriviaDuel](https://www.triviaduel.com/), [Fun Trivia](https://www.funtrivia.com/), [Sporcle](https://www.sporcle.com/), [uQuiz](https://uquiz.com/), [ARealMe](https://www.arealme.com/) or [JetPunk](https://www.jetpunk.com/) - Quiz / Trivia
 * [The Re-Ride](https://thereri.de/) - You Don't Know Jack: The Ride Remake / [Discord](https://discord.com/invite/89sgMHnDRB)
+* [Salty Trivia](https://haitouch.itch.io/salty-trivia) - Comedy Style Trivia Game / [Discord](https://discord.gg/95JWgy9gue)
 * [FlightGuesser](https://flightguesser.com/) - Flight Path Guessing Game
 * [Akinator](https://en.akinator.com/) - 20 Questions
 * [Amountle](https://www.amountle.dev/) - Daily Estimation Game
@@ -997,6 +1006,7 @@
 * [⁠AniGuessr](https://aniguessr.com/) - Anime Guessing Game
 * [AMQ](https://animemusicquiz.com/) - Anime Theme Song Guessing
 * [ConnectTheStars](https://connectthestars.xyz/) or [Movie To Movie](https://movietomovie.com/) - Connect Stars through Movies
+* [⁠Toon Tone](https://toon-tone.vercel.app/) - Cartoon Character Color Tone Guessing Game
 * [Play Football](https://playfootball.games/) - Football Quizzes / Trivia
 * [The Wiki Game](https://www.thewikigame.com/) or [WikiRacer](https://wikiracer.io/) - Wikipedia Exploration Games / [Automation Tool](https://www.sixdegreesofwikipedia.com/), [2](https://gitlab.com/johanbluecreek/wikiracer)
 * [⁠FactorDay](https://factorday.com/) - Daily Wikipedia-Based Trivia / Crosswords
@@ -1066,7 +1076,7 @@
 * [⁠NYCGuessr](https://nycguessr.vercel.app/) - NYC Traffic Cam GeoGuessr
 * [LostGamer](https://lostgamer.io/) - Video Game GeoGuessr
 * [GTA V GeoGuessr](https://gta-geoguesser.com/) - GTA V GeoGuessr
-* [TimeGuessr](https://timeguessr.com/) - Historical Time-period GeoGuessr
+* [Time Portal](https://www.eggnog.ai/entertimeportal), [⁠WenWare](https://wen-ware.com/) or [TimeGuessr](https://timeguessr.com/) - Historical Time-Period GeoGuessr
 * [LanguageGuessr](https://languageguessr.io/) - Language GeoGuessr / Requires Sign-Up
 * [Artifact Guesser](https://artifactguesser.com/) or [GeoArtwork](https://artsandculture.google.com/experiment/geo-artwork/wgEPVBAUiRVlEQ) - Guess Origins of Cultural Artifacts
 * [MapGenerator](https://map-generator-nsj.vercel.app/) - GeoGuessr Map Generator

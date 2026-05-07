@@ -109,6 +109,7 @@
 
 ## ▷ Assistance / Charity
 
+* ⭐ **[GiveWell](https://www.givewell.org/)**, [CharityNavigator](https://www.charitynavigator.org/), [Effective Altruism Funds](https://funds.effectivealtruism.org/), [Arab.org](https://arab.org/), [CharityWatch](https://www.charitywatch.org/) or [ProPublica](https://projects.propublica.org/nonprofits/) - Charity Ratings / Resources
 * ⭐ **[⁠FindHelp](https://www.findhelp.org/)** - Find Free or Reduced-Cost Resources / US Only
 * [⁠Single Mother Guide](https://singlemotherguide.com/) - Single Mother Government Benefits Guide / US Only
 * [Be My Eyes](https://www.bemyeyes.com/) - Assist the Visually Impaired
@@ -116,7 +117,6 @@
 * [r/Homeless](https://www.reddit.com/r/homeless/) - Homeless Assistance Subreddit
 * [r/Random_Acts_Of_Pizza](https://www.reddit.com/r/Random_Acts_Of_Pizza/) - Pizza Donation Subreddit
 * [TinyKitten](https://tinykittens.com/) - Kitten Rescue / Donation
-* [CharityNavigator](https://www.charitynavigator.org/), [Arab.org](https://arab.org/), [CharityWatch](https://www.charitywatch.org/), [ProPublica](https://projects.propublica.org/nonprofits/) or [GiveWell](https://www.givewell.org) - Charity Ratings / Resources
 * [Free Rice](https://freerice.com/) - Earn Rice for the World Food Programme / Trivia
 * [⁠e-NABLE](https://enablingthefuture.org/) - Volunteer Own 3D Printer for use in Prosthetic Limb Printing
 
@@ -269,6 +269,7 @@
 * ↪️ **[Concerts / Live Shows](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25B7_concerts_.2F_live_shows)**
 * ⭐ **[Atlas Obscura](https://www.atlasobscura.com/)** / [Mobile](https://app.atlasobscura.com/), [Wikivoyage](https://www.wikivoyage.org) or [WikiTravel](https://wikitravel.org/) - Travel Guides
 * [⁠CozyCozy](https://www.cozycozy.com/) - Compares 100+ Travel Accommodation Sites 
+* [⁠Cultural Atlas](https://culturalatlas.sbs.com.au/) - World Culture / Religion Guides
 * [⁠Ikuyo](https://ikuyo.kenrick95.org/) - Trip / Travel Planning
 * [Roadside America](https://www.roadsideamerica.com/) - Roadside Attraction Guides
 * [⁠IMAX Guide](https://143190.xyz/) - Database of IMAX Theatres / [GitHub](https://github.com/r-imax/imaxguide)
@@ -328,6 +329,7 @@
 * [gpx.studio](https://gpx.studio/) - GPX File Editor
 * [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software
 * [Mobac](https://mobac.sourceforge.io/) - Mobile Atlas Creator
+* [⁠Opportunity Atlas](https://www.opportunityatlas.org/) - Interactive Future Success Impact Map
 * [Freedom House](https://freedomhouse.org/explore-the-map) or [Civicus Monitor](https://monitor.civicus.org/) - Freedom Maps
 * [Trans Rights Map](https://transrightsmap.tgeu.org/) - Trans Legal Rights Map / Policy Tracking
 * [Erin's Informed Consent HRT Map](https://redd.it/d6p05q) - Informed Consent HRT Clinics Map
@@ -708,6 +710,7 @@
 * [Calories-In](https://calories-in.com/) - Meal Prep & Planning / Web
 * [Nosh](https://nosh.tech/) - Food Management App
 * [Edamam](https://www.edamam.com/) - Food-Related APIs
+* [⁠CaffeineHealth](https://github.com/ohuc/CaffeineHealth) - Caffeine Intake Calculator / Android
 * [Child Nutrition](https://www.coursera.org/learn/childnutrition) - Child Nutrition / Cooking Course
 * [Examine.com](https://examine.com/) - Supplement & Nutrition Analysis
 * [MyFoodData](https://www.myfooddata.com) or [Spelt](https://spe.lt/) - Food Nutrition Info
@@ -766,7 +769,7 @@
 * [⁠FreeLife](https://rentry.org/FreeLife) - Porn Blocking Guide
 * [Plucky](https://pluckyfilter.com/) - Content Filter
 * [CleanBrowsing](https://cleanbrowsing.org/filters/) - Family DNS Filters
-* [cringeMDb](https://cringemdb.com/), [Age Rating JuJu](https://www.ageratingjuju.com/), [CommonSenseMedia](https://www.commonsensemedia.org/) or [unconsenting media](https://www.unconsentingmedia.org) - Find SFW Movies
+* [cringeMDb](https://cringemdb.com/), [Age Rating JuJu](https://www.ageratingjuju.com/), [CommonSenseMedia](https://www.commonsensemedia.org/) or [Unconsenting Media](https://www.unconsentingmedia.org) - Find SFW Movies
 * [Movie Parser](https://raskie.com/post/practical-ai-autodetecting-nsfw) - Detect NSFW Scenes in Movies
 * [Wingman](https://github.com/wingman-jr-addon/wingman_jr) or [HaramBlur](https://haramblur.com/) / [2](https://linktr.ee/haramblur) - Block NSFW Images
 * [SAA Recovery](https://saa-recovery.org/), [Cosa Recovery](https://cosa-recovery.org/) or [Smart Recovery](https://www.smartrecovery.org/) - Find Sex Addiction Meetings
@@ -1052,6 +1055,7 @@
 * [⁠CarSized](https://www.carsized.com/) - Vehicle Size Comparisons
 * [⁠INCIDecoder](https://incidecoder.com/) - Skincare Ingredients Search / Database
 * [Models.dev](https://models.dev/) - AI Model Database / Pricing / [GitHub](https://github.com/anomalyco/models.dev)
+* [AI Leaks](https://discord.gg/MFCU6sKSNs) - AI Leaks / Feature News Server
 * [Build List](https://buildlist.org/) or [USA Parts Made Fast](https://partsmadefast.com/) / [X](https://x.com/mattfreed) - On-Demand Online Manufacturers
 * [Boycott Buddy](https://www.boycottbuddy.app/) - Identify Brands with Unethical Practices (child labor, slave labor, etc.)
 
@@ -1080,7 +1084,7 @@
 * [⁠WhereIsMyRam](https://whereismyram.com/) - DDR5 RAM Price Tracker
 * [NewMaxx's SSD Site](https://borecraft.com/) / [Doc](https://docs.google.com/spreadsheets/d/1ExFofRZOk9BP2-gp0jtMHPmnStkHlkG_3KmqQNgwyBc/), [SSD Tester](https://ssd-tester.com/) or [JohnnyLucky](https://www.johnnylucky.org/data-storage/ssd-database.html) - SSD Buying Comparisons
 * [Disk Prices](https://diskprices.com/), [⁠PricePerGig](https://pricepergig.com/), [List of Disks](https://www.listofdisks.com/) or [⁠TerabyteDeals](https://terabytedeals.com/) - Disk Price Trackers
-* [Jarrod's Tech](https://jarrods.tech/resources/) or [SuggestALaptop](https://discord.gg/pes68JM) / [Guide](https://docs.google.com/document/d/1_Oh9M4zrBB1hx3B0Yw32-evH4bqTmwNM5DJ12lWvA0w/) (discord) - Laptop Suggestions
+* [SuggestALaptop](https://discord.gg/pes68JM) (discord) - Laptop Suggestions / [Guide](https://docs.google.com/document/d/1_Oh9M4zrBB1hx3B0Yw32-evH4bqTmwNM5DJ12lWvA0w/)
 * [EveryMac](https://everymac.com/) - Mac Info Database
 * [EloShapes](https://www.eloshapes.com/), [Sensor.fyi](https://sensor.fyi/info/), [RocketJumpNinja](https://www.rocketjumpninja.com/) or [r/MouseReview](https://www.reddit.com/r/MouseReview/) / [Discord](https://discord.gg/mousereview) - Mouse Buying Guides
 * [⁠Cybenetics PSU Benchmarks](https://www.cybenetics.com/index.php?option=psu-performance-database) or [PSU Tier List](https://psutierlist.org/) / [Document](https://docs.google.com/spreadsheets/d/1akCHL7Vhzk_EhrpIGkz8zTEvYfLDcaSpZRB6Xt6JWkc/) / [Discord](https://discord.gg/qkrJy3hDa8) - PSU Buying Guides / Benchmarks
@@ -1274,7 +1278,7 @@
 * [Stretchly](https://hovancik.net/stretchly) - Break Reminders
 * [skāl.es](https://www.skal.es/) - Work Life Balance Tracking
 * [BreakMessage](https://breakmessage.com/) - Online Break Reminders
-* [Plucky](https://pluckyfilter.com/), [⁠one sec](https://one-sec.app/), [Block Site](https://webextension.org/listing/block-site.html), [LeechBlock](https://www.proginosko.com/leechblock), [uBlacklist](https://ublacklist.github.io/docs) or [Forest](https://addons.mozilla.org/en-US/firefox/addon/forest-stay-focused-be-present/) / [Chrome](https://chrome.google.com/webstore/detail/forest-stay-focused-be-pr/kjacjjdnoddnpbbcjilcajfhhbdhkpgk) - Site Blocking Extensions
+* [Plucky](https://pluckyfilter.com/), [⁠one sec](https://one-sec.app/), [Block Site](https://webextension.org/listing/block-site.html), [LeechBlock](https://www.proginosko.com/leechblock), [uBlacklist](https://ublacklist.github.io/docs) / [GitHub](https://github.com/iorate/ublacklist) or [Forest](https://addons.mozilla.org/en-US/firefox/addon/forest-stay-focused-be-present/) / [Chrome](https://chrome.google.com/webstore/detail/forest-stay-focused-be-pr/kjacjjdnoddnpbbcjilcajfhhbdhkpgk) - Site Blocking Extensions
 * [Time Tracker](https://www.wfhg.cc/) - Browser Time Tracking Extension / [GitHub](https://github.com/sheepzh/time-tracker-4-browser)
 * [Comicsflow](https://comicsflow.com/) - Comic / Manga Project Manager
 
@@ -1372,7 +1376,7 @@
 * [Random Comic Generator 3.0](https://explosm.net/rcg) - Explosm Random Comic Generator
 * [Pulp-O-Mizer](https://thrilling-tales.webomator.com/derange-o-lab/pulp-o-mizer/pulp-o-mizer.html) - Vintage Magazine Cover Generator
 * [Chris Shier](https://www.csh.bz/) - Canvas Animations / GIFs
-* [THE 88×31 ARCHIVE](https://hellnet.work/8831/), [Babamos 88x31](https://cyber.dabamos.de/88x31/index.html), [88x31 Buttons](https://anlucas.neocities.org/88x31Buttons) or [Web Badges World](https://web.badges.world/) - Oldschool 88x31 Web Badges
+* [THE 88×31 ARCHIVE](https://hellnet.work/8831/), [Babamos 88x31](https://cyber.dabamos.de/88x31/index.html), [matdoes](https://matdoes.dev/buttons), [88x31 Buttons](https://anlucas.neocities.org/88x31Buttons) or [Web Badges World](https://web.badges.world/) - Oldschool 88x31 Web Badges
 * [r/Place Atlas](https://place-atlas.stefanocoding.me/) - r/Place Info
 * [LameBook](https://www.lamebook.com/) - Funny Facebook Statuses
 * [TinyFox](https://tinyfox.dev/image-list/) - Random Animal Images
@@ -1502,6 +1506,7 @@
 * [DrawAurora](https://www.drawaurora.com/) - Draw Auroras
 * [Neonflames](https://29a.ch/sandbox/2011/neonflames/) - Draw Nebulas
 * [Leapy Grid](https://codepen.io/Godje/full/mOzpEY/) - Play with Rainbow Grid
+* [⁠Beat Battle](https://beat-battle.net/) - Browser Beat Battle Game / [Discord](https://discord.com/invite/beatbattle)
 * [Pianos.pub](https://pianos.pub/) - Find Public Pianos
 * [danielx](https://danielx.net/composer/) or [AMS](https://flyx.org/ams/) - Mario Paint Composer Ports / [Archive](https://archive.org/details/mariopaintcomposer_201609)
 * [Typatone](https://www.typatone.com/) - Play Music by Typing
@@ -1686,6 +1691,7 @@
 * [The Red Button](https://clicktheredbutton.com/) - Random Video / Song Generator
 * [Visit A Random Website](https://visitarandomwebsite.com/) - Find Random Sites
 * [BoredButton](https://www.boredbutton.com/) - Find Random Sites
+* [Mx Tynehorne’s Cabinet](https://satyrs.eu/linkroll) - Find Random Sites
 * [The Useless Web](https://theuselessweb.com/), [2](https://theuselessweb.site/) - Find Random Sites
 * [JumpStick](https://jumpstick.app/) - Find Random Sites
 * [Trilzo](https://www.trilzo.com/) - Find Random Sites

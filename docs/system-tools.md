@@ -39,7 +39,7 @@
 
 ## ▷ System Tweaks
 
-* ⭐ **[Windhawk](https://windhawk.net/)**, [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html) or [Winaero](https://winaero.com/) / [2](https://winaerotweaker.com/) - System Tweaking Tools / **[Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/general-tweak-warning.md)**
+* ⭐ **[Windhawk](https://windhawk.net/)** / [Discord](https://discord.com/invite/windhawk-923944342991818753) / [GitHub](https://github.com/ramensoftware/windhawk), [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html) or [Winaero](https://winaero.com/) / [2](https://winaerotweaker.com/) - System Tweaking Tools / **[Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/general-tweak-warning.md)**
 * ⭐ **[StartAllBack](https://www.startallback.com/)** - Tweaked Start Menu & Taskbar / Windows 11 / [Fix](https://rentry.co/FMHYB64#startxback)
 * ⭐ **[EverythingToolbar](https://github.com/srwi/EverythingToolbar)** - Everything Search in Taskbar
 * ⭐ **[Open Shell](https://open-shell.github.io/Open-Shell-Menu/)** / [Customizable Skin](https://github.com/bonzibudd/Fluent-Metro) or [StartIsBack](https://startisback.com/) / [Fix](https://rentry.co/FMHYB64#startxback) - Classic Start Menus
@@ -442,7 +442,7 @@
 
 ## ▷ App Themes
 
-* ⭐ **[Dracula](https://draculatheme.com/)** / [Discord](https://discord.com/invite/yDcFsrYuq9) or **[Catppuccin](https://catppuccin.com/)** / [Discord](https://discord.gg/r6Mdz5dpFc) - Custom App Themes
+* ⭐ **[Catppuccin](https://catppuccin.com/)** / [Discord](https://discord.gg/r6Mdz5dpFc) or **[Dracula](https://draculatheme.com/)** / [Discord](https://discord.com/invite/yDcFsrYuq9) - Custom App Themes
 * [Rosé Pine](https://rosepinetheme.com/) / [Discord](https://discord.gg/r6wf35KVJW), [Aura Theme](https://github.com/daltonmenezes/aura-theme) or [theme.park](https://theme-park.dev/) - Custom App Themes
 * [Totally Awesome List](https://forum.spacehey.com/topic?id=94545) - Old School App Themes
 * [Pokemon Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokémon Terminal Themes

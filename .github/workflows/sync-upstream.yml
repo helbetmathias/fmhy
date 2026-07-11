@@ -1,0 +1,42 @@
+name: Sync with upstream
+
+on:
+  schedule:
+    # Run every day at 03:17 UTC.
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-upstream-main
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    if: github.repository != 'fmhy/edit'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout fork
+        uses: actions/checkout@v6
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Merge upstream changes
+        env:
+          UPSTREAM_REPOSITORY: fmhy/edit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote add upstream "https://github.com/${UPSTREAM_REPOSITORY}.git"
+          git fetch upstream main
+
+          if git merge-base --is-ancestor upstream/main HEAD; then
+            echo "The fork is already up to date."
+            exit 0
+          fi
+
+          git merge --no-edit upstream/main
+          git push origin HEAD:main

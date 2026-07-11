@@ -2,151 +2,153 @@ import type { Theme } from '../types'
 
 export const monochromeTheme: Theme = {
   name: 'monochrome',
-  displayName: 'Mathy',
-  preview: 'linear-gradient(135deg, #000000 50%, #ffffff 50%)',
+  displayName: 'Mathy Dark',
+  preview: 'linear-gradient(135deg, #0d0f12 50%, #8bc5ff 50%)',
   modes: {
     light: {
       brand: {
-        1: '#000000',
-        2: '#1a1a1a',
-        3: '#333333',
-        soft: '#666666'
+        1: '#245f90',
+        2: '#3477ad',
+        3: '#17476e',
+        soft: '#a9d4f5'
       },
-      bg: '#FFFFFF',
-      bgAlt: '#F5F5F5',
-      bgElv: 'rgba(255, 255, 255, 0.95)',
-      bgMark: '#E0E0E0',
+      bg: '#F6F7F9',
+      bgAlt: '#FFFFFF',
+      bgElv: 'rgba(255, 255, 255, 0.96)',
+      bgMark: '#E5E9EF',
       text: {
-        1: '#000000',
-        2: '#333333',
-        3: '#808080'
+        1: '#171A1F',
+        2: '#46505D',
+        3: '#6F7A89'
       },
       button: {
         brand: {
-          bg: '#000000',
-          border: '#000000',
+          bg: '#245F90',
+          border: '#245F90',
           text: '#FFFFFF',
-          hoverBorder: '#333333',
+          hoverBorder: '#3477AD',
           hoverText: '#FFFFFF',
-          hoverBg: '#333333',
-          activeBorder: '#000000',
+          hoverBg: '#3477AD',
+          activeBorder: '#17476E',
           activeText: '#FFFFFF',
-          activeBg: '#000000'
+          activeBg: '#17476E'
         },
         alt: {
-          bg: '#808080',
-          text: '#FFFFFF',
-          hoverBg: '#666666',
+          bg: '#E5E9EF',
+          text: '#27313D',
+          hoverBg: '#D5DCE5',
+          hoverText: '#171A1F'
+        }
+      },
+      customBlock: {
+        info: {
+          bg: '#EDF6FD',
+          border: '#8BC5FF',
+          text: '#2C587B',
+          textDeep: '#17476E'
+        },
+        tip: {
+          bg: '#EEF8F3',
+          border: '#86D7B0',
+          text: '#35644F',
+          textDeep: '#214B39'
+        },
+        warning: {
+          bg: '#FBF6E8',
+          border: '#E6C96E',
+          text: '#665727',
+          textDeep: '#4D421D'
+        },
+        danger: {
+          bg: '#FCF0F2',
+          border: '#EA8E99',
+          text: '#713940',
+          textDeep: '#582A30'
+        }
+      },
+      selection: {
+        bg: '#C7E3F8'
+      },
+      home: {
+        heroNameColor: 'transparent',
+        heroNameBackground:
+          '-webkit-linear-gradient(120deg, #171a1f 25%, #3477ad)',
+        heroImageBackground:
+          'linear-gradient(135deg, #8bc5ff 0%, #a78bfa 100%)',
+        heroImageFilter: 'blur(52px)'
+      }
+    },
+    dark: {
+      brand: {
+        1: '#8BC5FF',
+        2: '#A9D4F5',
+        3: '#6AA9E9',
+        soft: '#355A7A'
+      },
+      bg: '#0D0F12',
+      bgAlt: '#171A1F',
+      bgElv: 'rgba(24, 27, 32, 0.96)',
+      bgMark: '#222832',
+      text: {
+        1: '#F4F6F8',
+        2: '#C1C8D2',
+        3: '#929CAA'
+      },
+      button: {
+        brand: {
+          bg: '#8BC5FF',
+          border: '#8BC5FF',
+          text: '#0D0F12',
+          hoverBorder: '#B8DCFF',
+          hoverText: '#0D0F12',
+          hoverBg: '#B8DCFF',
+          activeBorder: '#6AA9E9',
+          activeText: '#0D0F12',
+          activeBg: '#6AA9E9'
+        },
+        alt: {
+          bg: '#232830',
+          text: '#E7EBF0',
+          hoverBg: '#303743',
           hoverText: '#FFFFFF'
         }
       },
       customBlock: {
         info: {
-          bg: '#F5F5F5',
-          border: '#000000',
-          text: '#000000',
-          textDeep: '#000000'
+          bg: '#131C26',
+          border: '#365A78',
+          text: '#DCEEFF',
+          textDeep: '#8BC5FF'
         },
         tip: {
-          bg: '#F5F5F5',
-          border: '#333333',
-          text: '#1a1a1a',
-          textDeep: '#000000'
+          bg: '#112019',
+          border: '#2E6550',
+          text: '#C9F1DE',
+          textDeep: '#86D7B0'
         },
         warning: {
-          bg: '#F5F5F5',
-          border: '#666666',
-          text: '#333333',
-          textDeep: '#1a1a1a'
+          bg: '#211C10',
+          border: '#75602B',
+          text: '#F1E0A8',
+          textDeep: '#E6C96E'
         },
         danger: {
-          bg: '#F5F5F5',
-          border: '#000000',
-          text: '#000000',
-          textDeep: '#000000'
+          bg: '#261416',
+          border: '#783D44',
+          text: '#F4C7CC',
+          textDeep: '#EA8E99'
         }
       },
       selection: {
-        bg: '#CCCCCC'
+        bg: '#284B68'
       },
       home: {
-        heroNameColor: '#000000',
-        heroNameBackground: '#FFFFFF',
+        heroNameColor: 'transparent',
+        heroNameBackground:
+          '-webkit-linear-gradient(120deg, #f4f6f8 25%, #8bc5ff)',
         heroImageBackground:
-          'linear-gradient(135deg, #E0E0E0 0%, #FFFFFF 100%)',
-        heroImageFilter: 'blur(44px)'
-      }
-    },
-    dark: {
-      brand: {
-        1: '#FFFFFF',
-        2: '#E0E0E0',
-        3: '#CCCCCC',
-        soft: '#999999'
-      },
-      bg: '#000000',
-      bgAlt: '#0A0A0A',
-      bgElv: 'rgba(0, 0, 0, 0.95)',
-      bgMark: '#1A1A1A',
-      text: {
-        1: '#FFFFFF',
-        2: '#CCCCCC',
-        3: '#808080'
-      },
-      button: {
-        brand: {
-          bg: '#FFFFFF',
-          border: '#FFFFFF',
-          text: '#000000',
-          hoverBorder: '#CCCCCC',
-          hoverText: '#000000',
-          hoverBg: '#CCCCCC',
-          activeBorder: '#FFFFFF',
-          activeText: '#000000',
-          activeBg: '#FFFFFF'
-        },
-        alt: {
-          bg: '#808080',
-          text: '#000000',
-          hoverBg: '#999999',
-          hoverText: '#000000'
-        }
-      },
-      customBlock: {
-        info: {
-          bg: '#1A1A1A',
-          border: '#FFFFFF',
-          text: '#FFFFFF',
-          textDeep: '#FFFFFF'
-        },
-        tip: {
-          bg: '#1A1A1A',
-          border: '#CCCCCC',
-          text: '#E0E0E0',
-          textDeep: '#FFFFFF'
-        },
-        warning: {
-          bg: '#1A1A1A',
-          border: '#999999',
-          text: '#CCCCCC',
-          textDeep: '#E0E0E0'
-        },
-        danger: {
-          bg: '#1A1A1A',
-          border: '#FFFFFF',
-          text: '#FFFFFF',
-          textDeep: '#FFFFFF'
-        }
-      },
-      selection: {
-        bg: '#333333'
-      },
-      home: {
-        heroNameColor: '#FFFFFF',
-        heroNameBackground: '#000000',
-        heroImageBackground:
-          'linear-gradient(135deg, #1A1A1A 0%, #000000 100%)',
-        heroImageFilter: 'blur(44px)'
+          'linear-gradient(135deg, #6b8eb0 0%, #a78bfa 100%)',
+        heroImageFilter: 'blur(52px)'
       }
     }
   }

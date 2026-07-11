@@ -95,10 +95,8 @@ html {
 }
 
 .monochrome {
-  img.logo,
-  .VPImage.image-src,
   .VPFeature svg {
-    filter: grayscale(1);
+    filter: saturate(0.65) brightness(1.08);
   }
 
   .switch {
@@ -123,6 +121,29 @@ html {
     box-shadow:
       0 0 0 2px rgba(0, 0, 0, 0.25),
       var(--vp-shadow-1);
+  }
+}
+
+.dark.monochrome {
+  --vp-c-divider: #2c3139;
+  --vp-c-border: #343a44;
+  --vp-c-default-soft: #20252c;
+
+  .VPFeature {
+    outline: 1px solid var(--vp-c-divider);
+    outline-offset: -1px;
+  }
+
+  .vp-doc {
+    line-height: 1.75;
+  }
+
+  .vp-doc a {
+    text-decoration-color: color-mix(
+      in srgb,
+      var(--vp-c-brand-1) 45%,
+      transparent
+    );
   }
 }
 

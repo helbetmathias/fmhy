@@ -21,6 +21,7 @@ const dropdownRef = ref<{
   hide: (options?: { skipDelay?: boolean }) => void
 } | null>(null)
 const shown = ref(false)
+const hydrated = ref(false)
 
 interface ModeChoice {
   mode: DisplayMode
@@ -41,14 +42,14 @@ const modeChoices: ModeChoice[] = [
   },
   {
     mode: 'dark',
-    label: 'Mathy',
+    label: 'Mathy Dark',
     icon: 'i-ph-code-duotone',
     isMathy: true
   }
 ]
 
 const currentChoice = computed(() => {
-  if (themeName.value === 'monochrome') {
+  if (hydrated.value && themeName.value === 'monochrome') {
     return modeChoices[3]
   }
   const current = mode.value
@@ -181,6 +182,7 @@ const setupParentFlyoutOverride = () => {
 }
 
 onMounted(() => {
+  hydrated.value = true
   // defer slightly to ensuring DOM is ready
   parentOverrideTimeout = setTimeout(setupParentFlyoutOverride, 100)
 })

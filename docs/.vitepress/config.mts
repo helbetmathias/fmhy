@@ -6,15 +6,7 @@ import OptimizeExclude from 'vite-plugin-optimize-exclude'
 import { VitePWA } from 'vite-plugin-pwa'
 import Terminal from 'vite-plugin-terminal'
 import { defineConfig } from 'vitepress'
-import {
-  commitRef,
-  feedback,
-  meta,
-  nav,
-  search,
-  sidebar,
-  socialLinks
-} from './constants'
+import { meta, nav, search, sidebar, socialLinks } from './constants'
 import { generateFeed, generateImages, generateMeta } from './hooks'
 import { defs, emojiRender, movePlugin } from './markdown/emoji'
 import { headersPlugin } from './markdown/headers'
@@ -26,9 +18,9 @@ import { replaceNoteLink } from './utils/markdown'
 
 const baseUrl = process.env.GITHUB_ACTIONS ? '/edit' : '/'
 export default defineConfig({
-  title: 'FMHY',
+  title: 'Mathy Repo',
   description: meta.description,
-  titleTemplate: ':title • freemediaheckyeah',
+  titleTemplate: ':title • Mathy Repo',
   lang: 'en-US',
   lastUpdated: false,
   cleanUrls: true,
@@ -55,7 +47,10 @@ export default defineConfig({
     ],
     // PWA
     ['link', { rel: 'manifest', href: '/manifest.json' }],
-    ['link', { rel: 'alternate icon', href: '/pwa_icon.png', type: 'image/png' }],
+    [
+      'link',
+      { rel: 'alternate icon', href: '/pwa_icon.png', type: 'image/png' }
+    ],
     ['meta', { name: 'keywords', content: meta.keywords.join(' ') }],
     [
       'link',
@@ -332,12 +327,6 @@ export default defineConfig({
   },
   themeConfig: {
     search,
-    footer: {
-      message: `${feedback} (rev: ${commitRef})`,
-      copyright:
-        `© ${new Date().getFullYear()}, <a href="https://i.ibb.co/VJQmQ9t/image.png">Estd 2018.</a>` +
-        `<br/> This site does not host any files.`
-    },
     editLink: {
       pattern: 'https://github.com/fmhy/edit/edit/main/docs/:path',
       text: '📝 Edit this page'

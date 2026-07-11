@@ -1,11 +1,13 @@
 ---
 title: Welcome
 layout: home
-description: The largest collection of free stuff on the internet!
+description:
+  Mathy's curated collection of free resources from across the internet.
 
 hero:
-  name: freemediaheckyeah
-  tagline: The largest collection of free stuff on the internet!
+  name: Mathy Repo
+  tagline:
+    Mathy's curated collection of free resources from across the internet.
   announcement:
     title: Fight Chat Control 🔒
     link: https://fightchatcontrol.eu/

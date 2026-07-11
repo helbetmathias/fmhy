@@ -19,8 +19,9 @@ import type { DefaultTheme } from 'vitepress'
 // @unocss-include
 
 export const meta = {
-  name: 'freemediaheckyeah',
-  description: 'The largest collection of free stuff on the internet!',
+  name: 'Mathy Repo',
+  description:
+    "Mathy's curated collection of free resources from across the internet.",
   hostname: 'https://fmhy.net',
   keywords: ['stream', 'movies', 'gaming', 'reading', 'anime'],
   build: {
@@ -105,11 +106,11 @@ export const commitRef =
 export const feedback = `<a href="/feedback" class="feedback-footer">Made with ❤</a>`
 
 export const socialLinks: DefaultTheme.SocialLink[] = [
-  { icon: 'github', link: 'https://github.com/fmhy/edit' },
-  { icon: 'discord', link: 'https://github.com/fmhy/FMHY/wiki/FMHY-Discord' },
+  { icon: 'github', link: 'https://github.com/helbetmathias' },
+  { icon: 'discord', link: 'https://discord.com/users/741942954800709703' },
   {
-    icon: 'reddit',
-    link: 'https://reddit.com/r/FREEMEDIAHECKYEAH'
+    icon: 'instagram',
+    link: 'https://www.instagram.com/mathy_y_/'
   }
 ]
 

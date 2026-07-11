@@ -137,14 +137,6 @@ html {
   .vp-doc {
     line-height: 1.75;
   }
-
-  .vp-doc a {
-    text-decoration-color: color-mix(
-      in srgb,
-      var(--vp-c-brand-1) 45%,
-      transparent
-    );
-  }
 }
 
 .vp-doc a {

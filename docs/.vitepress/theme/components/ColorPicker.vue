@@ -209,12 +209,15 @@ const normalizeColorName = (colorName: string) =>
   colorName.slice(1).replaceAll(/-/g, ' ')
 
 onMounted(async () => {
-  // apply saved theme on load
+  // Always register the saved color so the Mathy shortcut can restore it.
+  const savedTheme = localStorage.getItem('vitepress-theme-name')
   if (selectedColor.value) {
     const theme = generateThemeFromColor(selectedColor.value)
     themeRegistry[`color-${selectedColor.value}`] = theme
-    await nextTick()
-    setTheme(`color-${selectedColor.value}`)
+    if (!savedTheme || savedTheme.startsWith('color-')) {
+      await nextTick()
+      setTheme(`color-${selectedColor.value}`)
+    }
   }
   // Wait for next tick to ensure theme handler is fully initialized
   await nextTick()

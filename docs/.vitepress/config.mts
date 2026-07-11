@@ -16,7 +16,7 @@ import { replaceNoteLink } from './utils/markdown'
 
 // @unocss-include
 
-const baseUrl = process.env.GITHUB_ACTIONS ? '/edit' : '/'
+const baseUrl = '/'
 export default defineConfig({
   title: 'Mathy Repo',
   description: meta.description,

@@ -95,6 +95,12 @@ html {
 }
 
 .monochrome {
+  img.logo,
+  .VPImage.image-src,
+  .VPFeature svg {
+    filter: grayscale(1);
+  }
+
   .switch {
     background-color: #000;
     border-color: #5a5a5a;

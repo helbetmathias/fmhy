@@ -9,8 +9,8 @@ hero:
   tagline:
     Mathy's curated collection of free resources from across the internet.
   announcement:
-    title: Fight Chat Control 🔒
-    link: https://fightchatcontrol.eu/
+    title: Visit Mathy.li ↗
+    link: https://mathy.li/
   image:
     src: test.png
     alt: FMHY Icon
@@ -25,8 +25,8 @@ hero:
       text: Contribute
       link: /other/contributing
     - theme: alt
-      text: Discord
-      link: https://github.com/fmhy/FMHY/wiki/FMHY-Discord
+      text: View on GitHub
+      link: https://github.com/helbetmathias/fmhy
 
 features:
   - title: Adblocking / Privacy

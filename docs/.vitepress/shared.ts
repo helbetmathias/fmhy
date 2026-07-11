@@ -18,14 +18,17 @@ import type { DefaultTheme } from 'vitepress'
 
 // @unocss-include
 
+const safeEnv = (key: string) =>
+  typeof process !== 'undefined' ? process.env?.[key] : undefined
+
 export const meta = {
   name: 'Mathy Repo',
   description:
     "Mathy's curated collection of free resources from across the internet.",
-  hostname: 'https://fmhy.net',
+  hostname: safeEnv('MATHY_SITE_URL') || 'https://fmhy.mathy.li',
   keywords: ['stream', 'movies', 'gaming', 'reading', 'anime'],
   build: {
-    api: true,
+    api: false,
     nsfw: true
   }
 }
@@ -75,9 +78,6 @@ export function normalizeSearchUrl(value: string) {
   const query = params.toString()
   return `${hostPath}${query ? `?${query}` : ''}${hash ? `#${hash}` : ''}`
 }
-
-const safeEnv = (key: string) =>
-  typeof process !== 'undefined' ? process.env?.[key] : undefined
 
 // Treat the common falsy spellings as "off", not just the exact string 'false'.
 const isFalsy = (val?: string) =>
@@ -142,8 +142,7 @@ export const nav: DefaultTheme.NavItem[] = [
         text: '🏠 Selfhosting',
         link: '/other/selfhosting'
       },
-      { text: '🏞 Wallpapers', link: '/other/wallpapers' },
-      { text: '💙 Feedback', link: '/feedback' }
+      { text: '🏞 Wallpapers', link: '/other/wallpapers' }
     ]
   }
 ]

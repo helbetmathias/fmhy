@@ -2,10 +2,11 @@
 import type { DisplayMode } from '../themes/types'
 import { useData } from 'vitepress'
 import { computed, inject, onMounted, onUnmounted, ref } from 'vue'
+import { themeRegistry } from '../themes/configs'
 import { useTheme } from '../themes/themeHandler'
 import { revealThemeChange } from '../themes/themeTransition'
 
-const { mode, amoledEnabled, setAppearance } = useTheme()
+const { mode, amoledEnabled, setAppearance, setTheme, themeName } = useTheme()
 
 // VitePress runs VueUse's `useDark` whenever `appearance` is enabled in config,
 // and that re-applies the `.dark` class from its own storage key on every load.
@@ -26,6 +27,7 @@ interface ModeChoice {
   label: string
   icon: string
   isAmoled?: boolean
+  isMathy?: boolean
 }
 
 const modeChoices: ModeChoice[] = [
@@ -36,10 +38,19 @@ const modeChoices: ModeChoice[] = [
     label: 'AMOLED',
     icon: 'i-ph-moon-stars-duotone',
     isAmoled: true
+  },
+  {
+    mode: 'dark',
+    label: 'Mathy',
+    icon: 'i-ph-code-duotone',
+    isMathy: true
   }
 ]
 
 const currentChoice = computed(() => {
+  if (themeName.value === 'monochrome') {
+    return modeChoices[3]
+  }
   const current = mode.value
   if (current === 'dark' && amoledEnabled.value) {
     return modeChoices[2] // AMOLED option
@@ -68,10 +79,39 @@ const selectMode = async (choice: ModeChoice, event?: MouseEvent) => {
   }
 
   await revealThemeChange(event, choice.mode === 'dark', () => {
-    if (choice.isAmoled) {
-      setAppearance('dark', true)
+    if (choice.isMathy) {
+      if (themeName.value !== 'monochrome') {
+        localStorage.setItem('mathy-previous-theme', themeName.value)
+      }
+      setTheme('monochrome')
+      setAppearance('dark', false)
     } else {
-      setAppearance(choice.mode, false)
+      if (themeName.value === 'monochrome') {
+        const previousTheme =
+          localStorage.getItem('mathy-previous-theme') ||
+          `color-${localStorage.getItem('preferred-color') || 'swarm'}`
+        if (themeRegistry[previousTheme]) {
+          setTheme(previousTheme)
+        } else {
+          localStorage.setItem('vitepress-theme-name', previousTheme)
+          localStorage.setItem('vitepress-display-mode', choice.mode)
+          localStorage.setItem(
+            'vitepress-amoled-enabled',
+            choice.isAmoled ? 'true' : 'false'
+          )
+          localStorage.removeItem('vitepress-theme-vars')
+          window.location.reload()
+          return
+        }
+      }
+    }
+
+    if (!choice.isMathy) {
+      if (choice.isAmoled) {
+        setAppearance('dark', true)
+      } else {
+        setAppearance(choice.mode, false)
+      }
     }
     // Mirror into VitePress's appearance state (same value our handler just set,
     // so it's idempotent) so it persists and never reverts the class on reload.
@@ -84,6 +124,12 @@ const selectMode = async (choice: ModeChoice, event?: MouseEvent) => {
 }
 
 const isActiveChoice = (choice: ModeChoice) => {
+  if (choice.isMathy) {
+    return themeName.value === 'monochrome'
+  }
+  if (themeName.value === 'monochrome') {
+    return false
+  }
   const current = mode.value
   if (choice.isAmoled) {
     return current === 'dark' && amoledEnabled.value

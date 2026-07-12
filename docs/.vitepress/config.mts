@@ -32,16 +32,16 @@ export default defineConfig({
     hostname: meta.hostname
   },
   head: [
-    ['meta', { name: 'theme-color', content: '#7bc5e4' }],
+    ['meta', { name: 'theme-color', content: '#0d0f12' }],
     ['meta', { name: 'og:type', content: 'website' }],
     ['meta', { name: 'og:locale', content: 'en' }],
-    ['link', { rel: 'icon', href: '/fmhy.ico' }],
+    ['link', { rel: 'icon', href: '/mathy-orbit.ico' }],
     [
       'link',
       {
         rel: 'alternate',
         type: 'application/rss+xml',
-        title: 'FMHY RSS Feed',
+        title: 'Mathy Repo RSS Feed',
         href: '/feed.rss'
       }
     ],
@@ -49,12 +49,20 @@ export default defineConfig({
     ['link', { rel: 'manifest', href: '/manifest.json' }],
     [
       'link',
-      { rel: 'alternate icon', href: '/pwa_icon.png', type: 'image/png' }
+      {
+        rel: 'alternate icon',
+        href: '/mathy-orbit-96.png',
+        type: 'image/png'
+      }
     ],
     ['meta', { name: 'keywords', content: meta.keywords.join(' ') }],
     [
       'link',
-      { rel: 'apple-touch-icon', href: '/pwa_icon.png', sizes: '192x192' }
+      {
+        rel: 'apple-touch-icon',
+        href: '/mathy-orbit-192.png',
+        sizes: '192x192'
+      }
     ],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     [
@@ -128,49 +136,6 @@ export default defineConfig({
                   d.style.setProperty(k, vars[k]);
                 }
               }
-            }
-          } catch (e) {}
-        })();
-        `
-    ],
-    [
-      'script',
-      {},
-      `
-        (function() {
-          try {
-            var today = new Date();
-            if (today.getMonth() === 5) {
-              document.documentElement.classList.add('june');
-              function applyJuneFavicon() {
-                var links = document.querySelectorAll("link[rel*='icon']");
-                links.forEach(function(link) {
-                  if (link.getAttribute('href') !== '/june_icon.webp') {
-                    link.setAttribute('href', '/june_icon.webp');
-                    if (link.hasAttribute('type')) {
-                      link.setAttribute('type', 'image/webp');
-                    }
-                  }
-                });
-              }
-              function applyJuneLogo() {
-                var logos = document.querySelectorAll("img.logo, img[src*='fmhy.ico']");
-                logos.forEach(function(img) {
-                  if (img.getAttribute('src') !== '/june_icon.webp') {
-                    img.setAttribute('src', '/june_icon.webp');
-                  }
-                });
-              }
-              applyJuneFavicon();
-              applyJuneLogo();
-              // Favicons live in <head>; scope the observer there instead of the whole document.
-              new MutationObserver(applyJuneFavicon).observe(document.head, {
-                childList: true,
-                attributes: true,
-                attributeFilter: ['href', 'type']
-              });
-              // The nav logo isn't in <head>; re-apply it on route changes (see theme/index.ts).
-              window.__fmhyApplyJuneLogo = applyJuneLogo;
             }
           } catch (e) {}
         })();
@@ -333,8 +298,8 @@ export default defineConfig({
     },
     outline: 'deep',
     logo: {
-      src: '/fmhy.ico',
-      alt: 'FMHY Logo'
+      src: '/mathy-orbit-96.png',
+      alt: 'Mathy Orbit logo'
     },
     nav,
     sidebar,

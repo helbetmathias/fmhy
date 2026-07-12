@@ -52,7 +52,7 @@ html {
   /* Currently focused search highlight */
   --vp-focus-highlight-bg: color-mix(in srgb, var(--vp-c-brand-soft) 87%, black);
   /* Scroll-to-match highlight */
-  --vp-scroll-match-bg: color-mix(in srgb, var(--vp-c-brand-soft) 46%, transparent)
+  --vp-scroll-match-bg: color-mix(in srgb, var(--vp-c-brand-soft) 46%, transparent);
 }
 
 .dark {
@@ -194,6 +194,24 @@ html {
 /**
  * Component: Home
 */
+.mathy-transparency-note {
+  max-width: 660px;
+  margin-top: 16px;
+  color: var(--vp-c-text-3);
+  font-size: 12px;
+  line-height: 1.55;
+}
+
+.mathy-transparency-note a {
+  color: var(--vp-c-text-2);
+  text-decoration: none;
+}
+
+.mathy-transparency-note a:hover {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
 :root {
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: -webkit-linear-gradient(

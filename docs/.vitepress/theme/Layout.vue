@@ -114,6 +114,18 @@ onUnmounted(() => {
     <template #home-hero-info-before>
       <Announcement />
     </template>
+    <template #home-hero-actions-after>
+      <p class="mathy-transparency-note">
+        Unofficial FMHY mirror maintained by Mathy
+        <span aria-hidden="true">•</span>
+        Synced daily from
+        <a href="https://github.com/fmhy/edit" target="_blank" rel="noreferrer">
+          the original project
+        </a>
+        <span aria-hidden="true">•</span>
+        Not affiliated with or endorsed by FMHY.
+      </p>
+    </template>
     <template #home-features-before>
       <p class="text-center text-lg text-text-2 mb-2">
         Or browse these pages

@@ -1,27 +1,27 @@
 {
-  "name": "FMHY - freemediaheckyeah",
-  "short_name": "FMHY",
-  "description": "The largest collection of free stuff on the internet!",
-  "theme_color": "#7bc5e4",
-  "background_color": "#ffffff",
+  "name": "Mathy Repo",
+  "short_name": "Mathy",
+  "description": "Mathy's curated collection of free resources from across the internet.",
+  "theme_color": "#0d0f12",
+  "background_color": "#0d0f12",
   "display": "standalone",
   "orientation": "portrait",
   "scope": "/",
   "start_url": "/",
   "icons": [
     {
-      "src": "/fmhy.ico",
-      "sizes": "16x16",
+      "src": "/mathy-orbit.ico",
+      "sizes": "16x16 32x32 48x48 64x64 128x128 256x256",
       "type": "image/x-icon"
     },
     {
-      "src": "/pwa_icon.png",
+      "src": "/mathy-orbit-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/pwa_icon.png",
+      "src": "/mathy-orbit-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"

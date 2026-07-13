@@ -16,6 +16,7 @@
 
 import type { Plugin } from 'vitepress'
 import { basename } from 'pathe'
+import { applyMathyOverlay } from './markdown/mathyOverlay'
 import { excluded, getHeader } from './transformer/constants'
 import { replaceUnderscore, transformer } from './transformer/core'
 
@@ -34,7 +35,7 @@ export function transformsPlugin(): Plugin {
         !id.includes('other')
       ) {
         const header = getHeader(_id)
-        const contents = transform(code)
+        const contents = transform(applyMathyOverlay(code, _id))
 
         if (_id === 'beginners-guide.md') {
           const _contents = transformGuide(contents)

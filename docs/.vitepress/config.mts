@@ -301,7 +301,7 @@ export default defineConfig({
       src: '/mathy-orbit-96.png',
       alt: 'Mathy Orbit logo'
     },
-    nav,
+    nav: nav.filter((item) => item.text !== '🌱 Ecosystem'),
     sidebar,
     socialLinks
   }

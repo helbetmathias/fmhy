@@ -49,11 +49,17 @@ export class ThemeHandler {
     if (typeof window === 'undefined') return
 
     // Load saved preferences
-    const savedTheme = localStorage.getItem(STORAGE_KEY_THEME) || 'color-swarm'
+    const savedThemeName = localStorage.getItem(STORAGE_KEY_THEME)
+    const isFirstVisit = !savedThemeName
+    const savedTheme = savedThemeName || 'mathy'
     const savedMode = localStorage.getItem(
       STORAGE_KEY_MODE
     ) as DisplayMode | null
     const savedAmoled = localStorage.getItem(STORAGE_KEY_AMOLED) === 'true'
+
+    if (isFirstVisit) {
+      localStorage.setItem(STORAGE_KEY_THEME, savedTheme)
+    }
 
     if (themeRegistry[savedTheme]) {
       this.state.value.currentTheme = savedTheme
@@ -66,6 +72,9 @@ export class ThemeHandler {
     // Set mode
     if (savedMode) {
       this.state.value.currentMode = savedMode
+    } else if (isFirstVisit) {
+      this.state.value.currentMode = 'dark'
+      localStorage.setItem(STORAGE_KEY_MODE, 'dark')
     } else {
       // Detect system preference for initial mode
       const prefersDark = window.matchMedia(

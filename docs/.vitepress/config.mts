@@ -111,6 +111,17 @@ export default defineConfig({
             var themeName = localStorage.getItem('vitepress-theme-name');
             var varsJson = localStorage.getItem('vitepress-theme-vars');
 
+            // First-time visitors start in Mathy Dark. Existing preferences are
+            // never overwritten, including an explicitly selected light mode.
+            if (!themeName) {
+              themeName = 'mathy';
+              localStorage.setItem('vitepress-theme-name', themeName);
+              if (!mode) {
+                mode = 'dark';
+                localStorage.setItem('vitepress-display-mode', mode);
+              }
+            }
+
             if (localStorage.getItem('mathy-theme-v2-migrated') !== 'true') {
               if (themeName === 'monochrome') {
                 themeName = 'mathy';

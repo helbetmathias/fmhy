@@ -49,7 +49,7 @@ const modeChoices: ModeChoice[] = [
 ]
 
 const currentChoice = computed(() => {
-  if (hydrated.value && themeName.value === 'monochrome') {
+  if (hydrated.value && themeName.value === 'mathy') {
     return modeChoices[3]
   }
   const current = mode.value
@@ -81,13 +81,13 @@ const selectMode = async (choice: ModeChoice, event?: MouseEvent) => {
 
   await revealThemeChange(event, choice.mode === 'dark', () => {
     if (choice.isMathy) {
-      if (themeName.value !== 'monochrome') {
+      if (themeName.value !== 'mathy') {
         localStorage.setItem('mathy-previous-theme', themeName.value)
       }
-      setTheme('monochrome')
+      setTheme('mathy')
       setAppearance('dark', false)
     } else {
-      if (themeName.value === 'monochrome') {
+      if (themeName.value === 'mathy') {
         const previousTheme =
           localStorage.getItem('mathy-previous-theme') ||
           `color-${localStorage.getItem('preferred-color') || 'swarm'}`
@@ -126,9 +126,9 @@ const selectMode = async (choice: ModeChoice, event?: MouseEvent) => {
 
 const isActiveChoice = (choice: ModeChoice) => {
   if (choice.isMathy) {
-    return themeName.value === 'monochrome'
+    return themeName.value === 'mathy'
   }
-  if (themeName.value === 'monochrome') {
+  if (themeName.value === 'mathy') {
     return false
   }
   const current = mode.value

@@ -144,6 +144,12 @@ export class ThemeHandler {
       root.classList.remove('monochrome')
     }
 
+    if (theme.name === 'mathy') {
+      root.classList.add('mathy')
+    } else {
+      root.classList.remove('mathy')
+    }
+
     this.persistInlineVars()
   }
 

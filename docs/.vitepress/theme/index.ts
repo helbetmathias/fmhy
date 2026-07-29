@@ -24,6 +24,8 @@ import {
 } from './composables/searchScroll'
 import Layout from './Layout.vue'
 import Post from './PostLayout.vue'
+import { themeRegistry } from './themes/configs'
+import { mathyTheme } from './themes/mathy'
 import { useThemeHandler } from './themes/themeHandler'
 
 import './style.scss'
@@ -40,6 +42,8 @@ import LinkInline from './components/LinkInline.vue'
 import Tag from './components/Tag.vue'
 import Tooltip from './components/Tooltip.vue'
 import VideoFrame from './components/VideoFrame.vue'
+
+themeRegistry.mathy = mathyTheme
 
 export default {
   extends: DefaultTheme,

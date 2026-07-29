@@ -111,6 +111,14 @@ export default defineConfig({
             var themeName = localStorage.getItem('vitepress-theme-name');
             var varsJson = localStorage.getItem('vitepress-theme-vars');
 
+            if (localStorage.getItem('mathy-theme-v2-migrated') !== 'true') {
+              if (themeName === 'monochrome') {
+                themeName = 'mathy';
+                localStorage.setItem('vitepress-theme-name', themeName);
+              }
+              localStorage.setItem('mathy-theme-v2-migrated', 'true');
+            }
+
             if (!mode) {
               mode = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
             }
@@ -128,6 +136,9 @@ export default defineConfig({
 
             if (themeName === 'monochrome') d.classList.add('monochrome');
             else d.classList.remove('monochrome');
+
+            if (themeName === 'mathy') d.classList.add('mathy');
+            else d.classList.remove('mathy');
 
             if (varsJson) {
               var vars = JSON.parse(varsJson);

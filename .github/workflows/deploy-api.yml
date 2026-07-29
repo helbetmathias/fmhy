@@ -13,6 +13,9 @@ concurrency: ${{ github.workflow }}-${{ github.ref }}
 
 jobs:
   ci:
+    # The Mathy fork does not use the upstream feedback API. Keeping this job
+    # upstream-only avoids failed deployments when its private secrets are absent.
+    if: github.repository == 'fmhy/edit'
     name: Build and Deploy
     runs-on: ubuntu-latest
     strategy:

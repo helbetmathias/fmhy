@@ -28,7 +28,7 @@ interface ModeChoice {
   label: string
   icon: string
   isAmoled?: boolean
-  isMathy?: boolean
+  themeName?: string
 }
 
 const modeChoices: ModeChoice[] = [
@@ -42,23 +42,37 @@ const modeChoices: ModeChoice[] = [
   },
   {
     mode: 'dark',
+    label: 'Monolith',
+    icon: 'i-ph-cube-duotone',
+    themeName: 'monolith'
+  },
+  {
+    mode: 'dark',
     label: 'Mathy Dark',
     icon: 'i-ph-code-duotone',
-    isMathy: true
+    themeName: 'mathy'
   }
 ]
 
+const isMenuTheme = (name: string) =>
+  modeChoices.some((choice) => choice.themeName === name)
+
 const currentChoice = computed(() => {
-  if (hydrated.value && themeName.value === 'mathy') {
-    return modeChoices[3]
+  if (hydrated.value) {
+    const selectedTheme = modeChoices.find(
+      (choice) => choice.themeName === themeName.value
+    )
+    if (selectedTheme) return selectedTheme
   }
   const current = mode.value
   if (current === 'dark' && amoledEnabled.value) {
     return modeChoices[2] // AMOLED option
   }
   return (
-    modeChoices.find((choice) => choice.mode === current && !choice.isAmoled) ||
-    modeChoices[0]
+    modeChoices.find(
+      (choice) =>
+        choice.mode === current && !choice.isAmoled && !choice.themeName
+    ) || modeChoices[0]
   )
 })
 
@@ -80,15 +94,16 @@ const selectMode = async (choice: ModeChoice, event?: MouseEvent) => {
   }
 
   await revealThemeChange(event, choice.mode === 'dark', () => {
-    if (choice.isMathy) {
-      if (themeName.value !== 'mathy') {
-        localStorage.setItem('mathy-previous-theme', themeName.value)
+    if (choice.themeName) {
+      if (!isMenuTheme(themeName.value)) {
+        localStorage.setItem('theme-menu-previous-theme', themeName.value)
       }
-      setTheme('mathy')
+      setTheme(choice.themeName)
       setAppearance('dark', false)
     } else {
-      if (themeName.value === 'mathy') {
+      if (isMenuTheme(themeName.value)) {
         const previousTheme =
+          localStorage.getItem('theme-menu-previous-theme') ||
           localStorage.getItem('mathy-previous-theme') ||
           `color-${localStorage.getItem('preferred-color') || 'swarm'}`
         if (themeRegistry[previousTheme]) {
@@ -107,7 +122,7 @@ const selectMode = async (choice: ModeChoice, event?: MouseEvent) => {
       }
     }
 
-    if (!choice.isMathy) {
+    if (!choice.themeName) {
       if (choice.isAmoled) {
         setAppearance('dark', true)
       } else {
@@ -125,10 +140,10 @@ const selectMode = async (choice: ModeChoice, event?: MouseEvent) => {
 }
 
 const isActiveChoice = (choice: ModeChoice) => {
-  if (choice.isMathy) {
-    return themeName.value === 'mathy'
+  if (choice.themeName) {
+    return themeName.value === choice.themeName
   }
-  if (themeName.value === 'mathy') {
+  if (isMenuTheme(themeName.value)) {
     return false
   }
   const current = mode.value

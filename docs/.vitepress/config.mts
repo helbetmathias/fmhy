@@ -164,6 +164,48 @@ export default defineConfig({
         `
     ]
   ],
+  // Keep the upstream homepage source untouched and apply Mathy branding at
+  // build time. This prevents daily content updates from conflicting with the
+  // fork's homepage copy.
+  transformPageData: (pageData) => {
+    if (pageData.relativePath !== 'index.md') return
+
+    const description =
+      "Mathy's curated collection of free resources from across the internet."
+    const hero = { ...pageData.frontmatter.hero }
+    Reflect.deleteProperty(hero, 'image')
+
+    return {
+      description,
+      frontmatter: {
+        ...pageData.frontmatter,
+        description,
+        hero: {
+          ...hero,
+          name: 'Mathy Repo',
+          tagline: description,
+          announcement: {
+            title: 'Visit Mathy.li ↗',
+            link: 'https://mathy.li/'
+          },
+          actions: [
+            {
+              theme: 'brand',
+              text: 'See Beginners Guide',
+              link: '/beginners-guide'
+            },
+            { theme: 'alt', text: 'Posts', link: '/posts' },
+            { theme: 'alt', text: 'Contribute', link: '/other/contributing' },
+            {
+              theme: 'alt',
+              text: 'View on GitHub',
+              link: 'https://github.com/helbetmathias/fmhy'
+            }
+          ]
+        }
+      }
+    }
+  },
   transformHead: async (context) => generateMeta(context, meta.hostname),
   buildEnd: async (context) => {
     try {

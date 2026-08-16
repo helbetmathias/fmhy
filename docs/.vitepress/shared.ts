@@ -116,7 +116,7 @@ export const socialLinks: DefaultTheme.SocialLink[] = [
 
 export const nav: DefaultTheme.NavItem[] = [
   { text: '📑 Changelog', link: '/posts/changelog-sites' },
-  { text: '📖 Glossary', link: 'https://paste.fmhy.net/glossary' },
+  { text: '📖 Glossary', link: 'https://yaso.su/glossary' },
   {
     text: '💾 Backups',
     link: '/other/backups'

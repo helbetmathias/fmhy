@@ -26,6 +26,7 @@ export default defineConfig({
   cleanUrls: true,
   appearance: true,
   base: baseUrl,
+  scrollOffset: { selector: '.fmhy-scroll-inset', padding: 0 },
   srcExclude: ['README.md', 'public/single-page.md', 'single-page'],
   ignoreDeadLinks: true,
   sitemap: {
@@ -108,7 +109,7 @@ export default defineConfig({
             var d = document.documentElement;
             var mode = localStorage.getItem('vitepress-display-mode');
             var amoled = localStorage.getItem('vitepress-amoled-enabled') === 'true';
-            var themeName = localStorage.getItem('vitepress-theme-name');
+            var themeName = localStorage.getItem('vitepress-theme-name') || 'color-swarm';
             var varsJson = localStorage.getItem('vitepress-theme-vars');
 
             // First-time visitors start in Mathy Dark. Existing preferences are
@@ -145,8 +146,7 @@ export default defineConfig({
             if (mode === 'dark' && amoled) d.classList.add('amoled');
             else d.classList.remove('amoled');
 
-            if (themeName === 'monochrome') d.classList.add('monochrome');
-            else d.classList.remove('monochrome');
+            d.dataset.theme = themeName;
 
             if (themeName === 'mathy') d.classList.add('mathy');
             else d.classList.remove('mathy');
@@ -327,12 +327,6 @@ export default defineConfig({
         configResolved(c) {
           movePlugin(
             c.plugins as any,
-            'vitepress',
-            'before',
-            'unocss:transformers:pre'
-          )
-          movePlugin(
-            c.plugins as any,
             'custom:transform-content',
             'before',
             'vitepress'
@@ -341,6 +335,7 @@ export default defineConfig({
       }
     ],
     build: {
+      reportCompressedSize: false,
       // Shut the fuck up
       chunkSizeWarningLimit: Number.POSITIVE_INFINITY
     }

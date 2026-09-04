@@ -243,7 +243,7 @@
 * [NovelGo](https://novelgo.id) - Online Reading
 * [Armaell's Library](https://armaell-library.net/) - Downloads
 * [Baka-Tsuki](https://www.baka-tsuki.org) - Online Reading
-* [NovelArchive](https://novelarchive.cc/) - Online Reading
+* [NovelArchive](https://novelarchive.cc/) - Online Reading / Downloads
 * [WuxiaWorld.com](https://www.wuxiaworld.com/) - Online Reading
 * [⁠WuxiaDreams](https://wuxiadreams.com/) - Online Reading
 * [AsianHobbyist](https://www.asianhobbyist.com/) - Online Reading
@@ -973,6 +973,7 @@
 * [TasteDive](https://tastedive.com/books) - Discovery and Recommendations
 * [⁠r/TrueLit Top 100 Lists](https://www.reddit.com/r/TrueLit/wiki/top100lists) - Book Recommendations
 * [Readow](https://readow.ai/) - Book Recommendations
+* [⁠The Greatest Literature](https://editoreric.com/) - Book Recommendations / Top Lists
 * [Book DNA](https://bookdna.com/) - Book Recommendations
 * [Greater Books](http://www.greaterbooks.com/) - Book Recommendations
 * [⁠Uncovered](https://uncovered.ink/) - Book Sample / Recommendation Tool

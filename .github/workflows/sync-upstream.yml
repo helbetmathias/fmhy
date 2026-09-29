@@ -33,8 +33,7 @@ jobs:
       # A failed build or fork-specific smoke check must prevent the push.
       - name: Set up pnpm
         uses: pnpm/action-setup@v4
-        with:
-          version: 10.12.2
+        # Uses the exact packageManager version (and integrity hash) in package.json.
 
       - name: Set up Node
         uses: actions/setup-node@v4

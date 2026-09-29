@@ -67,10 +67,10 @@
 * 🌐 **[Android FOSS](https://github.com/offa/android-foss)** or [AAA](https://github.com/Psyhackological/AAA) - FOSS App Indexes
 * 🌐 **[Awesome F-Droid](https://fdroid.tabler.dev/)** / [GitHub](https://github.com/moneytoo/awesome-fdroid)
 * 🌐 **[Awesome Shizuku](https://github.com/timschneeb/awesome-shizuku)** - Shizuku App Index
-* ⭐ **[FossifyOrg](https://github.com/FossifyOrg)** or [Goodwy](https://github.com/Goodwy?tab=repositories) - FOSS App Ecosystems
-* ⭐ **[Droid-ify](https://droidify.app/)** - FOSS App Installer / [GitHub](https://github.com/Droid-ify/client)
-* [F-Droid](https://f-droid.org/) / [GitLab](https://gitlab.com/fdroid) - FOSS App Installer / [Basic](https://f-droid.org/en/packages/org.fdroid.basic/)
-* F-Droid Tools - [Repositories](https://forum.f-droid.org/t/known-repositories/) / [Desktop](https://github.com/mvdan/fdroidcl) / [Build Status](https://codeberg.org/pstorch/F-Droid_Build_Status) / [Advanced Search](https://github.com/dbeley/fdroid-insights)
+* ⭐ **[Droid-ify](https://droidify.app/)** - F-Droid Frontend App / [GitHub](https://github.com/Droid-ify/client)
+* ⭐ **[F-Droid](https://f-droid.org/)** - FOSS App Store / [Full App](https://f-droid.org/packages/org.fdroid.fdroid/) / [Basic App](https://f-droid.org/en/packages/org.fdroid.basic/) / [GitLab](https://gitlab.com/fdroid)
+* ⭐ **F-Droid Tools** - [Repositories](https://forum.f-droid.org/t/known-repositories/) / [Desktop](https://github.com/mvdan/fdroidcl) / [Build Status](https://codeberg.org/pstorch/F-Droid_Build_Status) / [Advanced Search](https://github.com/dbeley/fdroid-insights)
+* ⭐ **[FossifyOrg](https://github.com/FossifyOrg)** or [Goodwy](https://github.com/Goodwy?tab=repositories) - FOSS App Suites
 * [Neo Store](https://github.com/NeoApplications/Neo-Store) - FOSS App Installer / [Telegram](https://t.me/neo_android_store)
 * [IzzyOnDroid](https://android.izzysoft.de/applists.php) - FOSS Apps / [F-Droid](https://apt.izzysoft.de/fdroid/index.php) / [GitLab](https://gitlab.com/IzzyOnDroid/repo)
 * [You Apps](https://you-apps.net/) - FOSS Apps / [GitHub](https://github.com/you-apps)
@@ -784,7 +784,7 @@
 
 ## ▷ Linux on Android
 
-* [postmarketOS](https://www.postmarketos.org/) - Alpine-Based
+* [Nura](https://nura.eco/) - Alpine-Based
 * [Ubuntu Touch](https://devices.ubuntu-touch.io/) - Ubuntu-Based
 * [Mobian](https://mobian-project.org/) - Debian-Based
 * [⁠Linux Deploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android + TV Boxes
@@ -1109,6 +1109,7 @@
 * [Santander](https://github.com/NSAntoine/Santander) or [Documents](https://apps.apple.com/app/documents-file-manager-docs/id364901807) - File Managers
 * [Keka](https://testflight.apple.com/join/gPYINGCJ) - File Archiver
 * [fGet](https://apps.apple.com/app/fget-file-manager-browser/id1582654012) - Download Manager
+* [⁠Sushitrain](https://github.com/pixelspark/sushitrain) - iOS + macOS File Sync / SyncThing 
 * [Sia Storage](https://sia.storage) - Cloud Storage / 50GB / [GitHub](https://github.com/siafoundation)
 * [The National Do Not Call Registry](https://www.donotcall.gov/) - Opt Out of Telemarketing Calls
 * [touchHLE](https://github.com/touchHLE/touchHLE) - iOS App Desktop Emulator / [Compatibility](https://appdb.touchhle.org/)
@@ -1242,7 +1243,7 @@
 * [ios.cfw.guide](https://ios.cfw.guide/sideloading-apps/) - Sideloading Guides
 * [AltStore Classic](https://altstore.io/) - WiFi Sideloading (Weekly Refresh) / iOS 14.0 & Above / [Repo Viewer](https://therealfoxster.github.io/altsource-viewer/), [2](https://altsource.by.lao.sb/browse/) / [AltServer](https://github.com/NyaMisty/AltServer-Linux) / [Guide](https://faq.altstore.io/altstore-classic/how-to-install-altstore-windows)
 * [r/Sideloaded](https://reddit.com/r/sideloaded) - Sideloading Subreddit
-* [Feather](https://github.com/khcrysalis/Feather) - App Signer (iOS 15.0 & Above) / Requires Apple Dev Certificate
+* [Feather](https://github.com/claration/feather) - App Signer (iOS 15.0 & Above) / Requires Apple Dev Certificate
 * [⁠Ksign](https://github.com/Nyasami/Ksign) - App Signer / Fork of Feather
 * [LiveContainer](https://github.com/LiveContainer/LiveContainer) - iOS App Container Launcher
 * [SignTools](https://github.com/SignTools/SignTools) - Self-Hosted App Signer
@@ -1352,11 +1353,11 @@
 
 # ► iOS Audio
 
-* ⭐ **[MaxMusic](https://github.com/Mark02-2012/MaxMusic)** - Modded YouTube Music / Ad-Free
 * ⭐ **[⁠8SPINE](https://apps.apple.com/app/8spine-the-music-app/id6755934415)** - Module-Based Streaming / Downloading / [Modules](https://8spine-modules.vercel.app/) / [Discord](https://discord.gg/2hXG7cEMP)
+* ⭐ **[spoti.pw](https://t.me/eeveespotify_hazel)** - Spotify / Ad-Free / Sideloaded / [GitHub](https://github.com/estrogencat/EeveeIPA)
+* ⭐ **[MaxMusic](https://github.com/Mark02-2012/MaxMusic)** - Modded YouTube Music / Ad-Free
 * ⭐ **[SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile)** - Multi-Site Audio Downloader / Playlist Extractor / [Extension](https://github.com/spotiflacapp/SpotiFLAC-Extension)
 * [EeveSpotifyReincarnated](https://github.com/SideloadLabs/EeveeSpotifyReincarnated) - Spotify / Ad-Free / Sideloaded
-* [spoti.pw](https://t.me/eeveespotify_hazel) - Spotify / Ad-Free / Sideloaded / [GitHub](https://github.com/estrogencat/EeveeIPA)
 * [SpotC++](https://spotc.yodaluca.dev/) - Spotify / Ad-Free / Sideloaded / [GitHub](https://github.com/SpotCompiled/SpotC-Plus-Plus)
 * [Cosmos Music Player](https://github.com/clquwu/Cosmos-Music-Player), [VOX](https://apps.apple.com/app/id916215494), [Jewelcase](https://jewelcase.app/), [FooBar](https://apps.apple.com/us/app/foobar2000/id1072807669), [⁠Eclipse](https://eclipsemusic.app/) / [Discord](https://discord.gg/sNG37F27eY) or [Melodista](https://apps.apple.com/app/id1293175325) - Audio Players
 * [⁠Eclipse](https://eclipsemusic.app/) - Module-Based Streaming / [Discord](https://discord.gg/sNG37F27eY)
@@ -1405,7 +1406,6 @@
 # ► iOS Streaming
 
 * ↪️ **[Free w/ Ads Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_free_w.2F_ads)**
-* ⭐ **[Eclipse](https://github.com/Soupy-dev/Eclipse)** - Movies / TV / Anime / Extension-Based / [Discord](https://discord.gg/cuhAwNwh25)
 * ⭐ **[Kodi](https://kodi.tv/)** - Movies / TV / Anime / [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart)
 * ⭐ **[Synkplay](https://github.com/yuroyami/syncplay-mobile)** - Video Stream Sync
 * [⁠Nuvio](https://github.com/NuvioMedia/NuvioMobile) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools) / [Plugins](https://nuvio-plugin-library.vercel.app/) / [Wiki / Guides](https://nuvio.wiki/) / [Discord](https://discord.gg/KVgDTjhA4H) / [GitHub](https://github.com/NuvioMedia/NuvioStreaming) or [Stremio](https://www.stremio.com/) - Movies / TV / Anime / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools)

@@ -459,7 +459,7 @@
 
 ## ▷ Streaming
 
-* ⭐ **[OpenFlix](https://openflix.pro/)** - Movies / TV / Anime / Discord Required
+* ⭐ **[OpenFlix](https://openflix.pro/)** - Movies / TV / Anime
 * [⁠Bowd](https://bowdtv.com/) - Movies / TV / Live TV
 * [yablom](https://yablom.com/), [ILMIV](https://ilmiv.com/), [kidraz](https://www.kidraz.com/), [Kordoz](https://www.kordoz.com/) or [Ofraz](https://ofraz.com/) - Movies / TV / Anime
 * [French Stream](https://fs27.lol/) - Movies / TV / Anime / [Status](https://fstream.info/)
@@ -701,6 +701,7 @@
 * [⁠HindMoviez](https://hindmoviez.cafe/) - Movies / TV / Anime / 1080p
 * [BollyMod](https://bollymod.study/) - Movies / TV / Anime / 1080p
 * [⁠MoviesDrive](https://new2.moviesdrive.christmas/) - Movies / TV / 1080p
+* [⁠Bollyflix](https://bollyflix.bi/) - Movies / TV / 1080p
 * [KMMovies](https://kmmovies.life/) - Movies / TV / Anime / 1080p
 * [DownloadHub](https://d10.downloadhub.food/) - Movies / TV / Sub / Dub / 1080p / [Telegram](https://t.me/downloadhub2025)
 * [MoviesLeech](https://moviesleech.club/) - Movies / TV / Sub
@@ -748,6 +749,7 @@
 * [1tamilyogi](https://1tamilyogi.me/), [2](https://1tamilyogi.ro/) - Movies / TV
 * [5movierulz](https://www.5movierulz.fitness/) - Movies / TV / Anime
 * [Cloudy](https://cloudy.pk/) - Movies / TV / Cartoons / Sub / Dub / 720p / [Telegram](https://t.me/cloudypkmovies)
+* [⁠MX Player on Prime](https://www.primevideo.com/collection/streamfree?tr=in) - Movies / TV / Free w/ Ads
 * [IndianCine](https://indiancine.ma/) - Indian Short / Classic Movies
 * [LuffyTV](https://luffytv.live/), [2](https://luffytv.online/) - Sub / Dub / [Discord](https://discord.gg/SdFB3HxDH5)
 * [1XAnime](https://1xanimes.com/) - Anime / [Telegram](https://t.me/onexanimes)
@@ -1500,7 +1502,7 @@
 * [LaMovie](https://lamovie.org/) - Movies / TV / Anime / [Telegram](https://t.me/centrodeactividades)
 * [hackstore2](https://hackstore2.com/) - Movies / TV
 * [Aether](https://aether.ist/), [2](https://aether.cx/) - Movies / TV / Anime / Auto-Next / [Status](https://rentry.co/aetherdomains) / [Discord](https://discord.gg/MadMF7xb5q)
-* [Cinezo](https://www.cinezo.org/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/yWWKfMbtm3)
+* [Cinezo](https://www.cinezo.st/) - Movies / TV / Anime / Auto-Next / Watch Parties / [Discord](https://discord.gg/yWWKfMbtm3)
 * [RaroVHS](https://www.rarovhs.com/) - Rare Spanish Content
 * [PelisPedia](https://pelispedia.mov/) - Movies / TV / Latino
 * [⁠CompucaliTV](https://compucalitv.lol/) - Movies / TV / [Telegram](https://t.me/compucalitv_peliculas)

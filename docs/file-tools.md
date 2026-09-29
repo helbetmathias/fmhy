@@ -30,12 +30,13 @@
 * [Go Speed](https://gopeed.com/) - Download Manager / All Platforms / [Extension](https://github.com/GopeedLab/browser-extension) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories) / [GitHub](https://github.com/GopeedLab/gopeed)
 * [Rayburst](https://rayburst.pages.dev) - Download Manager / [GitHub](https://github.com/AnInsomniacy/rayburst)
 * [FDM](https://www.freedownloadmanager.org/) - Download Manager / [YTDL Addon](https://github.com/meowcateatrat/elephant) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/free-download-manager-addon/) / [Chrome](https://chrome.google.com/webstore/detail/free-download-manager-chr/ahmpjcflkgiildlgicmcieglgoilbfdp/RK%3D2/RS%3DfQzscgKGm9aMezJJ7Gf2Fcc.JSo-) / Windows, macOS, Linux, Android
+* [Brisk](https://github.com/BrisklyDev/brisk/) / Windows, macOS, Linux
 * [imFile](https://imfile.org/) / Windows, macOS, Linux / [GitHub](https://github.com/imfile-io/imfile-desktop)
 * [⁠Aria2 Next](https://github.com/AnInsomniacy/aria2-next) or [aria2](https://aria2.github.io/) / [GitHub](https://github.com/aria2/aria2) - Terminal Download Manager / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [WebUI](https://github.com/ziahamza/webui-aria2), [2](https://ariang.mayswind.net/) / Windows, macOS, Android
 * [Persepolis](https://persepolisdm.github.io/) - Download Manager / Windows, macOS, Linux / [GitHub](https://github.com/persepolisdm/persepolis)
 * [pyLoad](https://pyload.net/) - Lightweight Download Manager / Windows, macOS, Linux / [GitHub](https://github.com/pyload/pyload)
 * [ArrowDL](https://www.arrow-dl.com/) - Download Manager / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/arrow-dl/) / [Chrome](https://chrome.google.com/webstore/detail/arrow-dl/modofbhnhlagjmejdbalnijgncppjeio) / Windows, macOS, Linux / [GitHub](https://github.com/setvisible/ArrowDL)
-* [Varia](https://github.com/giantpinkrobots/varia) - Download Manager / [Firefox](https://addons.mozilla.org/firefox/addon/varia-integrator/) / [Chrome](https://chrome.google.com/webstore/detail/dacakhfljjhgdfdlgjpabkkjhbpcmiff) / Windows, macOS, Linux
+* [Varia](https://github.com/giantpinkrobots/varia) - Download Manager / [Firefox](https://addons.mozilla.org/firefox/addon/varia-integrator/) / [Chrome](https://chrome.google.com/webstore/detail/dacakhfljjhgdfdlgjpabkkjhbpcmiff) / [Extesnsion](https://github.com/BrisklyDev/brisk-browser-extension) / Windows, macOS, Linux
 * [⁠Surge](https://github.com/surge-downloader/surge) - TUI Download Manager / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/surge/) / Windows, macOS, Linux
 * [DownThemAll](https://www.downthemall.org/) - Download Management Extension / [Firefox](https://addons.mozilla.org/addon/downthemall/) / [Chrome](https://chrome.google.com/webstore/detail/downthemall/nljkibfhlpcnanjgbnlnbjecgicbjkge) / [GitHub](https://github.com/downthemall/downthemall)
 * [HTTP Downloader](https://erickutcher.github.io/) - Download Manager for HTTP / FTP / SFTP / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/http-downloader/) / [Chrome](https://github.com/erickutcher/httpdownloader/releases/download/CE_v1.0.2.8/HTTP_Downloader_Chrome_Extension.crx) / Windows / [GitHub](https://github.com/erickutcher/httpdownloader)
@@ -410,6 +411,7 @@
 * ↪️ **[Self-Hosted Cloud Storage](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_server_.2F_selfhosting)**
 * ⭐ **[Google Drive](https://drive.google.com/)** - 5GB (15GB w/ Phone) / 2 Years / ~$3.33 (5TB Google AI Pro)
 * ⭐ **[MEGA](https://mega.io/)** - 20GB / 3 Months / ~$1.72 (20TB Pro III) / [GitHub](https://github.com/meganz)
+* [Proton Drive](https://proton.me/drive) - 5GB / 1 Year / ~$6.66 (3TB Workspace Premium) / [Discord](https://discord.com/invite/proton) / [Note](https://proton.me/support/more-free-storage-existing-users)
 * [disk.yandex](https://disk.yandex.com/) - 5GB / 2 Years / ~$2.61 (4TB Personal)
 * [Filen](https://filen.io/) - 10GB / 3 Months / ~$3.84 (10TB Pro X) / Requires Sign-Up for Sharing
 * [Dropbox](https://www.dropbox.com/) - 1 or 2GB / 12 Months / ~$4.15 (15TB Advanced)
@@ -419,7 +421,6 @@
 * [pCloud](https://www.pcloud.com/) - 10GB / 1 Year / ~$2.88 (10TB Ultra)
 * [FEB](https://www.febbox.com/) - 10GB / 1 Month / ~$2.20 (1TB Personal)
 * [Keybase](https://keybase.io/) - 250GB / Forever / [GitHub](https://github.com/keybase/client)
-* [Proton Drive](https://proton.me/drive) - 5GB / 1 Year / ~$6.66 (3TB Workspace Premium) / [Discord](https://discord.com/invite/proton) / [Note](https://proton.me/support/more-free-storage-existing-users)
 * [⁠InfiniCLOUD](https://infini-cloud.net/en/) - 20GB / 1 Year / ~$3.66 for 3TB
 * [⁠CryptFiles](https://cryptfiles.cloud/) - 10GB / 1 Year / ~$9.24 (1-100TB Flexible)
 * [JumpShare](https://jumpshare.com/) - 2GB / 1 Year / $5.33 (3TB Business)

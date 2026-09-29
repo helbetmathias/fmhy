@@ -78,6 +78,7 @@
     "globals": "^17.10.0",
     "lint-staged": "^17.3.0",
     "nitro-cloudflare-dev": "^0.2.2",
+    "pathe": "^2.0.3",
     "prettier": "^3.9.6",
     "prettier-plugin-pkgsort": "^0.3.0",
     "sass": "^1.102.0",

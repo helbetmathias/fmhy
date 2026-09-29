@@ -132,6 +132,9 @@ importers:
       nitro-cloudflare-dev:
         specifier: ^0.2.2
         version: 0.2.2
+      pathe:
+        specifier: ^2.0.3
+        version: 2.0.3
       prettier:
         specifier: ^3.9.6
         version: 3.9.6

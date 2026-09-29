@@ -35,8 +35,13 @@ fi
 
 patch=$(mktemp)
 trap 'rm -f "$patch"' EXIT
+# Keep wiki pages and upstream's search navigation current. Theme/layout/config
+# changes need deliberate review so they cannot overwrite Mathy branding or
+# silently break the fork's navigation and deployment.
 git diff --binary --full-index "$last_upstream" "$current_upstream" -- \
-  . ':(exclude).github/workflows/**' > "$patch"
+  ':(glob)docs/**/*.md' \
+  docs/.vitepress/theme/components/VPLocalSearchBox.vue \
+  docs/.vitepress/theme/composables/searchScroll.ts > "$patch"
 
 if [[ -s "$patch" ]] && ! git apply --3way --index "$patch"; then
   mapfile -d '' conflicts < <(git diff --name-only --diff-filter=U -z)

@@ -8,8 +8,8 @@ const home = read('docs/.vitepress/dist/index.html')
 const social = read('docs/.vitepress/dist/social-media-tools.html')
 const reading = read('docs/.vitepress/dist/reading.html')
 const theme = read('docs/.vitepress/theme/index.ts')
+const style = read('docs/.vitepress/theme/style.scss')
 const config = read('docs/.vitepress/config.mts')
-const source = read('docs/social-media-tools.md')
 
 // Check the emitted pages, not just the customization source: an upstream
 // change can silently disable a build-time overlay without failing Vite.
@@ -34,7 +34,11 @@ assert.ok(
   focusTube - mobileApps < 600,
   'FocusTube must remain immediately after mobile apps'
 )
-assert.match(source, /https:\/\/focustube\.mathy\.li\//)
+assert.equal(
+  social.match(/href="https:\/\/focustube\.mathy\.li\/"/g)?.length,
+  1,
+  'FocusTube must appear exactly once in the rendered page'
+)
 assert.match(reading, /The Anarchist Library/)
 
 // This fork previously disabled navigation scrolling by replacing these
@@ -44,6 +48,12 @@ assert.doesNotMatch(
   theme,
   /(?:window\.scrollTo|Element\.prototype\.scrollIntoView)\s*=/
 )
+assert.match(style, /--fmhy-scroll-inset:\s*calc\(var\(--vp-nav-height\) \+ 16px\)/)
+assert.match(
+  style,
+  /\.vp-doc \[id\],\s*\.vp-search-scroll-target\s*\{\s*scroll-margin-top:\s*var\(--fmhy-scroll-inset\)/
+)
+assert.doesNotMatch(style, /:root\s*\{\s*scroll-behavior:\s*smooth/)
 
 console.log(
   'Sync build checks passed: branding, canonical URL, FocusTube, search scroll and wiki content.'

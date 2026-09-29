@@ -3,7 +3,7 @@ html {
 }
 
 :root {
-  scroll-behavior: smooth;
+  --fmhy-scroll-inset: calc(var(--vp-nav-height) + 16px);
   /* Colors: Brand */
   --vp-c-brand-1: theme('colors.swarm.500');
   --vp-c-brand-2: theme('colors.swarm.600');
@@ -555,6 +555,29 @@ html.june {
   opacity: 1 !important;
   visibility: visible !important;
   transform: translateY(0) !important;
+}
+
+.VPLocalNav .VPLocalNavOutlineDropdown {
+  margin-left: auto;
+}
+
+.fmhy-scroll-inset {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 0;
+  height: var(--fmhy-scroll-inset);
+  pointer-events: none;
+}
+
+.vp-doc [id],
+.vp-search-scroll-target {
+  scroll-margin-top: var(--fmhy-scroll-inset);
+}
+
+/* VitePress 1 includes h2's padding in its anchor calculation. */
+.vp-doc h2[id] {
+  scroll-margin-top: calc(var(--fmhy-scroll-inset) - 24px);
 }
 
 /* Mobile TOC Active Highlight (Only targets the mobile dropdown) */

@@ -12,7 +12,7 @@ const promotedFocusTubeEntry =
  */
 export function applyMathyOverlay(code: string, filename: string): string {
   if (filename !== 'social-media-tools.md') return code
-  if (!androidIosEntry.test(code) || !focusTubeEntry.test(code)) return code
+  if (!androidIosEntry.test(code)) return code
 
   return code
     .replace(focusTubeEntry, '')

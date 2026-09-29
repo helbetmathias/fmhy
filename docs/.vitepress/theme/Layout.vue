@@ -251,7 +251,7 @@ onUnmounted(() => {
       <p class="mathy-transparency-note">
         Unofficial FMHY mirror maintained by Mathy
         <span aria-hidden="true">•</span>
-        Synced daily from
+        Checked every six hours against
         <a href="https://github.com/fmhy/edit" target="_blank" rel="noreferrer">
           the original project
         </a>

@@ -1,0 +1,50 @@
+import assert from 'node:assert/strict'
+import { readFileSync } from 'node:fs'
+
+const read = (path) =>
+  readFileSync(new URL(`../${path}`, import.meta.url), 'utf8')
+
+const home = read('docs/.vitepress/dist/index.html')
+const social = read('docs/.vitepress/dist/social-media-tools.html')
+const reading = read('docs/.vitepress/dist/reading.html')
+const theme = read('docs/.vitepress/theme/index.ts')
+const config = read('docs/.vitepress/config.mts')
+const source = read('docs/social-media-tools.md')
+
+// Check the emitted pages, not just the customization source: an upstream
+// change can silently disable a build-time overlay without failing Vite.
+assert.match(home, /<title>Welcome • Mathy Repo<\/title>/)
+assert.match(home, /rel="canonical" href="https:\/\/fmhy\.mathy\.li\/"/)
+assert.match(home, /Visit Mathy\.li/)
+assert.match(home, /View on GitHub/)
+assert.match(home, /mathy-orbit-96\.png/)
+assert.match(home, /Checked every six hours against/)
+assert.match(
+  config,
+  /var themeName = localStorage\.getItem\('vitepress-theme-name'\);/
+)
+assert.match(config, /if \(!themeName\) \{\s*themeName = 'mathy';/)
+assert.doesNotMatch(home, /<link rel="canonical" href="https:\/\/fmhy\.net/)
+
+const heading = social.indexOf('id="players-frontends"')
+const mobileApps = social.indexOf('Mobile YouTube Apps', heading)
+const focusTube = social.indexOf('href="https://focustube.mathy.li/"', heading)
+assert.ok(heading >= 0 && mobileApps > heading && focusTube > mobileApps)
+assert.ok(
+  focusTube - mobileApps < 600,
+  'FocusTube must remain immediately after mobile apps'
+)
+assert.match(source, /https:\/\/focustube\.mathy\.li\//)
+assert.match(reading, /The Anarchist Library/)
+
+// This fork previously disabled navigation scrolling by replacing these
+// browser methods globally. Search and the right TOC rely on native scrolling.
+assert.match(theme, /scheduleScrollToMatch\(hash, query, 16, matchContext\)/)
+assert.doesNotMatch(
+  theme,
+  /(?:window\.scrollTo|Element\.prototype\.scrollIntoView)\s*=/
+)
+
+console.log(
+  'Sync build checks passed: branding, canonical URL, FocusTube, search scroll and wiki content.'
+)

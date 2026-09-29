@@ -2,8 +2,8 @@ name: Sync with upstream
 
 on:
   schedule:
-    # Run every day at 03:17 UTC.
-    - cron: '17 3 * * *'
+    # Check every six hours; GitHub may delay scheduled runs under load.
+    - cron: '17 3,9,15,21 * * *'
   workflow_dispatch:
 
 permissions:
@@ -29,4 +29,31 @@ jobs:
           UPSTREAM_REPOSITORY: fmhy/edit
         run: |
           bash .github/scripts/sync-upstream.sh
-          git push origin HEAD:main
+
+      # A failed build or fork-specific smoke check must prevent the push.
+      - name: Set up pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10.12.2
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: pnpm
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Build and check fork
+        run: |
+          pnpm docs:build
+          node scripts/check-sync-build.mjs
+
+      - name: Push verified sync
+        run: |
+          if [ "$(git rev-parse HEAD)" = "${{ github.sha }}" ]; then
+            echo "No new upstream content to push."
+          else
+            git push origin HEAD:main
+          fi

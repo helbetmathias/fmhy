@@ -109,7 +109,7 @@ export default defineConfig({
             var d = document.documentElement;
             var mode = localStorage.getItem('vitepress-display-mode');
             var amoled = localStorage.getItem('vitepress-amoled-enabled') === 'true';
-            var themeName = localStorage.getItem('vitepress-theme-name') || 'color-swarm';
+            var themeName = localStorage.getItem('vitepress-theme-name');
             var varsJson = localStorage.getItem('vitepress-theme-vars');
 
             // First-time visitors start in Mathy Dark. Existing preferences are

@@ -10,6 +10,7 @@ import { meta, nav, search, sidebar, socialLinks } from './constants'
 import { generateFeed, generateImages, generateMeta } from './hooks'
 import { defs, emojiRender, movePlugin } from './markdown/emoji'
 import { headersPlugin } from './markdown/headers'
+import { mathyLinksPlugin } from './markdown/mathyLinks'
 import { toggleStarredPlugin } from './markdown/toggleStarred'
 import { transformsPlugin } from './transformer'
 import { replaceNoteLink } from './utils/markdown'
@@ -343,6 +344,7 @@ export default defineConfig({
   markdown: {
     emoji: { defs },
     config(md) {
+      md.use(mathyLinksPlugin)
       md.use(emojiRender)
       md.use(toggleStarredPlugin)
       meta.build.api && md.use(headersPlugin)

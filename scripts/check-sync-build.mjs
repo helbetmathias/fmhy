@@ -1,5 +1,5 @@
 import assert from 'node:assert/strict'
-import { readFileSync } from 'node:fs'
+import { readdirSync, readFileSync } from 'node:fs'
 
 const read = (path) =>
   readFileSync(new URL(`../${path}`, import.meta.url), 'utf8')
@@ -48,13 +48,34 @@ assert.doesNotMatch(
   theme,
   /(?:window\.scrollTo|Element\.prototype\.scrollIntoView)\s*=/
 )
-assert.match(style, /--fmhy-scroll-inset:\s*calc\(var\(--vp-nav-height\) \+ 16px\)/)
+assert.match(
+  style,
+  /--fmhy-scroll-inset:\s*calc\(var\(--vp-nav-height\) \+ 16px\)/
+)
 assert.match(
   style,
   /\.vp-doc \[id\],\s*\.vp-search-scroll-target\s*\{\s*scroll-margin-top:\s*var\(--fmhy-scroll-inset\)/
 )
 assert.doesNotMatch(style, /:root\s*\{\s*scroll-behavior:\s*smooth/)
 
+// Monthly updates arrive unchanged from upstream. Their wiki/category links
+// must be localized in the emitted pages, with section anchors preserved.
+const postsDir = new URL('../docs/.vitepress/dist/posts/', import.meta.url)
+for (const file of readdirSync(postsDir).filter((file) =>
+  file.endsWith('.html')
+)) {
+  const post = readFileSync(new URL(file, postsDir), 'utf8')
+  assert.doesNotMatch(
+    post,
+    /<a\b[^>]*href="(?:https?:)?\/\/(?:www\.)?fmhy\.net\/[^"?#]/i,
+    `${file} must keep mirrored page links on the Mathy site`
+  )
+}
+assert.match(
+  read('docs/.vitepress/dist/posts/oct-2026.html'),
+  /href="\/video#live-sports"/
+)
+
 console.log(
-  'Sync build checks passed: branding, canonical URL, FocusTube, search scroll and wiki content.'
+  'Sync build checks passed: branding, canonical URL, FocusTube, search scroll, local post links and wiki content.'
 )

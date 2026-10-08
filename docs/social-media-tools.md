@@ -641,7 +641,7 @@
 
 # ► TikTok Tools
 
-* ⭐ **[⁠TikTrack](https://einzzcookie.org/)** - User Archive / Lookup / Monitor / Viewer / Link Tracker & more / [Telegram](https://t.me/tiktracksite)
+* ⭐ **[⁠TikTrack](https://einzzcookie.org/)** - TikTok User Lookup & Archive / Monitor / Viewer / Link Tracker / Comment & Video Exporter & more / [Telegram](https://t.me/tiktracksite)
 * [Urlebird](https://urlebird.com/) - TikTok Frontend / Viewer
 * [SSSTik](https://ssstik.io/), [myfaveTT](https://myfavett.com/) or [tiktok-to-ytdlp](https://github.com/Dinoosauro/tiktok-to-ytdlp) - TikTok Downloaders
 * [⁠BXD Enhancer](https://method.billoxd.site/) - Bypass TikTok Compression
@@ -656,7 +656,7 @@
 
 # ► Blogging Tools
 
-* ⭐ **[Bear Blog](https://bearblog.dev/)** / [GitHub](https://github.com/HermanMartinus/bearblog), **[⁠TinyBones](https://tinybones.pages.dev/)** / [GitHub](https://github.com/itzcozi/tinybones), [Mataroa](https://mataroa.blog/), [btw](https://www.btw.so/) / [Discord](https://discord.com/invite/vbDysPXJuF) / [GitHub](https://github.com/btw-so/btw)
+* ⭐ **[Bear Blog](https://bearblog.dev/)** / [GitHub](https://github.com/HermanMartinus/bearblog), **[⁠TinyBones](https://tinybones.pages.dev/)**, [Mataroa](https://mataroa.blog/), [btw](https://www.btw.so/) / [Discord](https://discord.com/invite/vbDysPXJuF) / [GitHub](https://github.com/btw-so/btw)
  or [smol.pub](https://smol.pub/) / [Key](https://m15o.ichi.city/smolpub/key-request.html) - Minimalist Blogging Platforms
 * [Telescope](https://telescope.ac/) - Publishing Platform
 * [Dreamwidth](https://www.dreamwidth.org/) - Blogging Platform

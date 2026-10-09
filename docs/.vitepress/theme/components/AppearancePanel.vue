@@ -1,7 +1,6 @@
 <script setup lang="ts">
-import type { DisplayMode } from '../themes/types'
+import type { DisplayVariant } from '../themes/types'
 import { useData } from 'vitepress'
-import { computed } from 'vue'
 import { themeRegistry } from '../themes/configs'
 import { useTheme } from '../themes/themeHandler'
 import { revealThemeChange } from '../themes/themeTransition'
@@ -13,44 +12,28 @@ const props = withDefaults(defineProps<{ closeOnSelect?: boolean }>(), {
 
 const emit = defineEmits<{ requestClose: [] }>()
 
-const { mode, amoledEnabled, setAppearance, setTheme, themeName } = useTheme()
+const { displayVariant, setDisplayVariant, themeName } = useTheme()
 const { isDark } = useData()
 
 interface ModeChoice {
-  mode: DisplayMode
+  variant: DisplayVariant
   label: string
   icon: string
-  isAmoled?: boolean
 }
 
 const modeChoices: ModeChoice[] = [
-  { mode: 'light', label: 'Light', icon: 'i-ph-sun-duotone' },
-  { mode: 'dark', label: 'Dark', icon: 'i-ph-moon-duotone' },
+  { variant: 'light', label: 'Light', icon: 'i-ph-sun-duotone' },
+  { variant: 'dark', label: 'Dark', icon: 'i-ph-moon-duotone' },
   {
-    mode: 'dark',
+    variant: 'amoled',
     label: 'AMOLED',
-    icon: 'i-ph-moon-stars-duotone',
-    isAmoled: true
-  }
+    icon: 'i-ph-moon-stars-duotone'
+  },
+  { variant: 'mathy', label: 'Mathy', icon: 'i-ph-code-duotone' }
 ]
 
-const isMathyDefault = computed(
-  () =>
-    themeName.value === 'mathy' && mode.value === 'dark' && !amoledEnabled.value
-)
-
-const isCurrentMode = (choice: ModeChoice) => {
-  if (choice.isAmoled) {
-    return mode.value === 'dark' && amoledEnabled.value
-  }
-
-  return choice.mode === mode.value && !choice.isAmoled && !amoledEnabled.value
-}
-
-// The Mathy shortcut represents its default dark appearance. Mark that
-// combination once instead of suggesting that a second theme is selected.
 const isActiveChoice = (choice: ModeChoice) =>
-  !isMathyDefault.value && isCurrentMode(choice)
+  displayVariant.value === choice.variant
 
 const requestClose = () => {
   if (props.closeOnSelect) emit('requestClose')
@@ -60,25 +43,11 @@ const selectMode = async (choice: ModeChoice, event: MouseEvent) => {
   event.stopPropagation()
   requestClose()
 
-  if (isCurrentMode(choice)) return
-
-  await revealThemeChange(event, choice.mode === 'dark', () => {
-    setAppearance(choice.mode, Boolean(choice.isAmoled))
-    isDark.value = choice.mode === 'dark'
+  await revealThemeChange(event, choice.variant !== 'light', () => {
+    setDisplayVariant(choice.variant)
+    isDark.value = choice.variant !== 'light'
   })
 
-  requestClose()
-}
-
-// Restore Mathy's default appearance with one click.
-const selectMathy = async (event: MouseEvent) => {
-  event.stopPropagation()
-  requestClose()
-  await revealThemeChange(event, true, () => {
-    setTheme('mathy')
-    setAppearance('dark', false)
-    isDark.value = true
-  })
   requestClose()
 }
 </script>
@@ -86,21 +55,6 @@ const selectMathy = async (event: MouseEvent) => {
 <template>
   <div class="appearance-panel">
     <div class="appearance-panel-title">Appearance</div>
-    <button
-      type="button"
-      class="appearance-panel-item"
-      :class="{ active: isMathyDefault }"
-      :aria-pressed="isMathyDefault"
-      @click="selectMathy($event)"
-    >
-      <div class="i-ph-code-duotone text-lg" aria-hidden="true" />
-      <span>Mathy</span>
-      <div
-        v-if="isMathyDefault"
-        class="i-ph-check text-base ml-auto"
-        aria-hidden="true"
-      />
-    </button>
     <div class="appearance-panel-title">Display variants</div>
     <div role="group" aria-label="Display mode">
       <button

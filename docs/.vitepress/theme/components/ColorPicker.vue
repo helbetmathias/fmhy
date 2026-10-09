@@ -25,7 +25,7 @@ const colorOptions = Object.keys(colors).filter(
 ) as Array<ColorNames>
 
 const presetThemeNames = Object.keys(themeRegistry).filter(
-  (k) => !k.startsWith('color-')
+  (k) => !k.startsWith('color-') && k !== 'mathy'
 )
 
 const getThemePreviewStyle = (name: string) => {

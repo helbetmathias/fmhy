@@ -14,7 +14,13 @@
  *  limitations under the License.
  */
 
-import type { DisplayMode, ModeColors, Theme, ThemeState } from './types'
+import type {
+  DisplayMode,
+  DisplayVariant,
+  ModeColors,
+  Theme,
+  ThemeState
+} from './types'
 import { computed, onMounted, ref } from 'vue'
 import { themeRegistry } from './configs'
 
@@ -22,6 +28,7 @@ const STORAGE_KEY_THEME = 'vitepress-theme-name'
 const STORAGE_KEY_MODE = 'vitepress-display-mode'
 const STORAGE_KEY_AMOLED = 'vitepress-amoled-enabled'
 const STORAGE_KEY_VARS = 'vitepress-theme-vars'
+const STORAGE_KEY_STANDARD_THEME = 'vitepress-standard-theme-name'
 
 export class ThemeHandler {
   private state = ref<ThemeState>({
@@ -421,6 +428,9 @@ export class ThemeHandler {
     this.state.value.currentTheme = themeName
     this.state.value.theme = themeRegistry[themeName]
     localStorage.setItem(STORAGE_KEY_THEME, themeName)
+    if (themeName !== 'mathy') {
+      localStorage.setItem(STORAGE_KEY_STANDARD_THEME, themeName)
+    }
     this.applyTheme()
 
     // Force re-apply ColorPicker colors if theme doesn't specify brand colors
@@ -448,6 +458,41 @@ export class ThemeHandler {
     localStorage.setItem(STORAGE_KEY_MODE, mode)
     localStorage.setItem(STORAGE_KEY_AMOLED, amoled.toString())
     this.applyTheme()
+  }
+
+  public setDisplayVariant(variant: DisplayVariant) {
+    if (variant === 'mathy') {
+      if (this.state.value.currentTheme !== 'mathy') {
+        localStorage.setItem(
+          STORAGE_KEY_STANDARD_THEME,
+          this.state.value.currentTheme
+        )
+      }
+      this.setTheme('mathy')
+      this.setAppearance('dark', false)
+      return
+    }
+
+    // Standard Light/Dark/AMOLED must leave the custom Mathy appearance.
+    // Restore the previous standard palette, or upstream's default palette.
+    if (this.state.value.currentTheme === 'mathy') {
+      const saved = localStorage.getItem(STORAGE_KEY_STANDARD_THEME)
+      this.setTheme(
+        saved && saved !== 'mathy' && themeRegistry[saved]
+          ? saved
+          : 'color-swarm'
+      )
+    }
+    this.setAppearance(
+      variant === 'light' ? 'light' : 'dark',
+      variant === 'amoled'
+    )
+  }
+
+  public getDisplayVariant(): DisplayVariant {
+    if (this.state.value.currentMode === 'light') return 'light'
+    if (this.amoledEnabled.value) return 'amoled'
+    return this.state.value.currentTheme === 'mathy' ? 'mathy' : 'dark'
   }
 
   public setAmoledEnabled(enabled: boolean) {
@@ -537,6 +582,7 @@ export function useTheme() {
 
   return {
     mode: computed(() => state.value.currentMode),
+    displayVariant: computed(() => handler.getDisplayVariant()),
     themeName: computed(() => state.value.currentTheme),
     theme: computed(() => state.value.theme),
     setMode: (mode: DisplayMode) => handler.setMode(mode),
@@ -550,6 +596,8 @@ export function useTheme() {
     toggleAmoled: () => handler.toggleAmoled(),
     setAppearance: (mode: DisplayMode, amoled: boolean) =>
       handler.setAppearance(mode, amoled),
+    setDisplayVariant: (variant: DisplayVariant) =>
+      handler.setDisplayVariant(variant),
     state
   }
 }

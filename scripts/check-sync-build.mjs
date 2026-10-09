@@ -60,12 +60,19 @@ assert.doesNotMatch(style, /:root\s*\{\s*scroll-behavior:\s*smooth/)
 
 // Protect the reviewed design port without changing automatic content sync.
 const appearance = read('docs/.vitepress/theme/components/AppearancePanel.vue')
-assert.match(appearance, /<span>Mathy<\/span>/)
-assert.match(appearance, /:aria-pressed="isMathyDefault"/)
-assert.match(appearance, /!isMathyDefault\.value && isCurrentMode\(choice\)/)
+assert.match(appearance, /variant: 'mathy', label: 'Mathy'/)
+assert.match(appearance, /displayVariant\.value === choice\.variant/)
+assert.match(appearance, /setDisplayVariant\(choice\.variant\)/)
+assert.match(
+  read('docs/.vitepress/theme/components/ColorPicker.vue'),
+  /k !== 'mathy'/
+)
+assert.match(
+  read('docs/.vitepress/theme/themes/themeHandler.ts'),
+  /saved && saved !== 'mathy' && themeRegistry\[saved\]\s*\? saved\s*: 'color-swarm'/
+)
 assert.match(style, /\.mathy\s*\{[\s\S]*?var\(--vp-c-brand-1\) 18%/)
 assert.match(style, /\.mathy\s*\{[\s\S]*?var\(--vp-c-brand-1\) 26%/)
-assert.match(appearance, /setTheme\('mathy'\)/)
 assert.match(appearance, /<ColorPicker compact/)
 assert.match(
   read('docs/.vitepress/theme/themes/themeHandler.ts'),

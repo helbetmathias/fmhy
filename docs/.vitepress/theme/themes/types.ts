@@ -15,6 +15,7 @@
  */
 
 export type DisplayMode = 'light' | 'dark'
+export type DisplayVariant = DisplayMode | 'amoled' | 'mathy'
 
 export interface ModeColors {
   // Brand colors

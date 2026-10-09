@@ -2,7 +2,7 @@ import type { Theme } from './types'
 
 export const mathyTheme: Theme = {
   name: 'mathy',
-  displayName: 'Mathy Dark',
+  displayName: 'Mathy',
   preview: 'linear-gradient(135deg, #0d0f12 50%, #8bc5ff 50%)',
   modes: {
     light: {

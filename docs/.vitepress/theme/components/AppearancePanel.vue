@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import type { DisplayMode } from '../themes/types'
 import { useData } from 'vitepress'
+import { computed } from 'vue'
 import { themeRegistry } from '../themes/configs'
 import { useTheme } from '../themes/themeHandler'
 import { revealThemeChange } from '../themes/themeTransition'
@@ -33,13 +34,23 @@ const modeChoices: ModeChoice[] = [
   }
 ]
 
-const isActiveChoice = (choice: ModeChoice) => {
+const isMathyDefault = computed(
+  () =>
+    themeName.value === 'mathy' && mode.value === 'dark' && !amoledEnabled.value
+)
+
+const isCurrentMode = (choice: ModeChoice) => {
   if (choice.isAmoled) {
     return mode.value === 'dark' && amoledEnabled.value
   }
 
   return choice.mode === mode.value && !choice.isAmoled && !amoledEnabled.value
 }
+
+// The Mathy shortcut represents its default dark appearance. Mark that
+// combination once instead of suggesting that a second theme is selected.
+const isActiveChoice = (choice: ModeChoice) =>
+  !isMathyDefault.value && isCurrentMode(choice)
 
 const requestClose = () => {
   if (props.closeOnSelect) emit('requestClose')
@@ -49,7 +60,7 @@ const selectMode = async (choice: ModeChoice, event: MouseEvent) => {
   event.stopPropagation()
   requestClose()
 
-  if (isActiveChoice(choice)) return
+  if (isCurrentMode(choice)) return
 
   await revealThemeChange(event, choice.mode === 'dark', () => {
     setAppearance(choice.mode, Boolean(choice.isAmoled))
@@ -59,7 +70,7 @@ const selectMode = async (choice: ModeChoice, event: MouseEvent) => {
   requestClose()
 }
 
-// Keep the fork's original one-click Mathy Dark shortcut in the new panel.
+// Restore Mathy's default appearance with one click.
 const selectMathy = async (event: MouseEvent) => {
   event.stopPropagation()
   requestClose()
@@ -78,14 +89,19 @@ const selectMathy = async (event: MouseEvent) => {
     <button
       type="button"
       class="appearance-panel-item"
-      :class="{
-        active: themeName === 'mathy' && mode === 'dark' && !amoledEnabled
-      }"
+      :class="{ active: isMathyDefault }"
+      :aria-pressed="isMathyDefault"
       @click="selectMathy($event)"
     >
       <div class="i-ph-code-duotone text-lg" aria-hidden="true" />
-      <span>Mathy Dark</span>
+      <span>Mathy</span>
+      <div
+        v-if="isMathyDefault"
+        class="i-ph-check text-base ml-auto"
+        aria-hidden="true"
+      />
     </button>
+    <div class="appearance-panel-title">Display variants</div>
     <div role="group" aria-label="Display mode">
       <button
         v-for="choice in modeChoices"
@@ -121,11 +137,7 @@ const selectMathy = async (event: MouseEvent) => {
 .appearance-panel {
   --appearance-panel-content-width: 180px;
   --appearance-panel-inline-padding: 8px;
-  --appearance-panel-accent-subtle: color-mix(
-    in srgb,
-    var(--vp-c-brand-1) 7%,
-    var(--vp-c-bg)
-  );
+  --appearance-panel-accent-subtle: var(--fmhy-c-accent-subtle);
 
   width: 100%;
   min-width: var(--appearance-panel-content-width);

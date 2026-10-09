@@ -112,9 +112,13 @@ export class ThemeHandler {
   public applyTheme() {
     if (typeof document === 'undefined') return
 
-    const { currentMode, theme } = this.state.value
+    const { currentTheme, currentMode, theme } = this.state.value
     const root = document.documentElement
 
+    // Preset configs are keyed by the registry, not by an optional `name`.
+    // Keep their layout styles in sync when selecting them from the panel.
+    root.dataset.theme = currentTheme
+    root.classList.toggle('monolith', currentTheme === 'monolith')
     this.applyDOMClasses(currentMode)
 
     if (!theme) {
@@ -147,13 +151,13 @@ export class ThemeHandler {
     const modeColors = theme.modes[currentMode]
     this.applyCSSVariables(modeColors, theme)
 
-    if (theme.name === 'monochrome') {
+    if (currentTheme === 'monochrome') {
       root.classList.add('monochrome')
     } else {
       root.classList.remove('monochrome')
     }
 
-    if (theme.name === 'mathy') {
+    if (currentTheme === 'mathy') {
       root.classList.add('mathy')
     } else {
       root.classList.remove('mathy')

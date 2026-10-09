@@ -23,7 +23,7 @@ import {
 } from 'unocss'
 
 export default defineConfig({
-  blocklist: ['container'],
+  blocklist: ['container', 'outline'],
   content: {
     pipeline: {
       exclude: [/\.md($|\?)/]

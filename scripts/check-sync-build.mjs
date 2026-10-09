@@ -58,6 +58,19 @@ assert.match(
 )
 assert.doesNotMatch(style, /:root\s*\{\s*scroll-behavior:\s*smooth/)
 
+// Protect the reviewed design port without changing automatic content sync.
+const appearance = read('docs/.vitepress/theme/components/AppearancePanel.vue')
+assert.match(appearance, /Mathy Dark/)
+assert.match(appearance, /setTheme\('mathy'\)/)
+assert.match(appearance, /<ColorPicker compact/)
+assert.match(
+  read('docs/.vitepress/theme/themes/themeHandler.ts'),
+  /root\.classList\.toggle\('monolith', currentTheme === 'monolith'\)/
+)
+assert.match(style, /\.VPSidebarItem\.is-link > \.item > \.link:hover/)
+assert.match(style, /background: var\(--fmhy-c-accent-muted\)/)
+assert.doesNotMatch(reading, /Share Feedback/)
+
 // Monthly updates arrive unchanged from upstream. Their wiki/category links
 // must be localized in the emitted pages, with section anchors preserved.
 const postsDir = new URL('../docs/.vitepress/dist/posts/', import.meta.url)

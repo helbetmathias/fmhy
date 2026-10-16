@@ -104,6 +104,8 @@
 * ⭐ **[bt.etree](https://bt.etree.org/)** - Concert Recordings / Torrents
 * ⭐ **[Bootleg.fm](https://bootleg.fm/)** - Bootleg Concert Recordings / Archive / [Discord](https://discord.gg/3yz4HNteuR)
 * ⭐ **[hate5six](https://hate5six.com/)** - Concert Recordings
+* ⭐ **[Tiny Desk Concerts](https://www.npr.org/series/tiny-desk-concerts/)** - Intimate Concerts at NPR Headquarters / [YouTube](https://www.youtube.com/@nprmusic)
+* ⭐ **[MixesDB](https://www.mixesdb.com/)** - DJ Mixes / Livesets / [Essentials List](https://rentry.co/dancemixbible/)
 * ⭐ **[BBC Radio 1 Essential Mix](https://rentry.co/musicdiscovery/#bbc-radio-1-essential-mix)** - BBC Radio 1 Essential Mix Archive + Guide / [Downloader](https://rentry.co/bbcemdl)
 * ⭐ **[MiroPPB](https://miroppb.com/)** - A State of Trance Archive / DJ Mixes / [Downloader](https://rentry.co/asotdl)
 * ⭐ **[setlist.fm](https://www.setlist.fm/)** - Setlist Database
@@ -118,8 +120,6 @@
 * [etreedb](https://etreedb.org/) - Concert Recordings / Torrents
 * [MuseBootlegs](https://www.musebootlegs.com/) - Bootleg Concert Recordings / Torrents
 * [LiveBootlegConcert](https://livebootlegconcert.blogspot.com/) - Bootleg Concert Recordings / Torrents
-* [Tiny Desk Concerts](https://www.npr.org/series/tiny-desk-concerts/) - Intimate Concerts at NPR Headquarters / [YouTube](https://www.youtube.com/@nprmusic)
-* [MixesDB](https://www.mixesdb.com/) - DJ Mixes / Livesets / [Essentials List](https://rentry.co/dancemixbible/)
 * [TopDJMixes](https://topdjmixes.com/) - DJ Mixes / Livesets
 * [GOA PsyTrance Livesets](https://rentry.co/FMHYB64#goa-psytrance-livesets) - DJ Mixes / Livesets
 * [⁠HD Mixtapes](https://hdmixtapes.org/) - DJ Mixes / Livesets
@@ -251,7 +251,7 @@
 * [Internet-Radio](https://internet-radio.com/) - Station-Directory
 * [⁠The Lot Radio](https://www.thelotradio.com/) - Independent Internet Radio
 * [deepcut.fm](https://deepcut.live/) - Deep-Cuts
-* [⁠ROVR](https://www.rovr.live/) - Community-Curated Radio 
+* [⁠ROVR](https://www.rovr.live/) - Community-Curated Radio
 * [Tilderadio](https://tilderadio.org/) - Community Radio
 * [UpBeat](https://upbeatradio.net/) - Community Radio / [Discord](https://upbeat.pw/discord)
 * [⁠Rinse FM](https://www.rinse.fm/) - London-Based Community Radio
@@ -298,7 +298,7 @@
 * [Nightride.fm](https://nightride.fm/) - Synthwave / Darksynth Radio
 * [TechnoBase](https://www.technobase.fm), [TranceBase](https://www.trancebase.fm), [HouseTime](https://www.HouseTime.fm) or [HardBase](https://www.HardBase.fm) - Electronic Radio / [Discord](https://discord.com/invite/xFRcWdNUkY)
 * [HappyHardcore](https://www.happyhardcore.com/radio/) - Hardcore Dance Radio
-* [⁠Death.FM](https://death.fm/) - Metal Radio / Community 
+* [⁠Death.FM](https://death.fm/) - Metal Radio / Community
 * [CoreRadio](https://coreradio.online/listen) - Metalcore / Hardcore / Deathcore Radio
 * [LISTEN.moe](https://listen.moe/) - J-Pop / K-Pop Radio
 * [J1 Radio](https://rec.torontocast.stream/player/) - J-Pop Radio
@@ -355,7 +355,7 @@
 * [Canvas Downloader](https://www.canvasdownloader.com/) - Extract Spotify Canvas Art
 * [ListenByLabel](https://www.lbl.fm/) - Search Spotify Record Labels
 * [xmplaylist](https://xmplaylist.com/) - Listen to SiriusXM Channels on Spotify
-* [⁠SpotifyATVAdBlock](https://github.com/schultzyyy271/SpotifyATVAdBlock) - Spotify Adblock for AppleTV 
+* [⁠SpotifyATVAdBlock](https://github.com/schultzyyy271/SpotifyATVAdBlock) - Spotify Adblock for AppleTV
 
 ***
 

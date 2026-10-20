@@ -731,10 +731,11 @@
 
 ## ▷ Launchers
 
+* ↪️ **[Browser Minecraft](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_browser_minecraft)**
 * ⭐ **[PineconeMC](https://pineconemc.ru/)**, [2](https://elyprismlauncher.github.io/) / [Discord](https://discord.gg/5kcBCvnbTp) / [GitHub](https://github.com/ElyPrismLauncher/Launcher), **[Freesm Launcher](https://freesmlauncher.org/)** / [Theme Creator](https://new.freesmlauncher.org/themes) / [Telegram](https://t.me/freesmteam) / [Discord](https://discord.com/invite/6jjw4gjy4w) / [GitHub](https://github.com/FreesmTeam/FreesmLauncher) or [ShatteredPrism](https://github.com/LunaisLazier/ShatteredPrism) - Prism Launcher Forks w/ Alt Auth Server Support / Windows, macOS, Linux
 * ⭐ **[Zalith Launcher](https://www.zalithlauncher.cn/)** / [Offline](https://rentry.co/FMHYB64#zalith) / [Discord](https://discord.gg/yDDkTHp4cJ) / [GitHub](https://github.com/ZalithLauncher/ZalithLauncher2), [Mojolauncher](https://github.com/mojolauncher/mojolauncher) / [Discord](https://discord.com/invite/VHdwQFsaGX) or [FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) / [Discord](https://discord.com/invite/ffhvuXTwyV) - Java Edition for Mobile / Android
 * [HMCL](https://hmcl.huangyuhui.net/) / [GitHub](https://github.com/HMCL-dev/HMCL), [SKlauncher](https://skmedix.pl/) / [Ad Bypass](https://greasyfork.org/en/scripts/563188), [X Minecraft Launcher](https://xmcl.app/) / [Discord](https://discord.com/invite/W5XVwYY7GQ), [Quantum Launcher](https://mrmayman.github.io/quantumlauncher/) / [Discord](https://discord.com/invite/bWqRaSXar5) / [GitHub](https://github.com/Mrmayman/quantum-launcher/), [Legacy Launcher](https://llaun.ch/en), [AstralRinth](https://git.astralium.su/didirus/AstralRinth) or [PrismLauncher-Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked) - Cross-Platform Launchers
-* [LeviLauncher](https://github.com/LiteLDev/LeviLauncher) or [Bedrock Launcher](https://bedrocklauncher.github.io/) / [GitHub](https://github.com/BedrockLauncher/BedrockLauncher) - Bedrock Launchers / [Guides](https://mcdoc.site/) / Windows
+* [LeviLauncher](https://github.com/LiteLDev/LeviLauncher) / [Mods](https://discord.gg/v5R5P4vRZk), [2](https://pkg.levimc.org/) or [Bedrock Launcher](https://bedrocklauncher.github.io/) / [GitHub](https://github.com/BedrockLauncher/BedrockLauncher) - Bedrock Launchers / [Guides](https://mcdoc.site/) / Windows
 * [Betacraft Launcher](https://betacraft.uk/) / [2](https://betacraft.ee/) / [3](https://betacraft.ovh/) / [LegacyFix](https://github.com/betacraftuk/legacyfix) or [Minecraft Legacy](https://rentry.co/FMHYB64#mc-legacy) - Legacy & Console Edition Launchers
 
 ***
@@ -918,6 +919,9 @@
 * 🌐 **[osu! Game Resources](https://resources.osucord.moe/)** / [GitHub](https://github.com/osucord/resources) or **[Useful Osu](https://github.com/CarbonUwU/Useful-osu)** - Osu! Resources
 * ↪️ **[Browser Rhythm Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_rhythm)**
 * ⭐ **[Clone Hero](https://clonehero.net/)** - Guitar Hero Clone / [Wiki / Guides](https://wiki.clonehero.net/) / [Setlists](https://rentry.co/FMHYB64#setlists), [2](https://customsongscentral.com/) / [Custom Client](https://clonehero.scorespy.online) / [Discord](https://discord.gg/Hsn4Cgu)
+* [osu!](https://osu.ppy.sh/home) - Rhythm Game / [Discord](https://discord.gg/ppy) / [GitHub](https://github.com/ppy)
+* [⁠osu-winello](https://github.com/NelloKudo/osu-winello/) - osu! Installer for Linux
+* [osu!droid](https://osudroid.moe/) - osu! for Android / [Discord](https://discord.gg/fAq9em8) / [GitHub](https://github.com/osudroid/osu-droid) 
 * [YARG](https://yarg.in/) - Rock Band Clone / [Launcher](https://github.com/YARC-Official/YARC-Launcher/releases) / [Discord](https://discord.gg/sqpu4R552r) / [GitHub](https://github.com/YARC-Official)
 * [⁠YAVSRG (Interlude)](https://www.yavsrg.net/) - Rhythm Game Engine / [Discord](https://discord.com/invite/tA22tWR)
 * [Bridge](https://github.com/Geomitron/Bridge) - Download Charts for Rhythm Games / [Discord](https://discord.gg/cqaUXGm)
@@ -926,7 +930,7 @@
 * [Unnamed SDVX clone](https://github.com/Drewol/unnamed-sdvx-clone) - Sound Voltex Clone
 * [OpenTaiko](https://github.com/0auBSQ/OpenTaiko) - Taiko no Tatsujin Clone / [Taiko Simulator Guide](https://guide.tjadataba.se/) / [Discord](https://discord.gg/aA8scTvZ6B)
 * [Etterna](https://etternaonline.com/) or [Quaver](https://quavergame.com/) / [Discord](https://discord.gg/quaver) / [GitHub](https://github.com/Quaver) - O2Jam Clones
-* [osu!](https://osu.ppy.sh/home) / [Discord](https://discord.gg/ppy) / [GitHub](https://github.com/ppy), [osu!droid](https://osudroid.moe/) / [Discord](https://discord.gg/fAq9em8) / [GitHub](https://github.com/osudroid/osu-droid) or [McOsu](https://store.steampowered.com/app/607260/McOsu/) / [Discord](https://discord.gg/3UQnt7X) - Osu! Tatakae! Ouendan Clones
+* [McOsu](https://store.steampowered.com/app/607260/McOsu/) - Osu! Tatakae! Ouendan Clone / [Discord](https://discord.gg/3UQnt7X) 
 * [PPD](https://projectdxxx.me/) - Project Diva Clone
 * [Rhythia](https://github.com/Rhythia/Client) - Sound Space Clone / [Discord](https://discord.gg/rhythia) / [Wiki](https://wiki.rhythia.net/)
 * [Cytoid](https://cytoid.io/) - Cytus Clone / [GitHub](https://github.com/Cytoid/)

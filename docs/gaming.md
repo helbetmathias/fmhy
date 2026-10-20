@@ -173,9 +173,11 @@
 * 🌐 **[Awesome Unofficial PC Ports](https://github.com/Sebastrion/awesome-unofficial-pc-ports)** - Game Decompilations / Ports
 * 🌐 **[Galaxy of Games](https://galaxyofgames.neocities.org/)** - Game Decompilations / Ports
 * 🌐 **[PCGamingWiki Ports](https://www.pcgamingwiki.com/wiki/List_of_unofficial_ports)** - Game Decompilations / Ports
+* 🌐 **[⁠Awesome Decomp Games](https://github.com/SubmitGame/awesome-decomp-games)** - Game Decompilations / Ports
 * 🌐 **[⁠PortsDR](https://portsdr.com/)** - Game Decompilations / Ports
 * 🌐 **[TheGamingEmporium](https://thegamingemporium.com/categories/decompilations-recompilations/)** - Game Decompilations / Ports
 * 🌐 **[GameTechWiki Ports](https://emulation.gametechwiki.com/index.php/Game_engine_recreations_and_source_ports)** - Game Decompilations / Ports
+* 🌐 **[⁠recomp.fyi](https://recomp.fyi/)** - Recomp Status Tracker
 * [Quiver Launcher](https://quiverlauncher.com/) / [GitHub](https://github.com/tgeorgiadis/quiver-launcher) or [GithubLauncher](https://github.com/SirDiabo/GithubLauncher) - Launch / Manage Recompiled Games ⁠
 * [IOQuake3](https://ioquake3.org/) - Quake 3 Source Port / [Discord](https://discord.gg/YY9UvMHGYb) / [GitHub](https://github.com/ioquake/ioq3)
 * [YQuake2](https://www.yamagi.org/quake2/) - Quake 2 Source Port / [GitHub](https://github.com/yquake2/yquake2)
@@ -386,6 +388,7 @@
 * [NSWGame](https://nswgf.com/) - ROMs / DS / 3DS / Switch / Wii / WiiU / Avoid PC Games
 * [ROMSLAB](https://romslab.com/) - ROMs / Switch / [Telegram](https://t.me/GameCentrala) / [Discord](https://discord.com/invite/MmTjxwYvG9)
 * [NXbrew](https://nxbrew.net/) - ROMs / Switch
+* [NSWPURE](https://nswpure.com/) - ROMs / Switch
 * [GNS](https://rentry.co/FMHYB64#gns) - ROMs / Switch / Requires Telegram
 * [RomSim](https://romsim.net/) - ROMs / Switch
 * [SmallGames](https://smallgames.ch/) - ROMs / Switch / [Discord](https://discord.com/invite/rgttByzYRY)
@@ -831,8 +834,6 @@
 
 ## ▷ Party / Multiplayer
 
-* ⭐ **[Eaglercraft](https://eaglercraft.com/)** / [Discord](https://discord.gg/yxpa55BahB), [Eaglercraft.dev](https://eaglercraft.dev/), [q13x's Distros](https://eaglercraft.q13x.com/), [MessCraft](https://mess.eu.org/) / [Site List](https://deev.is/) / [Discord](https://discord.com/invite/kbzUdZQWgd), [Hiracraft](https://craft.hira.im/), [WebMC](https://webmc.xyz/) / [2](https://webmc.colbster937.dev/) / [3](https://webmc-launcher.vercel.app/), [Classic Launcher](https://radmanplays.github.io/classic-launcher/), [EaglerCraftX](https://client.eaglercraft.win/) or [Minecraft Classic](https://classic.minecraft.net/) - Online Browser Minecraft / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/eaglercraft-note.md)
-* ⭐ **Eaglercraft Tools** - [Mod Loader](https://eaglerforge.github.io/) / [Create Mods](https://eaglerforge-builder.vercel.app/), [2](https://eaglerforge.github.io/EaglerForgeBuilderNew/) / [Public Servers](https://topeaglerservers.com/) / [Improved Servers](https://github.com/lax1dude/eaglerxserver), [2](https://modrinth.com/organization/eaglercraftxserver)
 * ⭐ **[NetGames](https://netgames.io/)** - Multiple Games / [Discord](https://discord.com/invite/chgD7WF)
 * ⭐ **[Gidd.io](https://gidd.io/)** - Multiple Games / [Discord](https://discord.com/invite/gmt2d69DP7)
 * ⭐ **[Gartic Phone](https://garticphone.com/)** - Telephone Game / [Discord](https://discord.gg/gartic)
@@ -843,12 +844,12 @@
 * [Billiards Pool Game](https://billiards.tailuge.workers.dev/lobby) - Multiplayer 3D Billiards, Pool and Snooker / [GitHub](https://github.com/tailuge/billiards)
 * [⁠Tough Love Arena](https://toughlovearena.com/) - Multiplayer Browser Fighting Game / [Discord](https://discord.gg/gMBRaUPDT7)
 * [AWBW](https://awbw.amarriner.com/) - Multiplayer Browser Advance Wars / [Discord](https://discord.com/invite/rPpWT2x)
-* [Bloxd](https://bloxd.io/) / [Texture Editor / Assets](https://www.bloxdforge.com/) / [Discord](https://discord.com/invite/vwMp5y25RX) or [MiniBlox](https://miniblox.io/) / [Discord](https://discord.com/invite/nAwzkUJNmb) - Online Minecraft Clones
 * [PandaBomber](https://pandabomber.gg/) or [Game Of Bombs](https://gameofbombs.com/) / [Discord](https://discord.gg/YFJCCxkdFZ) - Multiplayer Bomberman Style Games
 * [Windage](https://windage.online/) or [Scorch2000](http://www.scorch2000.com/) - Multiplayer Artillery Battle Games / Scorched Earth Remakes
 * [⁠RocketGoal](https://rocketgoal.io/) - Rocket-League Style Game / [Discord](https://discord.com/invite/MjHEyuhMuG)
 * [Golf Party](https://golfparty.io/), [Mini Golf Club](https://minigolfclub.io/) or [⁠putt.day](https://putt.day/) - Multiplayer Mini-Golf Games
 * [Slither.io](http://slither.com/io) - Grow the Longest Worm
+* [⁠Neon Wardens](https://neonwardens.com/) - Multiplayer Elemental Tower Defense 
 * [Make It Meme](https://makeitmeme.com/) - Meme Party Game / [Discord](https://discord.gg/t3GZmuQndv)
 * [Sigmally](https://one.sigmally.com/) / [Discord](https://discord.com/invite/4j4Rc4dQTP) or [agar.io](https://agar.io/) - Become the Biggest Circle
 * [Hexar.io](https://www.hexar.io/) or [splix.io](https://splix.io/) - Control the Map
@@ -871,6 +872,26 @@
 * [Smash Karts](https://smashkarts.io/) - Kart Battles
 * [Spacewar!](https://www.masswerk.at/spacewar/) - All 11 Versions / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/spacewar.md)
 * [tix.tax](https://tix.tax/) - Tic-Tac-Toe
+
+***
+
+## ▷ Browser Minecraft
+
+* 🌐 **[Top Eaglercraft Servers](https://topeaglerservers.com/)** - Public Eaglercraft Server List
+* ⭐ **[Eaglercraft](https://eaglercraft.com/)** - Browser-Based Minecraft / [Discord](https://discord.gg/yxpa55BahB) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/eaglercraft-note.md)
+* [q13x's Distros](https://eaglercraft.q13x.com/) - Custom Eaglercraft Clients
+* [Eaglercraft.dev](https://eaglercraft.dev/) - Eaglercraft Client Directory & Launcher
+* [WebMC](https://webmc.xyz/), [2](https://webmc.colbster937.dev/), [3](https://webmc-launcher.vercel.app/) - Eaglercraft Multi-Version Launcher
+* [EaglerCraftX](https://client.eaglercraft.win/) - Eaglercraft Mirror / Alt Versions
+* [MessCraft](https://mess.eu.org/) - Eaglercraft Server Network / [Site List](https://deev.is/) / [Discord](https://discord.com/invite/kbzUdZQWgd)
+* [Hiracraft](https://craft.hira.im/) - Eaglercraft Mirror
+* [Classic Launcher](https://radmanplays.github.io/classic-launcher/) or [Minecraft Classic](https://classic.minecraft.net/) - Browser-Based Pre-Classic / Classic Minecraft
+* [ClassiCube](https://www.classicube.net/) - Browser-Based Minecraft Clone / [Discord](https://discord.com/invite/DvYYyRw) / [GitHub](https://github.com/UnknownShadow200/ClassiCube)
+* [Bloxd](https://bloxd.io/) - Browser-Based Minecraft Clone / [Texture Editor / Assets](https://www.bloxdforge.com/) / [Discord](https://discord.com/invite/vwMp5y25RX)
+* [MiniBlox](https://miniblox.io/) - Browser-Based Minecraft Clone / [Discord](https://discord.com/invite/nAwzkUJNmb)
+* [EaglerForge](https://eaglerforge.github.io/) - Eaglercraft Mod Loader
+* [EaglerForge Builder](https://eaglerforge-builder.vercel.app/) or [EaglerForgeBuilderNew](https://eaglerforge.github.io/EaglerForgeBuilderNew/) - Create Eaglercraft Mods
+* [EaglercraftXServer](https://modrinth.com/organization/eaglercraftxserver) - Improved Eaglercraft Server Tool / [GitHub](https://github.com/lax1dude/eaglerxserver)
 
 ***
 
@@ -968,7 +989,6 @@
 * [FSHistory](https://s-macke.github.io/FSHistory/) - Play Classic Flight Simulator
 * [⁠Ride Simulator](https://sims.willby.info/) - Disney Ride Control Simulators
 * [Hacker Wars](https://hackerwars.io/) - Hacking Simulators
-* [Startup Simulator](https://toggl.com/startup-simulator/) - Startup Simulation Game
 * [Sim CB](https://benoitessiambre.com/macro.html) - Central Bank Simulator
 * [Orbity](https://orbity.io/game.php) - Spaceship Launching Game
 * [⁠Chaser Dot](https://play.chaserdot.com/) - Live Storm Chase Simulation Game

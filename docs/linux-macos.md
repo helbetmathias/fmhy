@@ -32,7 +32,7 @@
 * [Awesome for One Liner](https://github.com/sheepla/awesome-for-oneliner) - Curated One-Liner CLI Tools
 * [You Don't Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - CLI Alts for GUI Tasks
 * [CommandlineFU](https://www.commandlinefu.com/) - Community-Driven Command Snippets
-* [cheat.sh](https://github.com/chubin/cheat.sh) or [Commands.dev](https://www.commands.dev/) - Terminal Commands
+* [cheat.sh](https://github.com/chubin/cheat.sh) - Terminal Commands
 * [Bash Academy](https://guide.bash.academy/) - Bash Scripting Guide
 * [ss64 Bash](https://ss64.com/bash/) - Alphabetical Command Reference
 * [Bash Oneliner](https://onceupon.github.io/Bash-Oneliner/) - Bash One-Liner Collection
@@ -53,6 +53,7 @@
 * [Discord-Linux](https://discord.gg/discord-linux) - Linux Discord Server
 * [Arch Linux Community](https://discord.gg/3m6dbPR) - Arch Discord Server / [Fluxer](https://fluxer.gg/mb4B39fZ)
 * [Debian Community](https://discord.gg/debian) or [r/debian](https://www.reddit.com/r/debian/) - Debian Discord Server + Subreddit / [Fluxer](https://fluxer.gg/debian)
+* [⁠Fedora Linux](https://discord.gg/fedora) - Fedora Discord Server
 * [Linux.org](https://linux.org/) - Linux Forum / Invite Required for Account
 * [Arch Forums](https://bbs.archlinux.org/) - Linux Forum
 * [Gentoo Forums](https://forums.gentoo.org/) - Linux Forum
@@ -696,7 +697,6 @@
 * [⁠Unwatched](https://apps.apple.com/app/unwatched-para-youtube/id6477287463) / [GitHub](https://github.com/fer0n/Unwatched) or [Yattee](https://github.com/yattee/yattee) - YouTube Players
 * [REAL Video Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Video Upscaling / [Discord](https://discord.com/invite/mRReVBMQtN)
 * [Cap](https://cap.so/) / [X](https://x.com/cap) / [Discord](https://discord.gg/y8gdQ3WRN3) / [GitHub](https://github.com/CapSoftware/Cap), [Kap](https://getkap.co) / [GitHub](https://github.com/wulkano/kap), [⁠Tight Studio](https://tight.studio/) / [Subreddit](https://www.reddit.com/r/TightStudio/) / [X](https://x.com/tight_studio) / [Discord](https://discord.gg/zNXQjXSJrJ) or [ScreenTimeLapse](https://github.com/wkaisertexas/ScreenTimeLapse) - Screen Recorders
-* [⁠LonelyScreen](https://www.lonelyscreen.com/) - AirPlay Receiver for PC + macOS / Infinite Free Trial
 
 ***
 

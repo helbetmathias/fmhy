@@ -146,7 +146,7 @@
 * [⁠Curium](https://curium.design/) - Generator / Customizable / Windows, macOS, Linux, Android / [GitHub](https://github.com/nylxar/curium)
 * [⁠Ente QR](https://qr.ente.com/) - Generator / Customizable / [GitHub](https://github.com/ente-toys/qr)
 * [⁠Just The QR Code](https://justthefuckingqrco.de/) - Generator / Customizable
-* [⁠Midas QR](https://midasqr.is-local.org/) - Generator / Customizable / [GitHub](https://github.com/Jimm144/midas-qr)
+* [⁠Midas QR](https://midas-qr.vercel.app/) - Generator / Customizable
 * [QArt Coder](https://research.swtch.com/qr/draw/) - Generator / Customizable
 * [QRcodly](https://www.qrcodly.de/) - Generator / Customizable
 * [QRCode Monkey](https://www.qrcode-monkey.com/) - Generator / Customizable
@@ -274,7 +274,7 @@
 ## ▷ Custom Search Engines
 
 * 🌐 **[CSE Utopia](https://start.me/p/EL84Km/cse-utopia)**, [Awesome CSEs](https://github.com/davzoku/awesome-custom-search-engines) or [Boolean Strings](https://booleanstrings.com/all-the-40-forty-custom-search-engines/) - Custom Search Engine Indexes
-* ⭐ **[⁠HizSearch](https://hizsearch.pages.dev/)** / [Steam Button](https://github.com/hiz0147/HizSteamButton), **[Virgil Game Search](https://virgil.samidy.com/?engine=games)**, [2](https://virgil-search.pages.dev/?engine=games) / [GitHub](https://github.com/SamidyFR/Virgil), [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg) or [r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Game Search Engines
+* ⭐ **[⁠HizSearch](https://hizsearch.pages.dev/)** / [Steam Button](https://github.com/hiz0147/HizSteamButton) / [Discord](https://discord.gg/QFnktdhedT), **[Virgil Game Search](https://virgil.samidy.com/?engine=games)**, [2](https://virgil-search.pages.dev/?engine=games) / [GitHub](https://github.com/SamidyFR/Virgil), [Game Download CSE](https://cse.google.com/cse?cx=006516753008110874046:cbjowp5sdqg) or [r/PiratedGames CSE](https://cse.google.com/cse?cx=20c2a3e5f702049aa) - Multi-Site Game Search Engines
 * [JustFreeBooks](https://www.justfreebooks.info/), [Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8) / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39) or [Recherche](https://recherche-ebook.fr/en/) - Multi-Site Book Search
 * [TV Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:hrhinud6efg) - Search TV Streaming Sites
 * [Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:cfdhwy9o57g##gsc.tab=0), [2](https://cse.google.com/cse?cx=006516753008110874046:o0mf6t-ugea##gsc.tab=0), [3](https://cse.google.com/cse?cx=98916addbaef8b4b6), [4](https://cse.google.com/cse?cx=0199ade0b25835f2e)
@@ -692,7 +692,6 @@
 * ↪️ **[Image Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_download_extensions)**
 * ↪️ **[Productivity / Site Blocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_productivity_.2F_time_tracking)**
 * ↪️ **[Bookmark Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_bookmark_managers)**
-* ↪️ **[Tab Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tab_managers)**
 * ⭐ **[Stylus](https://add0n.com/stylus.html)** - Custom Website Color Schemes / [GitHub](https://github.com/openstyles/stylus/)
 * ⭐ **Stylus Styles** - [User Styles](https://userstyles.world/), [2](https://uso.kkx.one/) / [OLED](https://github.com/zettaexa/userstyles) / [Oldschool](https://forum.spacehey.com/topic?id=90895) / [Catppuccin](https://github.com/catppuccin/userstyles)
 * ⭐ **[Dark Reader](https://darkreader.org/)** / [GitHub](https://github.com/darkreader/darkreader), [Midnight Lizard](https://midnight-lizard.org/) or [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html) - Dark Mode
@@ -708,6 +707,7 @@
 * [Custom Page Zoom](https://mybrowseraddon.com/custom-page-zoom.html) - Improves Zoom Functionality
 * [User Agent Switcher](https://webextension.org/listing/useragent-switcher.html) - Switch Your User-Agent
 * [⁠CRXInstaller](https://addons.mozilla.org/en-US/firefox/addon/crxinstaller/) - Use Chrome Extensions in Firefox Forks, Floorp, Librewolf, etc. / [GitHub](https://github.com/FoxRefire/ChromeXPIPorter)
+* [⁠OneTab](https://www.one-tab.com/) or [One Tab Group](https://www.tabdeck.so/) - Tab Managers
 * [Snooze Tabs](https://github.com/bwinton/SnoozeTabs) - Temporarily Snooze Tabs
 * [AutoRefresh](https://autorefresh.io/) or [Tab Auto Refresh](https://mybrowseraddon.com/tab-auto-refresh.html) - Refresh Tabs
 * [Dictionaries](https://github.com/pnlpal/dictionariez) or [Definer](https://lumetrium.com/definer/) - Popup Dictionaries
@@ -768,6 +768,7 @@
 
 * 🌐 **[Firefox Addons](https://addons.mozilla.org/firefox/extensions/)** - Firefox Addon Store
 * ⭐ **[FoxyTab](https://addons.mozilla.org/en-US/firefox/addon/foxytab/)** - Tab Tools
+* ⭐ **[Sidebery](https://github.com/mbnuqw/sidebery)**, [TreeStyleTabs](https://github.com/piroor/treestyletab), [Tab Stash](https://josh-berry.github.io/tab-stash/) or **[Simple Tab Groups](https://github.com/drive4ik/simple-tab-groups)** - Tab Managers
 * [Firefox Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/), [Container Tab Groups](https://addons.mozilla.org/en-US/firefox/addon/container-tab-groups/) or [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/) - Separate Firefox Sessions / [Guide](https://www.thechiefmeat.com/guides/containers.html)
 * [ContextSearch web-ext](https://addons.mozilla.org/en-US/firefox/addon/contextsearch-web-ext/) - Search Selected Text / Multi Site Search
 * [FoxyLink](https://addons.mozilla.org/en-US/firefox/addon/foxylink/) - Link Tools
@@ -810,7 +811,6 @@
 * [Bookmarks Cleanup](https://chromewebstore.google.com/detail/bookmarks-clean-up/oncbjlgldmiagjophlhobkogeladjijl) - Bookmark Cleanup
 * [Night Shift Redux](https://chromewebstore.google.com/detail/night-shift/ocginjipilabheemhfbedijlhajbcabh) - Adapts Display Color to Time of Day
 * [SmoothKeyScroll](https://www.smoothkeyscroll.com/) - Smooth Key Scrolling
-* [Page Pad](https://chromewebstore.google.com/detail/page-pad-make-quick-notes/igobdfagkcadgcfooegonbbeeggagakn) - Web Page Note-Taking
 * [Text to Image](https://chromewebstore.google.com/detail/text-to-image/nkljaohokglebeljcgchmehnhdieakda) - Text to Image
 * [Bookmark Dupes](https://chromewebstore.google.com/detail/bookmark-dupes/ombpkjoelcapenbepmgifadkgpokfgfd) - Remove Dupe Bookmarks
 * [⁠Tabler](https://tabler.one/), [Supatabs](https://supatabs.com/), [Prune](https://chromewebstore.google.com/detail/prune/gblddboefgbljpngfhgekbpoigikbenh) / [GitHub](https://github.com/tbrockman/prune) or [Tab Modifier](https://github.com/furybee/chrome-tab-modifier) - Tab Managers

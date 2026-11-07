@@ -48,19 +48,6 @@
 
 ***
 
-## Dynamic DNS Services / Subdomains
-
-* ⭐ **[Cloudflare DNS](https://www.cloudflare.com/products/dns/)**
-* ⭐ **[deSEC](https://desec.io/)**
-
-[DuckDNS](https://www.duckdns.org/), [ClouDNS](https://www.cloudns.net/), [FreeDNS](https://freedns.afraid.org/) / [Warning](https://freedns.afraid.org/queue/explanation.php), [dynu](https://dynu.com/), [myaddr](https://myaddr.tools/), [nsupdate](https://www.nsupdate.info/) / [GitHub](https://github.com/nsupdate-info/nsupdate.info)
-
-### Subdomains Services
-
-[DigitalPlat](https://domain.digitalplat.org/) / [GitHub](https://github.com/DigitalPlatDev/FreeDomain), [is-a.dev](https://www.is-a.dev/), [JS.ORG](https://js.org/), [TheDev](https://upset.dev/), [GetFreeDomain](https://www.getfreedomain.name/)
-
-***
-
 ## EmulatorJS / NeptunJS
 
 * **Note** - These serve as frontends for the EmulatorJS + NeptunJS emulator APIs.
@@ -82,28 +69,6 @@
 * [PlayEmulator](https://playemulator.online/) - Retro Consoles / NeptunJS
 * [8bbit](https://www.8bbit.com/) - NES Browser Emulator / NeptunJS
 * [NeoGeoFun](https://www.neogeofun.com/) - Neo Geo Browser Emulator / NeptunJS
-
-***
-
-## Free DNS Resolvers
-
-* 🌐 **[Public DNS indexes](https://www.publicdns.xyz/)** / [2](https://acavalin.com/p/free_dns) / [3](https://publicdnsserver.com/) / [4](https://public-dns.info/)
-* ⭐ **[Cloudflare 1.1.1.1](https://developers.cloudflare.com/1.1.1.1/ip-addresses/)**
-* ⭐ **[Quad9](https://quad9.net/)** - Malware, Phishing, Spyware & Botnet DNS Protection / [GitHub](https://github.com/Quad9DNS)
-* [Artemis](https://dns.fuzzing.uk/) - Piracy Site DNS Resolver / [GitHub](https://github.com/PUT-Request/Artemis/)
-* [Unbound](https://www.nlnetlabs.nl/projects/unbound/) - Self-Hosted, Validating, Recursive, Caching Resolver / [GitHub](https://github.com/NLnetLabs/unbound)
-* [Control D](https://controld.com/free-dns) / [X](https://x.com/controldns) / [Subreddit](https://reddit.com/r/ControlD/) / [Discord](https://discord.gg/dns)
-* [NextDNS](https://nextdns.io) / [2](https://adguard-dns.io/kb/general/dns-providers/#nextdns) / [Guide](https://github.com/yokoffing/NextDNS-Config)
-* [Rethink DNS](https://rethinkdns.com/configure)
-* [DNSBunker](https://dnsbunker.org/)
-* [HaGeZi DNS](https://github.com/hagezi/dns-servers)
-* [Bancuh](https://bancuh.com/) / [GitHub](https://github.com/ragibkl/adblock-dns-server)
-* [AdGuard](https://adguard-dns.io/en/public-dns.html) / [GitHub](https://github.com/AdguardTeam/AdguardSDNSFilter)
-* [DNS for Family](https://dnsforfamily.com/)
-* [DNS Forge](https://dnsforge.de/)
-* [Hurricane Electric](https://dns.he.net/)
-* [UncensoredDNS](https://blog.uncensoreddns.org/dns-servers/)
-* [dns.sb](https://dns.sb/)
 
 ***
 
@@ -205,26 +170,6 @@
 ## LibGen Tools
 
 [Search Extension](https://chromewebstore.google.com/detail/libgen-search/cbcehgllfaddbjidleabcdjpldlognad) / [Need Seeds](https://phillm.net/libgen-seeds-needed.php) / [Backup](https://redd.it/edwi9b)
-
-***
-
-## Manga Downloaders
-
-[Comics Downloader](https://github.com/Girbons/comics-downloader), [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md), [HDoujinDownloader](https://github.com/HDoujinDownloader/HDoujinDownloader), [FMD2](https://github.com/dazedcat19/FMD2), [anime-dl](https://github.com/vrienstudios/anime-dl)
-
-***
-
-## Manga Readers
-
-* ↪️ **[Android Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_manga)** / **[iOS Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_reading)**
-* ⭐ **[Suwayomi](https://github.com/Suwayomi)**
-* ⭐ **Suwayomi Tools** - [Extensions](https://keiyoushi.github.io/), [2](https://discord.gg/3FbCpdKbdY) / [Desktop Client](https://github.com/Suwayomi/Suwayomi-Server)
-
-[AllMangasReader](https://allmangasreader.com/), [Houdoku](https://houdoku.org/) / [GitHub](https://github.com/xgi/houdoku), [Adolla](https://github.com/AdollaApp/Adolla), [OpenComic](https://github.com/ollm/OpenComic), [Manga-Organizer](https://gitgud.io/Nagru/Manga-Organizer), [MangaOnlineViewer](https://github.com/TagoDR/MangaOnlineViewer), [LANraragi](https://github.com/Difegue/LANraragi), [Unyo](https://github.com/K3vinb5/Unyo)
-
-### Self-Hosted
-
-[KavitaReader](https://www.kavitareader.com/), [Komga](https://komga.org/) / [GitHub](https://github.com/gotson/komga) / [Discord](https://discord.gg/TdRpkDu), [atsumeru](https://atsumeru.xyz/)
 
 ***
 
@@ -375,14 +320,6 @@
 * [HealthIcons](https://healthicons.org/) - Medical Icons
 
 [Google Icons](https://fonts.google.com/icons), [iconer](https://iconer.app/), [SimpleIcons](https://simpleicons.org/), [xIcons](https://xicons.org), [Polaris](https://polaris.shopify.com/icons), [Phosphor Icons](https://phosphoricons.com/), [iCongo](https://icongo.github.io/), [Lucide](https://lucide.dev/), [Ant Design](https://ant.design/components/icon/), [Iconbuddy](https://iconbuddy.com/), [Devicon](https://devicon.dev/), [Magnific](https://www.magnific.com/icons), [Streamline](https://www.streamlinehq.com/), [Icones](https://icones.js.org/) / [GitHub](https://github.com/antfu-collective/icones), [awsicons](https://awsicons.dev/), [iconoir](https://iconoir.com/), [heroicons](https://heroicons.dev/), [composeicons](https://composables.com/icons), [iconmonstr](https://iconmonstr.com/), [Nerd Fonts](https://www.nerdfonts.com/), [websvg](https://websvg.com/), [svgsilh](https://svgsilh.com/), [pictogrammers](https://pictogrammers.com/), [svgstack](https://svgstack.com/), [iconshelf](https://iconshelf.com/), [tabler icons](https://tabler.io/icons), [FreeSVG](https://freesvg.org/), [GriddyIcons](https://griddyicons.com/), [icons-for-free](https://icons-for-free.com/), [Solar](https://github.com/480-Design/Solar-Icon-Set), [Reicon](https://reicon.dev/), [⁠Line Awesome](https://icons8.com/line-awesome) / [GitHub](https://github.com/icons8/line-awesome)
-
-***
-
-## Tab Managers
-
-* ⭐ **[Sidebery](https://github.com/mbnuqw/sidebery)** or **[Simple Tab Groups](https://github.com/drive4ik/simple-tab-groups)** - Firefox
-
-[Tab Stash](https://josh-berry.github.io/tab-stash/), [⁠OneTab](https://www.one-tab.com/), [One Tab Group](https://www.tabdeck.so/), [TreeStyleTabs](https://github.com/piroor/treestyletab)
 
 ***
 

@@ -464,13 +464,13 @@
 
 ## ▷ Streaming
 
+* ⭐ **[⁠FlixVison](https://flixvision.xyz/)** - Movies / TV / Anime
 * ⭐ **[OpenFlix](https://openflix.pro/)** - Movies / TV / Anime
 * [yablom](https://pirvab.com/) - Movies / TV / Anime
-* [French Stream](https://fs27.lol/) - Movies / TV / Anime / [Status](https://fstream.info/)
+* [French Stream](https://fs27.lol/), [2](https://fsurl.top/) - Movies / TV / Anime / [Status](https://fstream.info/)
 * [⁠Purstream](https://purstream.wiki/) - Movies / TV / Anime
 * [Aether](https://aether.ist/), [2](https://aether.cx/) - Movies / TV / Anime / Auto-Next / [Extensions](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/movie-web-sources.md) / [Discord](https://discord.gg/MadMF7xb5q)
-* [dulourd](https://www.dulourd.boo/) - Movies / TV
-* [frembed](https://frembed.surf/) - Movies / TV / Anime / Dub
+* [frembed](https://frembed.uno/) - Movies / TV / Anime / Dub
 * [Paradise lost.666](https://mfp666.blogspot.com/) - Classic French Movies / TV / Music
 * [Film à Revoir](https://filmarevoirnad.blogspot.com/) - Classic French Movies
 * [Ciné-Bis-Art](https://humungus-cinebisart.blogspot.com/) - Movies / Requires Sign-Up
@@ -478,7 +478,6 @@
 * [TF1](https://www.tf1.fr/) - Live TV / Movies / TV / Anime / Requires French VPN for Some Content
 * [1jour1film0626](https://1jour1film0926.cyou/) - Movies / TV / Anime
 * [myfluneo](https://myfluneo.eu/) - Movies / TV / Anime
-* [⁠FlixVison](https://flixvision.xyz/) - Movies / TV / Anime
 * [⁠streaming-integrale](https://streaming-integrale.com/) - Movies / TV / Anime
 * [flemmix](https://flemmix.party/) - Movies / TV / Anime / [Mirrors](https://ww1.wiflix-adresses.fun/) / [Telegram](https://t.me/flemmixwiflix)
 * [cinelibre](https://cinelibre.fr/) - Free w/ Ads Aggregator
@@ -747,6 +746,7 @@
 * [Abibli](https://abibli.com/) - Movies / TV
 * [myflixbd](https://myflixbd.to/) - Movies / TV / Anime
 * [PRMovies](https://prmovies.exchange/) - Movies / TV / Anime
+* [UniqueStream](https://uniquestream.net/) - Movies / TV / Anime / 720p
 * [Screenscape](https://screenscape.me/) - Movies / TV / Anime
 * [Movi](https://www.movi.pk/) - Movies / TV / Dub / 1080p
 * [1tamilyogi](https://1tamilyogi.ro/) - Movies / TV
@@ -844,7 +844,7 @@
 
 ## ▷ Streaming
 
-* [StreamingUnity](https://streamingunity.win/it) - Movies / TV / Anime
+* [StreamingUnity](https://streamingunity.fun/it) - Movies / TV / Anime
 * [StreamingCommunity](https://streamingcommunityz.photos/) - Movies / TV / 1080p / [Status](https://telegra.ph/Link-Aggiornato-StreamingCommunity-09-29) / [Telegram](https://t.me/+YID6ZoJtgjg5NGEx)
 * [CB01](https://cb01uno.cyou/) - Movies / TV / Dub / 1080p / [Telegram](https://t.me/s/cb01_nuovo_indirizzo_ufficiale)
 * [7Movies](https://7movies.ac/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/JxgRaYMVHF)
@@ -971,7 +971,8 @@
 
 ## ▷ Streaming
 
-* [OnDemandKorean](https://www.ondemandkorea.com/) - Korean Movies / TV / 720p
+* [OnDemandKorean](https://www.ondemandkorea.com/) - Movies / TV / 720p
+* [UniqueStream](https://uniquestream.net/) - Movies / TV / Anime / 720p
 * [AQ Stream](https://aqstream.com/) - Live TV / [Discord](https://discord.com/invite/dVhgAgwxHE)
 * [Chzzk](https://chzzk.naver.com/) - Live Streams
 * [Naver](https://tv.naver.com/)

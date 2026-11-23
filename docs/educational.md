@@ -6,7 +6,7 @@
 
 # ► Documentaries
 
-* 🌐 **[Official YT Documentary Channels](https://github.com/superlincoln953/Free-Official-Youtube-Content?tab=readme-ov-file#Documentaries)** - YouTube Documentary Channels
+* 🌐 **[Official YT Documentary Channels](https://github.com/superlincoln953/Free-Official-Youtube-Content?tab=readme-ov-file#Documentaries)**
 * ⭐ **[IHaveNoTV](https://ihavenotv.com/)**
 * ⭐ **[DocumentaryArea](https://www.documentaryarea.com/)** / [Remove Watermark](https://github.com/Julmik647/filterlists), [2](https://github.com/acridsoul/Clear-Mark) (or use PIP)
 * ⭐ **[Documentary+](https://www.docplus.com/)**
@@ -15,6 +15,7 @@
 * [Top Documentary Films](https://topdocumentaryfilms.com/)
 * [Thought Maybe](https://thoughtmaybe.com/)
 * [Media Burn Archive](https://mediaburn.org/)
+* [⁠TokyVideo](https://www.tokyvideo.com/documentaries)
 * [ARTE](https://www.arte.tv/)
 * [Documentary Storm](https://www.documentarystorm.com/)
 * [Rocumentaries](https://rocumentaries.com/)
@@ -50,7 +51,7 @@
 * [Yale Courses](https://oyc.yale.edu/courses) - Lectures / [YouTube](https://www.youtube.com/@YaleCourses/)
 * [Paul G. Allen School](https://www.youtube.com/@uwcse/) - Lectures
 * [Crash Course](https://thecrashcourse.com/) - Topic Crash Courses
-* [⁠HackerTube](https://hackertube.org/) - Educational YouTube Videos
+* [⁠HackerTube](https://hackertube.org/) or [⁠TristanTube](https://karpathy.ai/tristan-tube/) - Educational YouTube Videos
 * [Course CSE](https://cse.google.com/cse?cx=67ed14bf7b99643e3) - Multi-Site Course Search
 
 ***
@@ -113,6 +114,7 @@
 * ⭐ **[Artic](https://www.artic.edu/collection)** - Art Institute of Chicago Collection / Open-Access Images
 * ⭐ **[NGA](https://www.nga.gov/)** - National Gallery of Art / Public-Domain Images / Open Data
 * ⭐ **[V&A](https://www.vam.ac.uk/)** - Victoria and Albert Museum Collections / Art / Design
+* ⭐ **[Museo](https://museo.app/)** - Art Collections / Public-Domain Image Search / [GitHub](https://github.com/chasemccoy/museo)
 * ⭐ **[Louvre](https://collections.louvre.fr/en/)** - Art / Antiquities Collections / Historical Research
 * [MoMA](https://www.moma.org/collection/) - Museum of Modern Art Collection
 * [Deutsche Digitale](https://www.deutsche-digitale-bibliothek.de/?lang=en) - German Digital Cultural Heritage Collections
@@ -130,7 +132,7 @@
 * [Guggenheim](https://www.guggenheim.org/collection-online) - Modern / Contemporary Art Collections
 * [Frick](https://www.frick.org/art) - The Frick Collection / Fine Art
 * [Gardner Museum](https://www.gardnermuseum.org/experience/collection) - Isabella Stewart Gardner Museum Collection
-* [Museo](https://museo.app/) - Art Collections / Public-Domain Image Search
+* [⁠Artnap](https://artnap.com/) - Art Collections / Public-Domain Image Search
 * [Haltadefinizione](https://www.haltadefinizione.com/en/) - High-Resolution Art Images / Italian Art
 * [Artchive](https://www.artchive.com/) - Art History / Artist Collections
 * [Arthur](https://arthur.io/) - Art Discovery / Collections
@@ -443,6 +445,7 @@
 * [University of Utah Pathology](https://webpath.med.utah.edu/webpath.html) - Pathology Guide
 * [The Iowa Virtual Slidebox](https://www.mbfbioscience.com/iowavirtualslidebox) - Pathology Atlas Software
 * [Nextstrain](https://nextstrain.org/) - Pathogen Evolution Tracking
+* [DrugBank](https://go.drugbank.com/) - Scientific Drug Information
 * [⁠HemOnc](https://hemonc.org/) - Hematology / Oncology Reference Site
 * [DermNet](https://dermnetnz.org/) - Dermatology Reference Site
 * [⁠EyeWiki](https://eyewiki.org/) - Eye Encyclopedia
@@ -615,7 +618,7 @@
 
 ## ▷ Simulators
 
-* [Falcon BMS](https://www.falcon-bms.com/) - Falcon 4.0 Modernization Project / [Manuals](https://wiki.falcon-bms.com/en/manuals) / [Wiki](https://wiki.falcon-bms.com/) / [Forum](https://forum.falcon-bms.com/) / [YouTube](https://www.youtube.com/@falcon-bms) / [Subreddit](https://www.reddit.com/r/falconbms/) / [Discord](https://discord.gg/KQNHQBz)
+* ⭐ **[Falcon BMS](https://www.falcon-bms.com/)** - Falcon 4.0 Modernization Project / [Companion](https://github.com/Scorpion-41/Falcon-BMS-Companion) / [Manuals](https://wiki.falcon-bms.com/en/manuals) / [Wiki](https://wiki.falcon-bms.com/) / [Forum](https://forum.falcon-bms.com/) / [YouTube](https://www.youtube.com/@falcon-bms) / [Subreddit](https://www.reddit.com/r/falconbms/) / [Discord](https://discord.gg/KQNHQBz)
 * [FlightGear](https://www.flightgear.org/) - Open-Source Flight Simulator / [X](https://x.com/flightgearsim) / [GitLab](https://gitlab.com/flightgear/flightgear)
 * [Phoenix RC](https://www.rc-thoughts.com/phoenix-sim/) - RC Plane + Helicopter Simulator
 * [SeligSIM](https://www.seligsim.com/) or [PicaSim](https://www.rowlhouse.co.uk/PicaSim/) / [GitHub](https://github.com/Rowlhouse/PicaSim) - Flight Simulators for RC Planes
@@ -635,7 +638,7 @@
 * ⭐ **[MorbidKuriosity](https://morbidkuriosity.com/)** - Dark History, Conspiracies, Crime, Myths, etc.
 * [LibreTexts History](https://human.libretexts.org/Bookshelves/History) - History Learning Texts
 * [Smithsonian Institution Archives](https://siarchives.si.edu/), [⁠Princeton Digital Collections](https://digital-collections.princeton.edu/) or [Rare Historical Photos](https://rarehistoricalphotos.com/) - Historical Photos / Documents
-* [Museo](https://museo.app/) - Museum Search
+* [Museo](https://museo.app/) - Museum Search / [GitHub](https://github.com/chasemccoy/museo)
 * [⁠The Rest is History Archive](https://archive.therestishistory.com/) - Era-Based Historical Podcast
 * [⁠Arachne](https://arachne.dainst.org/) - Archaeology Object Database
 * [Wonderous](https://play.google.com/store/apps/details?id=com.gskinner.flutter.wonders) - Learn About Ancient Structures
@@ -693,7 +696,7 @@
 * [VersionMuseum](https://www.versionmuseum.com/) - Website History / Info
 * [info.cern](https://info.cern.ch/) - First Website on the Internet
 * [TubeVault](https://tubevault.app/) - Archive of Oldest YouTube Users & Videos
-* [⁠rip.so](https://rip.so/), [Killed By Google](https://killedbygoogle.com/), [Killed by Mozilla](https://killedbymozilla.com/), [Microsoft Graveyard](https://microsoftgraveyard.com/) or [Sued by Nintendo](https://www.suedbynintendo.com/) - Dead Project Archives
+* [⁠rip.so](https://rip.so/), [Killed By Google](https://killedbygoogle.com/), [Killed by Mozilla](https://killedbymozilla.com/), [⁠Killed by Discord](https://killedbydiscord.com/), [Microsoft Graveyard](https://microsoftgraveyard.com/) or [Sued by Nintendo](https://www.suedbynintendo.com/) - Dead Project Archives
 
 ***
 
@@ -710,6 +713,7 @@
 * [⁠Little Friends](https://www.littlefriends.co.uk/) - WW2 8th Air Force History Archive
 * [U-boat Archive](https://uboatarchive.net/) - WW2 Battle of the Atlantic Historical Archive / [X](https://x.com/uboatarchive)
 * [Nuremberg Trials Project](https://nuremberg.law.harvard.edu/) - Nuremberg Trials Document / Transcript Archive
+* [⁠NATO Archives Online](https://archives.nato.int/) - NATO Historical Records
 * [⁠CherriesWriter](https://cherrieswriter.com/) - Vietnam War Stories, Photos, Videos and more
 * [⁠VietnamGear](https://www.vietnamgear.com/) - Vietnam War Gear Info / Photos
 * [⁠Center of Military History](https://history.army.mil/) - U.S. Military History / Collection
@@ -726,6 +730,8 @@
 * [Harald Joergens Panoramas](https://www.haraldjoergens.com/panoramas.php) - Aircraft Virtual Tours
 * [⁠Warbird Alley](http://www.warbirdalley.com/) or [⁠Forgotten Aviation](https://forgottenaviation.com/) - Historical Archives of Military Aircraft
 * [⁠F-16.net](https://www.f-16.net/) - F-16, F-22 and F-35 Info, History, Images, Stories & more
+* [⁠P-51 Mustang](https://www.mustangsmustangs.com/p-51/) - P-51 Mustang Info, History, Images & more
+* [⁠B-17 Flying Fortress](https://b17flyingfortress.de/en/) - B-17 Info, History, Images & more
 * [The History of Maritime Piracy](http://www.cindyvallar.com/pirates.html) - Piracy History Blog
 * [Byzantine Military](https://byzantinemilitary.blogspot.com/) - Byzantine Military History
 * [911 Realtime](https://911realtime.org/) - 9/11 in Real-Time / [GitHub](https://github.com/Keeping-History/rt911)
@@ -785,9 +791,9 @@
 * 🌐 **[Country Infographics](https://rentry.org/o4gq6cq5)** - Country Infographic Images
 * ↪️ **[Historical / Modern Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_maps)**
 * ↪️ **[GeoGuessr Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25B7_geoguessr)**
-* ⭐ **[Ekvis](https://ekvis.com/)** / [Subreddit](https://www.reddit.com/r/Ekvis/) / [Discord](https://discord.gg/zU89VKknG4), [JetPunk Geography](https://www.jetpunk.com/tags/geography), [LizardPoint](https://lizardpoint.com/), [Teuteuf](https://teuteuf.fr/), [⁠Memorize Earth](https://memorizeearth.com/), [⁠GeoGrid](https://geographygrid.com/), [⁠OpenGuessr](https://education.openguessr.com/) or [WorldFindr](https://worldfindr.com/) - Geography Quiz / Guessing
+* ⭐ **[Ekvis](https://ekvis.com/)** / [Subreddit](https://www.reddit.com/r/Ekvis/) / [Discord](https://discord.gg/zU89VKknG4), [⁠Farflung](https://farflung.game/), [JetPunk Geography](https://www.jetpunk.com/tags/geography), [LizardPoint](https://lizardpoint.com/), [Teuteuf](https://teuteuf.fr/), [⁠Memorize Earth](https://memorizeearth.com/), [⁠GeoGrid](https://geographygrid.com/), [⁠OpenGuessr](https://education.openguessr.com/) or [WorldFindr](https://worldfindr.com/) - Geography Quizzes / Guessing
 * [LibreTexts Social Science](https://socialsci.libretexts.org/Bookshelves) - Social Science Learning
-* [LibreTexts Geosciences](https://socialsci.libretexts.org/Bookshelves) - Geoscience Learning
+* [LibreTexts Geosciences](https://geo.libretexts.org/Bookshelves) - Geoscience Learning
 * [⁠Cultural Atlas](https://theculturalatlas.org/) - World Culture / Religion Guides
 * [AntipodesMap](https://www.antipodesmap.com/) - Find Antipodes
 * [The True Size](https://thetruesize.com/) - Compare Country Size
@@ -823,7 +829,7 @@
 * ↪️ **[Finance / Market Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_finance_.2F_savings)**
 * ⭐ **[The Atlas of Economic Complexity](https://atlas.hks.harvard.edu/)** - Global Economic Growth Data
 * ⭐ **[⁠Integrity Index](https://integrityindex.us/)** - US Political Finance Integrity Database / [Subreddit](https://www.reddit.com/r/politicalintegrity/) / [Discord](https://discord.gg/bvrwaDJveC)
-* ⭐ **[⁠Wealth Shown to Scale](https://litekin.github.io/pixel-wealth/)** / [Source Code](https://codeberg.org/litekin/pixel-wealth/), [2](https://evolving-thoughts.github.io/1-pixel-wealth/) / [GitHub](https://github.com/Evolving-Thoughts/1-pixel-wealth) - Global Wealth Inequality Visualization
+* ⭐ **[⁠Wealth Shown to Scale](https://wealth-inequality.sucks.lt/)** / [Source Code](https://codeberg.org/litekin/pixel-wealth/), [2](https://github.com/Evolving-Thoughts/pixel-wealth) / [Codeberg](https://codeberg.org/litekin/wealth-visualize) - Global Wealth Inequality Visualization
 * [⁠CORE Econ](https://www.core-econ.org/) - Economics Textbooks
 * [OEC](https://oec.world/en), [⁠UNCTAD](https://unctad.org/) or [UN Comtrade](https://comtradeplus.un.org/) - Global Trade Data
 * [⁠CountryEconomy](https://countryeconomy.com/) - Country Economic Data
@@ -925,7 +931,7 @@
 * [The Preparedness Encyclopedia](https://www.fluidicice.com/tpe) - Preparedness Encyclopedia
 * [r/Preppers](https://www.reddit.com/r/preppers/) - Preparedness Subreddit
 * [r/PrepperFileShare](https://reddit.com/r/PrepperFileShare) - Preparedness File Sharing
-* [Project NOMAD](https://www.projectnomad.us/) - Self-Contained Offline Knowledge + Off-Grid Database / [GitHub](https://github.com/Crosstalk-Solutions/project-nomad)
+* [Project NOMAD](https://www.projectnomad.us/) / [GitHub](https://github.com/Crosstalk-Solutions/project-nomad) or [⁠Lastbook](https://lastbook.org/) / [GitHub](https://github.com/Immortal-Protocols/lastbook) - Self-Contained Offline Knowledge + Off-Grid Databases
 
 ***
 
@@ -1025,11 +1031,13 @@
 ## ▷ Rubiks Cube
 
 * 🌐 **[Cubing.net](https://www.cubing.net/)** - Cubing Tools
+* 🌐 **[⁠CubingAtlas](https://atlas.thecubeindex.com/)** - Speedcubing Learning Resources
 * 🌐 **[Rubiks Cube Guide](https://rentry.co/cubingguide)** - Guide to Rubiks Cube / Resources
 * ↪️ **[Cube Simulators / Solvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25B7_rubiks_cube)**
 * ⭐ **[J Perm](https://jperm.net/)**, [CubeSkills](https://www.cubeskills.com/), [RubiksTrainer](https://rubikstrainer.com/) or [Easiest Solve](https://easiestsolve.com/) - Cubing Tutorials / Practice Resources
 * ⭐ **[CubeDesk](https://cubedesk.io/)** or **[csTimer](https://cstimer.net/)** - Feature-Rich Cubing Timers
-* ⭐ **[SpeedCubeDB](https://speedcubedb.com/)** - Algorithm Database
+* ⭐ **[SpeedCubeDB](https://speedcubedb.com/)** or [SpeedcubeQuest](https://speedcube.quest/) - Algorithm Databases
+* [⁠reco.nz](https://reco.nz/) - Speedcubing Solve Reconstructions
 * [F2L Trainer](https://f2l-trainer.top/) - F2L Rubiks Trainer
 * [⁠crystalcube](https://crystalcuber.com/) - CFOP Cross Trainer / Edge Orientation Trainer
 * [⁠ZZ Method](https://www.zzmethod.com/) - Learn / Practice ZZ 3x3 Rubiks Speedrunning Method
@@ -1181,6 +1189,7 @@
 * [⁠Elara Archive](https://www.elararchive.org/) - Endangered Language Video + Audio Archive
 * [IPA Reader](https://ipa-reader.com/) - International Phonetic Alphabet Reader
 * [Interactive IPA Chart](https://www.ipachart.com/) - Learn Phonetic Alphabet Symbols
+* [⁠Stenophile](https://www.stenophile.com/shorthands) - Shorthand Writing Guides
 * [DialectArchive](https://www.dialectsarchive.com/globalmap) - Listen to Accents
 * [TeachMeHebrew](https://www.teachmehebrew.com/) - Learn Hebrew
 * [wehewehe](https://wehewehe.org/) - Hawaiian Dictionary
@@ -1249,7 +1258,7 @@
 * [Minato](https://minato-jf.jp/) - Japanese Courses
 * [Memento](https://ripose-jp.github.io/Memento/) - Japanese Learning Video Player
 * [Supernative](https://supernative.tv/) or [LearnNatively](https://learnnatively.com/) - Learn Japanese via Media
-* [jidoujisho](https://github.com/arianneorpilla/jidoujisho) or [Manabi](https://reader.manabi.io/) - Learn Japanese via Books
+* [Manabi](https://reader.manabi.io/) - Learn Japanese via Books
 * [⁠VNClub](https://vnclub.org/) - Learn Japanese via Visual Novels
 * [Learn Japanese Grammar](https://kimallen.sheepdogdesign.net/) or [BunPro](https://bunpro.jp/) - Learn Japanese Grammar
 * [OJAD](https://www.gavo.t.u-tokyo.ac.jp/ojad/eng/pages/home) - Japanese Accent Dictionary
@@ -1267,7 +1276,7 @@
 * [HowToStudyKorean](https://www.howtostudykorean.com/) - Korean Lessons / Practice
 * [iksi](https://www.iksi.or.kr/) - Korean Classes
 * [TalkToMeInKorean](https://courses.talktomeinkorean.com/) - Korean Learning Courses
-* [Sogang](https://korean.sogang.ac.kr/) or [90 Day Korean](https://www.90daykorean.com/) - Korean Learning Lessons
+* [90 Day Korean](https://www.90daykorean.com/) - Korean Learning Lessons
 * [Mirinae](https://mirinae.io/) - Korean Word Breakdown
 * [National Institute of Korean Language](https://www.korean.go.kr/front_eng/main.do) - Korean Dictionaries / Expression Practice
 * [⁠LetsLearnHangul](http://letslearnhangul.com/) - Hangul Learning
@@ -1369,7 +1378,7 @@
 
 ## ▷ Sign Languages
 
-* ⭐ **[SpreadTheSign](https://spreadthesign.com/)**, [Sign Dictionary](https://signacademy.org/) or [SL Dictionary](https://www.sldictionary.org/) - Multi-Language Dictionaries
+* ⭐ **[SpreadTheSign](https://spreadthesign.com/)**, [⁠Sématos](https://www.sematos.eu/en/), [⁠Dictio](https://www.dictio.info/), [Sign Dictionary](https://signacademy.org/) or [SL Dictionary](https://www.sldictionary.org/) - Multi-Language Dictionaries
 * ⭐ **[ASL Dictionary](https://www.signasl.org/)**, [Anysign](https://www.anysign.app/en/dictionary), [WhatsThatSign](https://www.whatsthatsign.com/), [StrongASL](https://www.strongasl.com/), [LifePrint](https://lifeprint.com/), [ASLDict](https://www.masterstech-home.com/ASLDict.html), [ASLCore](https://aslcore.org/), [Sign Language 101](https://www.signlanguage101.com/asl/dictionary) or [HandSpeak](https://www.handspeak.com/) - American Sign Language Dictionaries
 * ⭐ **[BSL Dictionary](https://www.signbsl.com/)**, [SignDeaf](https://www.signdeaf.com/), [BSL Signbank](https://bslsignbank.ucl.ac.uk/), [MobileSign](http://www.mobilesign.org/) or [Signd](https://signd.co.uk/) - British Sign Language Dictionaries
 * [SignWiki](http://signwiki.org/) - Sign Language Wiki Index / Multi Language
@@ -1384,7 +1393,7 @@
 * [International Sign](https://sonastik.ead.ee/rahvusvaheline/en) - International Sign Language
 * [DeafTec](https://deaftec.org/stem-dictionary/) or [Tachyo](https://www.tachyo.org/) - STEM Sign Dictionaries / Search
 * [Interpreter Services](https://alb-accmedia.austincc.edu/signs) - Specialized ASL Dictionary
-* [ASL Learning](https://asl.ms/), [SignSchool](https://www.signschool.com/) or [PocketSign](https://www.pocketsign.org/) - ASL Learning Sites
+* [ASL Learning](https://asl.ms/), [SignSchool](https://www.signschool.com/), [⁠ZiggyASL](https://www.ziggyasl.com/) or [PocketSign](https://www.pocketsign.org/) - ASL Learning Sites
 * [Sign AIP](https://www.sign-aip.net/sign-aip/en/) - Sign-Language Learning Videos
 * [Fingerspell](https://fingerspell.net/) - ASL Fingerspelling Practice
 * [The ASL Calendar](https://discord.gg/QU6vMSYN7y) or [ASL Discord](https://discord.gg/dH7jGejAz9) - ASL Learning Discord Communities / Resources
@@ -1394,9 +1403,11 @@
 * [⁠Iltyem-iltyem](https://www.iltyemiltyem.com/) - Australian Indigenous Sign Language Learning
 * [Learn NZSL](https://learn.nzsl.nz/) - NZSL Learning Site
 * [⁠Fundacion CNSE](https://fundacioncnse-dilse.org/) - Spanish Sign Language Dictionary
+* [⁠Signbank Libras](https://signbank.libras.ufsc.br/) - Brazilian Sign Language Dictionary
 * [Diccionario de LESCO](https://diccionario.handsonlesco.com/) or [⁠Diccionario LESCO](https://lesco.cenarec.go.cr/index.php/diccionariolesco) - Costa Rican Sign Language Dictionaries
 * [⁠Danfish Gold](https://isl.danfishgold.com/#en) - Israeli Sign Language Dictionary
 * [⁠RealSASL](https://www.realsasl.com/) - South African Sign Language Dictionary
+* [⁠MSLD](https://msld.manadmw.org/) - Malawian Sign Language Dictionary 
 * [HandyBSL](https://handybsl.co.uk/) - Learn / Practice BSL
 * [SignLearner](https://signlearner.com/) - Learn ASL or BSL while Browsing Internet / Chromium
 * [Signs](https://signs-ai.com/) - ASL Learning AI
@@ -1603,6 +1614,7 @@
 * [⁠System Design Academy](https://github.com/systemdesign42/system-design-academy) - Large Scale System Design Learning
 * [CS Academy](https://csacademy.com/) - Interactive Computer Science Lessons
 * [From Nand To Tetris](https://www.nand2tetris.org/course) - Computer Building Lesson
+* [⁠Protocol Explorer](https://protocol-explorer-alpha.vercel.app/) - Learn How Internet Works with Interactive Lessons
 * [Copetti](https://www.copetti.org/) - In-depth Console Architecture Analysis / [GitHub](https://github.com/flipacholas/Architecture-of-consoles)
 * [⁠Lean](https://lean-lang.org/) - Theorem Prover and Programming Language / [Learning Games](https://adam.math.hhu.de/) / [Web](https://live.lean-lang.org/) / [GitHub](https://github.com/leanprover/lean4)
 * [Rocq](https://rocq-prover.org/) - Theorem Prover and Proof Assistant / [GitHub](https://github.com/rocq-prover/rocq)
@@ -1770,7 +1782,6 @@
 * [FreeOnlineTest](https://www.freeonlinetest.in/), [Examveda](https://www.examveda.com/), [SaveMyExams](https://www.savemyexams.com/), [Aglasem](https://aglasem.com/), [MajorTests](https://www.123helpme.com/), [⁠ExamsNet](https://examsnet.com/) or [Alloprof](https://www.alloprof.qc.ca/en/) - Exam Practice Tests
 * [IndiaBIX](https://www.indiabix.com/) - Aptitude Tests
 * [Science Career General](https://sciencecareergeneral.neocities.org/) - PhD / STEM Career Study Guides
-* [DoubtNut](https://allen.in/dn) - Exam / Solutions / Help / [Ad-Bypass](https://greasyfork.org/en/scripts/534790)
 * [Papers.Xtreme](https://papers.xtremepape.rs/) - Test Revision Notes & Answers
 * [AllFreeDumps](https://www.allfreedumps.com/) or [⁠PDF Tube](https://pdf.tube/) - Exam Papers / Study
 * [⁠Mojza](https://mojza.org/) - Exam Study Notes
@@ -1818,7 +1829,6 @@
 * [Genetry](https://genetry.carrd.co/) or [Lec.Branch](https://t.me/addlist/pgaJblpaVWIwYjFl) - JEE Lectures
 * [YouTube Lengths](https://redd.it/1614jn5), [Fastlane Lengths](https://redd.it/17d1qt3) or [Normal Lane Lengths](https://redd.it/183er1y) - Lecture Lengths / Data
 * [MarksAPP](https://web.getmarks.app/) - Guides / Study Material / [Telegram](https://telegram.me/getmarksapp)
-* [DoubtNut](https://allen.in/dn) - Solutions / Help / [Ad-Bypass](https://greasyfork.org/en/scripts/534790)
 
 ***
 
@@ -1862,6 +1872,7 @@
 * [Cheatography](https://cheatography.com/) - Educational Cheat Sheets
 * [GradesFixer](https://www.gradesfixer.com/) - Essay Samples
 * [LearnedEasy](https://learnedeasy.com/) - Create Summaries / Quizzes from Books
+* [⁠LearnHarness](https://learnharness.ai/) - AI Learning Agent / [GitHub](https://github.com/amosblomqvist/learnharness)
 * [⁠Free Numerade Videos](https://discord.gg/nEYfaceEcU) - Homework Help Videos
 * [Brainly](https://brainly.com/) - Homework Help Bots / Communities / [Limit Bypass](https://greasyfork.org/en/scripts/430355)
 * [StudyStream](https://www.studystream.live/) or [⁠Yeolpumta](https://www.yeolpumta.com/en) - Online Study Groups
@@ -1903,7 +1914,7 @@
 ## ▷ Flashcards
 
 * ⭐ **[Anki](https://apps.ankiweb.net/)** - Flashcard App / [Subreddit](https://www.reddit.com/r/Anki/) / [Discord](https://discord.gg/jUvBM2sEs4) / [GitHub](https://github.com/ankitects/anki)
-* ⭐ **Anki Tools** - [Add-ons](https://ankiweb.net/shared/addons) / [Decks](https://ankiweb.net/shared/decks) / [Resources](https://docs.ankiweb.net/resources.html), [2](https://github.com/tianshanghong/awesome-anki)
+* ⭐ **Anki Tools** - [Add-ons](https://ankiweb.net/shared/addons) / [Decks](https://ankiweb.net/shared/decks) / [Resources](https://docs.ankiweb.net/resources.html)
 * [Anki Android](https://github.com/ankidroid/Anki-Android) or [AnkiWeb (iOS)](https://ankiweb.net/decks) - Anki Mobile Apps / [Discord](https://discord.gg/qjzcRTx)
 * [StudyCraft](https://studycraft.dev/) - Flashcard App / [GitHub](https://github.com/rodmarkun/StudyCraft)
 * [StudyLib](https://www.studylib.net/) - Online Flashcards
@@ -1914,7 +1925,6 @@
 * [RemNote](https://www.remnote.com/) - Flashcard App
 * [Flashcard Machine](https://www.flashcardmachine.com/) - Flashcard App
 * [Gizmo](https://gizmo.ai/) - Flashcard App
-* [SearchifyX](https://github.com/daijro/SearchifyX) - Search Flashcards
 
 ***
 

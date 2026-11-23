@@ -11,7 +11,7 @@
 * ↪️ **[Presentation / Slideshare](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)**
 * ↪️ **[Research Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_research_tools)**
 * ↪️ **[Data Visualization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)**
-* ⭐ **[TextFixer](https://www.textfixer.com/)**, [SortMyList](https://sortmylist.com/) , [OnlineTextTools](https://onlinetexttools.com/), [Convert Case](https://convertcase.net/) or [The Alphabetizer](https://alphabetizer.flap.tv/) - Organize / Format Text
+* ⭐ **[TextFixer](https://www.textfixer.com/)**, **[SortMyList](https://sortmylist.com/)**, [OnlineTextTools](https://onlinetexttools.com/), [Convert Case](https://convertcase.net/) or [The Alphabetizer](https://alphabetizer.flap.tv/) - Organize / Format Text
 * ⭐ **[Paperless-ngx](https://docs.paperless-ngx.com)** / [Doc Analyzer](https://github.com/clusterzx/paperless-ai/) / [GitHub](https://github.com/paperless-ngx/paperless-ngx), [OpenPaper](https://openpaper.work/en/), [papis](https://github.com/papis/papis), [⁠Docspell](https://docspell.org/) / [GitHub](https://github.com/eikek/docspell), [⁠Papra](https://papra.app/en/) / [GitHub](https://github.com/papra-hq/papra) or [DataShare](https://datashare.icij.org/) - Document Managers
 * [Diffr](https://loilo.github.io/diffr/) / [GitHub](https://github.com/loilo/diffr), [TextCompare](https://www.textcompare.org/), [OnlineTextCompare](https://onlinetextcompare.com/) or [CompareText](https://www.comparetext.io/) - Compare Text
 * [Count Duplicates](https://www.somacon.com/p568.php) or [DuplicateWord](https://duplicateword.com/) - Count / Remove Duplicates in a List
@@ -157,7 +157,7 @@
 * [CopyChar](https://copychar.cc/) - Special Characters Index
 * [Graphemica](https://graphemica.com/) - Typography Reference
 * [Unifoundry](https://unifoundry.com/) - Unifont Repository
-* [emotes.io](https://emotes.io/), [CuteSymbols](https://www.cutesymbols.net/) / [2](https://www.textemoji.org/), [cutesymbols.io](https://cutesymbols.io/) or [GetSymbol](https://www.getsymbol.net/) - Copy Unicode Emotes
+* [emotes.io](https://emotes.io/), [CuteSymbols](https://www.cutesymbols.net/) / [2](https://www.textemoji.org/), [⁠Kaomoji](https://kaomojicopypaste.org/), [cutesymbols.io](https://cutesymbols.io/) or [GetSymbol](https://www.getsymbol.net/) - Copy Unicode Emotes
 * [Character Map](https://github.com/character-map-uwp/Character-Map-UWP) - Custom Font & Emojis / Windows
 
 ***
@@ -247,7 +247,7 @@
 
 ## ▷ Whiteboards / Handwritten
 
-* ⭐ **[Excalidraw](https://excalidraw.com/)** - Whiteboard / [Sharing](https://excalihub.dev/) / [Github](https://github.com/excalidraw/excalidraw)
+* ⭐ **[Excalidraw](https://excalidraw.com/)** - Whiteboard / [Sharing](https://excalihub.dev/) / [GitHub](https://github.com/excalidraw/excalidraw)
 * ⭐ **[OpenBoard](https://openboard.ch/en)** - Whiteboard
 * [Saber](https://saber.adil.hanney.org/) - Handwritten Notes / All Platforms / [GitHub](https://github.com/saber-notes/saber)
 * [Butterfly](https://butterfly.linwood.dev/) - Handwritten Notes / All Platforms / [Discord](https://discord.com/invite/97zFtYN) / [GitHub](https://github.com/LinwoodDev/Butterfly)
@@ -299,7 +299,6 @@
 * [JustNotePad](https://justnotepad.com/) - Local Saves
 * [NotesOnline](https://notesonline.org/) - Local Saves
 * [PasteePad](https://pasteepad.com/) - Local Saves / [GitHub](https://github.com/glauberramos/pastee)
-* [Notes](https://notes.xtra.wtf/) - Local / Cloud Saves / [GitHub](https://github.com/xtrafr/notes)
 * [Shrib](https://shrib.com/) - Local / Cloud Saves
 * [MemOnNotepad](https://www.memonotepad.com/) - Local / Cloud Saves
 * [Write Box](https://write-box.appspot.com/) - Local / Cloud Saves
@@ -384,10 +383,9 @@
 
 * ↪️ **[RPG / Fantasy Writing Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_rpg_worldbuilding)**
 * ⭐ **[Writer](https://www.gibney.org/writer)**, [FocusWriter](https://gottcode.org/focuswriter/), [Writemonkey](https://writemonkey.com/), [blank.page](https://blank.page/), [Telegra.ph](https://telegra.ph/), [Aurelius](https://aurelius.ink), [ZenPen](https://zenpen.io/), [Write.as](https://write.as/), [Owri](https://owri.netlify.app/), [WriteSpace](https://www.writespace.app/) or [WriteNext](https://www.writenext.io/) - Distraction-Free Writing
-* ⭐ **[Manuskript](https://www.theologeek.ch/manuskript/)** - Writing Organizer / Planner
 * ⭐ **[NovelWriter](https://novelwriter.io/)** - Novel Editor
 * ⭐ **[Linked](https://uselinked.com/)**, [journaltxt](https://journaltxt.github.io/), [Gekri](https://gekri.com/), [Microsoft Journal](https://www.microsoft.com/en-us/garage/profiles/journal/), [Diarium](https://diariumapp.com/) or [jrnl.sh](https://jrnl.sh/) - Journal Apps
-* ⭐ **[TextFX](https://textfx.withgoogle.com/)** / [GitHub](https://github.com/google/generative-ai-docs/tree/main/demos/palm/web/textfx) or [Rytr](https://rytr.me/) - AI Creative Writing Tools / No Sign-Up
+* ⭐ **[TextFX](https://textfx.withgoogle.com/)** - AI Creative Writing Tool / No Sign-Up / [GitHub](https://github.com/google/generative-ai-docs/tree/main/demos/palm/web/textfx) 
 * [Writality](https://www.writality.com/) - Novel Editor
 * [Tuesday JS](https://kirill-live.itch.io/tuesday-js) - Novel Editor / [GitHub](https://github.com/Kirilllive/tuesday-js)
 * [RenPy](https://www.renpy.org/) - Novel Editor / [GitHub](https://github.com/renpy/renpy)
@@ -439,7 +437,7 @@
 
 ## ▷ ASCII Art
 
-* ⭐ **[TAAG](https://patorjk.com/software/taag/)** [Kammerl](https://www.kammerl.de/ascii/AsciiSignature.php), [ASCII Art Studio](https://www.majorgeeks.com/files/details/ascii_art_studio.html) or [ASCII Today](https://ascii.today/) - ASCII Art / Text Generators
+* ⭐ **[TAAG](https://patorjk.com/software/taag/)**, [Kammerl](https://www.kammerl.de/ascii/AsciiSignature.php), [ASCII Art Studio](https://www.majorgeeks.com/files/details/ascii_art_studio.html) or [ASCII Today](https://ascii.today/) - ASCII Art / Text Generators
 * [REXPaint](https://www.gridsagegames.com/rexpaint/), [Asciistrator](https://wieslawsoltes.github.io/Asciistrator/), [ASCII Sketch](https://files.littlebird.com.au/ascii-sketch.html), [Playscii](https://jp.itch.io/playscii), [⁠Monosketch](https://monosketch.io/), [Asciify](https://asciify.org/editor) or [PabloDraw](https://picoe.ca/products/pablodraw/) - ASCII Editors / Drawing
 * [ASCII Paint](https://ascii.alienmelon.com/), [⁠TextPaint](https://textpaint.com/) or [⁠ASCII Blaster](https://asdf.us/asciiblaster/), [2](https://ircart.github.io/asciiblaster/) / [GitHub](https://github.com/ircart/asciiblaster) - ASCII Paint Tools
 * [⁠shabzefilters](https://lumo-flt.vercel.app/), [ascii-art-generator](https://www.ascii-art-generator.org/), [asciiart](https://asciiart.club/), [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter), [Monospace](https://codepen.io/Mikhail-Bespalov/pen/JoPqYrz), [ITOA](https://itoa.hex.dance/), [text-image](https://www.text-image.com/) or [ASCII-art-creator](https://github.com/CherryPill/ASCII-art-creator) - Image / Video to ASCII Art

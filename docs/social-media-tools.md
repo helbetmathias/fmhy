@@ -6,7 +6,7 @@
 
 # ► Social Media Tools
 
-* 🌐 **[Disroot](https://disroot.org/en/services)**, [Hoffnung für die Zukunft](https://hoffnungfuerdiezukunft.net/) / [2](https://evilasswebsite.com/), [⁠Radical Servers](https://help.riseup.net/en/security/resources/radical-servers), [canine.tools](https://canine.tools/services), [4d2](https://4d2.org/), [bloat.cat](https://bloat.cat/), [⁠NerdVPN](https://nerdvpn.de/), [⁠Privacy Redirect](https://privacyredirect.com/), [⁠Nadeko](https://nadeko.net/), [⁠Meowing](https://meowing.de/) or [adminForge](https://adminforge.de/#services)- Frontend Indexes
+* ↪️ **[Frontend / Service Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_frontend_.2F_service_hosts)**
 * ↪️ **[Chat / Forum Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_chat_.2F_forums)**
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps)** / **[iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_social_media_apps2)** - Mobile Social Media Apps
 * ⭐ **[GrayJay](https://grayjay.app/)** - YouTube, Twitch, Rumble, etc. / [Guide](https://youtu.be/EnZrv37u66c) / [Plugins](https://plugins.grayjay.app/) / [Add Platforms](https://grayjay-sources.github.io/), [2](https://github.com/grayjay-sources/grayjay-sources.github.io), [3](https://gitlab.futo.org/videostreaming/plugins) / [GitLab](https://gitlab.futo.org/videostreaming/grayjay)
@@ -106,10 +106,8 @@
 * [Stickers.gg](https://stickers.gg) - Free Discord Stickers
 * [PreMiD](https://premid.app/) - Display Web Activity in Discord Status / [Discord](https://discord.premid.app/) / [GitHub](https://github.com/PreMiD/PreMiD)
 * [Music Presence](https://musicpresence.app/), [2](https://musicpresence.app/) - Audio Player Rich Presence / [Discord](https://discord.com/invite/musicpresence) / [GitHub](https://github.com/ungive/discord-music-presence)
-* [Jellyfin RPC](https://github.com/Radiicall/jellyfin-rpc) - Jellyfin Rich Presence
 * [⁠YouTubeDiscordPresence](https://github.com/XFG16/YouTubeDiscordPresence) - YouTube Rich Presence
 * [Adobe Discord RPC](https://github.com/teeteeteeteetee/adobe-discord-rpc) - Adobe Rich Presence
-* [PS3 Rich](https://github.com/zorua98741/PS3-Rich-Presence-for-Discord) - PS3 Rich Presence
 * [discord-vscode](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode) - VSCode Rich Presence / [GitHub](https://github.com/iCrawl/discord-vscode)
 
 ***
@@ -334,17 +332,18 @@
 
 ## ▷ YouTube Customization
 
-* ⭐ **[Return YouTube Dislike](https://returnyoutubedislike.com/)** - View YouTube Dislikes / [Web App](https://haeri.github.io/youtube-dislike-viewer/) / [Discord](https://discord.com/invite/mYnESY4Md5)
-* ⭐ **[DeArrow](https://dearrow.ajay.app/)** - Reduce Sensationalism / Clickbait
+* ⭐ **[Return YouTube Dislike](https://returnyoutubedislike.com/)** - View YouTube Dislikes / [Web App](https://haeri.github.io/youtube-dislike-viewer/) / [Discord](https://discord.com/invite/mYnESY4Md5) / [GitHub](https://github.com/Anarios/return-youtube-dislike)
+* ⭐ **[DeArrow](https://dearrow.ajay.app/)** - Reduce Sensationalism / Clickbait / [GitHub](https://github.com/ajayyy/DeArrow)
+* ⭐ **[⁠Control Panel](https://soitis.dev/control-panel-for-youtube)** - YouTube Debloating / UI Controls / [BlueSky](https://bsky.app/profile/soitis.dev) / [GitHub](https://github.com/insin/control-panel-for-youtube) 
 * ⭐ **[VORAPIS](https://vorapis.pages.dev/)** - Classic YouTube Layout / Increased Performance / [Extra Themes](https://github.com/lightbeam24/StarTube) / [Error Fix](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/vorapis.md) / [Discord](https://discord.com/invite/tBBZQMscag)
-* [ImprovedTube](https://improvedtube.com/), [YouTube Alchemy](https://greasyfork.org/en/scripts/521686), [Tweaks for YT](https://inzk.dev/tweaks-for-youtube/), [Magic Actions](https://www.chromeactions.com/), [⁠Control Panel for YouTube](https://soitis.dev/control-panel-for-youtube) / [GitHub](https://github.com/insin/control-panel-for-youtube), [YouTube Tweaks](https://addons.mozilla.org/en-US/firefox/addon/youtube-tweaks/) / [Chrome](https://chrome.google.com/webstore/detail/youtube-tweaks/oeakphpfoaeggagmgphfejmfjbhjfhhh) or [Enhancer for YT](https://www.mrfdev.com/enhancer-for-youtube) - YouTube Enhancement Extensions
-* [YouTube Hide Watched](https://github.com/EvHaus/youtube-hide-watched) - Toggle Visibility of Watched Videos / Shorts
+* [Enhancer for YT](https://www.mrfdev.com/enhancer-for-youtube), [ImprovedTube](https://improvedtube.com/) / [GitHub](https://github.com/code-charity/youtube), [YT Tweaks](https://github.com/pedrosouu/yt-tweaks), [Tweaks for YT](https://inzk.dev/tweaks-for-youtube/) or [YouTube Alchemy](https://greasyfork.org/en/scripts/521686) / [GitHub](https://github.com/TimMacy/YouTubeAlchemy) - YouTube Enhancement Extensions
 * [TubeMod](https://github.com/Pedro-Gregorio/TubeMod), [Unhook](https://unhook.app/) or [Less Addictive YouTube](https://github.com/AlexisDrain/Less-Addictive-YouTube) - Distraction-Free YouTube
+* [YouTube Hide Watched](https://github.com/EvHaus/youtube-hide-watched) - Toggle Visibility of Watched Videos / Shorts
 * [Thumbnail Rating Bar](https://github.com/elliotwaite/thumbnail-rating-bar-for-youtube) - Display Like / Dislike Ratio on Thumbnails
 * [YT Like-Dislike Shortcut](https://github.com/avi12/youtube-like-dislike-shortcut) - Add Like / Dislike Hotkeys
 * [YT: Not Interested](https://greasyfork.org/en/scripts/396936-yt-not-interested-in-one-click) - Show "Not Interested" and "Don't Recommend" Buttons
 * [YouTube Search Fixer](https://phoennix.gitlab.io/youtubesearchfix/) - Declutter Search Results / Homepage
-* [BlockTube](https://github.com/amitbl/blocktube) or [YTBlock](https://chromewebstore.google.com/detail/ytblock-block-any-content/nedcanggplmbbgmlpcjiafgjcpdimpea) - YouTube Content Blocker
+* [BlockTube](https://github.com/amitbl/blocktube) - YouTube Content Blocker
 * [YouTube Fixes](https://greasyfork.org/en/scripts/405614) - YouTube Tweaks
 * [Restore Handle to Custom](https://greasyfork.org/en/scripts/468740) - Shows Display Name Instead of Handle
 * [Focused YouTube](https://github.com/makaroni4/focused_youtube) or [yt-neuter](https://github.com/mchangrh/yt-neuter) - Minimalist YouTube
@@ -421,8 +420,7 @@
 * [Stacher](https://stacher.io/), [Cube YouTube Downloader](https://github.com/database64128/youtube-dl-wpf) or [Open Video Downloader](https://github.com/jely2002/youtube-dl-gui) - YT-DL GUIs
 * [⁠YT1s](https://yt1s.com.co/) or [CNVMP3](https://cnvmp3.com/) / [Subreddit](https://www.reddit.com/r/cnvmp3) - Online YT-DL Downloaders
 * [⁠Wayback YouTube](https://www.waybackyt.download/) - Download Deleted YouTube Videos via Wayback Machine
-* [Pinchflat](https://github.com/kieraneglin/pinchflat), [MeTube](https://github.com/alexta69/metube), [Downtify](https://github.com/henriquesebastiao/downtify), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) or [yt-dlp Web UI](https://github.com/marcopiovanello/yt-dlp-web-ui) - Self-Hosted YT-DLP
-* [ytarchive](https://github.com/Kethsar/ytarchive) - YouTube Livestream Downloader
+* [Pinchflat](https://github.com/kieraneglin/pinchflat), [MeTube](https://github.com/alexta69/metube), [Downtify](https://github.com/henriquesebastiao/downtify) or [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-Hosted YT-DLP
 * [Tube All Images](https://imageyoutube.com/) - Download YouTube Images
 * [YTThumbnailHD](https://ytthumbnailhd.com/), [ThumbnailDownloader](https://www.thumbnaildownloader.art/) or [YT Thumbnail Grabber](https://youtube-thumbnail-grabber.com/) - Download Video Thumbnails
 * [youtube-comment-downloader](https://github.com/egbertbouman/youtube-comment-downloader) - Download YouTube Comments
@@ -430,7 +428,7 @@
 
 ***
 
-## ▷ YouTube Search
+## ▷ Search / Recommendations
 
 * 🌐 **[YT Channel Spreadsheet](https://docs.google.com/spreadsheets/d/1xZm5BcQTYJx8sfSuqHExHtIOPtSfod8beHKtYzp8DxE/)** or **[YouTube_Channels](https://github.com/PrejudiceNeutrino/YouTube_Channels)** - YouTube Channel Indexes
 * ⭐ **[Favoree](https://www.favoree.io/)** - Discover / Search YouTube Channels
@@ -438,11 +436,12 @@
 * ⭐ **[Filmot](https://filmot.com/)** or [CTRL-F-VIDEO](https://github.com/Evan-Wildenhain/CTRL-F-VIDEO) - Search within YouTube Subs, Captions & Transcripts / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/youtube-captions-search/) / [Chrome](https://chromewebstore.google.com/detail/youtube-captions-search/kimbeggjgnmckoikpckibeoaocafcpbg)
 * [comb.io](https://comb.io/), [clip.cafe](https://clip.cafe/), [InPhrase](https://inphrase.com/) or [Yarn](https://yarn.co/) - Clip / Phrase Search Engines
 * [YT Non Biased Searcher](https://kvnaust.github.io/YouTube-NonBiasedVideoSearcher) - Algorithm-Free YouTube Search / Improved Sorting
+* [⁠fmhytube](https://fmhytube.suntown.town/) - Curated Video Directory / Based on YT Channel Spreadsheet / [Discord](https://discord.gg/Ku8p5KRfqa)
 * [⁠YouTube Metadata Search](https://youtube.snivy.pl/) - ⁠YouTube Metadata Search
 * [yt-fts](https://github.com/NotJoeMartinez/yt-fts) - Full-Text Search of Subtitles from Channels / Videos
 * [Icono](https://www.icono-search.com/) - Description-Based Video Search / [Discord](https://discord.gg/RWv7bGKwHr)
 * [⁠LikeSearch](https://likesearch.kaustlabs.com/) - Search Your Liked YouTube Videos
-* [⁠HackerTube](https://hackertube.org/) - Educational YouTube Videos
+* [⁠HackerTube](https://hackertube.org/) or [⁠TristanTube](https://karpathy.ai/tristan-tube/) - Educational YouTube Videos
 * [MW Geofind](https://mattw.io/youtube-geofind/location) or [TubeTrotter](https://www.tubetrotter.live/) - Find Geotagged Videos
 * [YT Comment Viewer](https://commentviewer.com/) / [GitHub](https://github.com/sameerdash2/comment-viewer), [CommentShark](https://www.commentshark.com/youtube-comment-searcher), [Hadzy](https://hadzy.com/) or [YCF](https://ytcomment.kmcat.uk/) - Comment Search / View Censored Comments
 * [Tokin](https://tokin.tv/) - Find Trending / Hidden Gem Videos
@@ -552,7 +551,7 @@
 
 * ⭐ **[Trends24](https://trends24.in/)** or [GetDayTrends](https://getdaytrends.com/) - Trending Hashtags Trackers
 * ⭐ **[r/Twitter](https://reddit.com/r/Twitter)** - X.com Subreddit
-* ⭐ **[Nitter](https://funkstelle.hoffnungfuerdiezukunft.net/)**, [2](https://nr.evilasswebsite.com/), [3](https://tw1tter.com/) / [Redirector](https://xxcancel.com/) / [Instances](https://codeberg.org/mv12star/shitter/wiki/Instances) / [2](https://status.d420.de/) / [.onion](http://zcbxmgileoovnup5k4yj4w6r3vicqpawqc6b33rnmmsqy6n4micpzoad.onion/), [⁠Twitee](https://twitee.co/), [⁠sotwe](https://www.sotwe.com/), [twstalker](https://twstalker.com/), [Twitter Viewer](https://twitterviewer.net/) or [x⁠TwitterViewer](https://xtwitterviewer.com/) - X.com Frontends / Viewers
+* ⭐ **[Nitter](https://nr.evilasswebsite.com/)**, [2](https://funkstelle.hoffnungfuerdiezukunft.net/), [3](https://tw1tter.com/) / [Redirector](https://xnotme.com/) / [Instances](https://codeberg.org/shitter/shitter/wiki/Instances) / [2](https://status.d420.de/) / [.onion](http://zcbxmgileoovnup5k4yj4w6r3vicqpawqc6b33rnmmsqy6n4micpzoad.onion/), [⁠Twitee](https://twitee.co/), [⁠sotwe](https://www.sotwe.com/), [twstalker](https://twstalker.com/), [Twitter Viewer](https://twitterviewer.net/) or [x⁠TwitterViewer](https://xtwitterviewer.com/) - X.com Frontends / Viewers
 * [Typefully](https://typefully.com/) - Schedule Tweets
 * [Chirr App](https://getchirrapp.com/) - Turn Articles into X.com Threads / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chirr-app/) / [Chrome](https://chromewebstore.google.com/detail/chirr-app/cmbconaimdngicdnbpjnjocbpkdpmfkg)
 * [FollowerWonk](https://followerwonk.com/) - Find / Analyze / Optimize Followers
@@ -582,7 +581,7 @@
 
 * ⭐ **[Control Panel for Twitter](https://soitis.dev/control-panel-for-twitter)** - Twitter Enhancement Extensions
 * [Minimal Twitter](https://typefully.com/minimal-twitter) - Minimal Twitter Themes
-* [OldTwitter](https://github.com/dimdenGD/OldTwitter) or [GoodTwitter2](https://github.com/Bl4Cc4t/GoodTwitter2) - Original Twitter Theme
+* [OldTwitter](https://github.com/dimdenGD/OldTwitter) - Original Twitter Theme
 * [OldTweetDeck](https://github.com/dimdenGD/OldTweetDeck) - Twitter Dashboard
 * [Twitter Plus](https://greasyfork.org/en/scripts/387969) - View Twitter Images in Original Quality
 * [Twitter Demetricator](https://bengrosser.com/projects/twitter-demetricator/) - Remove All Twitter Metrics
@@ -642,8 +641,8 @@
 # ► TikTok Tools
 
 * ⭐ **[EinzzTools](https://einzzcookie.org/)** - TikTok User Lookup & Archive / Monitor / Viewer / Link Tracker / Comment & Video Exporter & more / [Telegram](https://t.me/tiktracksite)
-* [Urlebird](https://urlebird.com/) - TikTok Frontend / Viewer
-* [SSSTik](https://ssstik.io/), [⁠TikWM](https://tikwm.com/originalDownloader.html), [myfaveTT](https://myfavett.com/), [TokSave](https://toksave.social/) or [tiktok-to-ytdlp](https://github.com/Dinoosauro/tiktok-to-ytdlp) - TikTok Video Downloaders
+* [Urlebird](https://urlebird.com/) or [⁠PeekProfile](https://peekprofile.com/) - TikTok Frontend / Viewers
+* [myfaveTT](https://myfavett.com/), [TokSave](https://toksave.social/), [SSSTik](https://ssstik.io/), [⁠TikWM](https://tikwm.com/originalDownloader.html), or [tiktok-to-ytdlp](https://github.com/Dinoosauro/tiktok-to-ytdlp) - TikTok Video Downloaders
 * [TikTok Tools](https://omar-thing.site/) - TikTok User Finder / Search / Story Viewer / Downloader / Link Tracker & more / [Telegram](https://t.me/tiktokinfosite)
 * [⁠BXD Enhancer](https://method.billoxd.site/) - Bypass TikTok Compression
 * [⁠TikFinity](https://tikfinity.zerody.one/) - TikTok Live Toolkit / [Discord](https://discord.gg/uthtmVdpy8)

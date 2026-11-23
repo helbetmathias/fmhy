@@ -36,6 +36,7 @@
 * [UHD Drives Flashing Guide](https://forum.makemkv.com/forum/viewtopic.php?f=16&t=19634) / Web
 * [Redump](https://redump.info/) - Disc Preservation Info Project / Web
 * [VHS Decode](https://github.com/oyvindln/vhs-decode) - VHS Decoder / Windows, macOS, Linux
+* [⁠Disc Image Studio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio/blob/main/README.en.md) - Burn Visible Images onto Optical Discs
 
 ***
 
@@ -78,7 +79,7 @@
 ## ▷ Screen Recording
 
 * ⭐ **[OBS Studio](https://obsproject.com/)** / Windows, macOS, Linux / [Discord](https://discord.com/invite/obsproject) / [GitHub](https://github.com/obsproject/obs-studio)
-* [SteelSeries Moments](https://steelseries.com/gg/moments), [⁠Ascent](https://www.tryascent.gg/), [Medal](https://medal.tv/) / [Watermark Remover](https://rentry.co/FMHYB64#medal), [Segra](https://segra.tv/) / [GitHub](https://github.com/Segergren/Segra), [Vice](https://github.com/eklonofficial/Vice) or [RePlays](https://github.com/lulzsun/RePlays) - Game Recording Tools
+* [Segra](https://segra.tv/) / [GitHub](https://github.com/Segergren/Segra), [SteelSeries Moments](https://steelseries.com/gg/moments), [⁠Ascent](https://www.tryascent.gg/), [Vice](https://github.com/eklonofficial/Vice) or [RePlays](https://github.com/lulzsun/RePlays) - Game Recording Tools
 * [Shinobi](https://shinobi.video/) - Network Video Recorder / macOS, Linux / [Discord](https://discord.com/invite/mdhmvuH) / [GitLab](https://gitlab.com/Shinobi-Systems/Shinobi)
 * [MythTV](https://www.mythtv.org/) - Digital Video Recorder (DVR) / Windows, macOS, Linux / [GitHub](https://github.com/MythTV/mythtv)
 * [FFmpeg](https://ffmpeg.org/) / Windows, macOS, Linux / [GitHub](https://github.com/FFmpeg/FFmpeg) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_ffmpeg_tools)
@@ -164,7 +165,6 @@
 * [⁠Moblin](https://github.com/eerimoq/moblin) - IRL Live Streaming App / iOS
 * [Owncast](https://owncast.online/) / [GitHub](https://github.com/owncast/owncast) or [Restreamer](https://github.com/datarhei/restreamer) - Self-Hosted Live Streaming
 * [WDFlat](https://www.wdflat.com/) - Stream Elements
-* [Strem](https://github.com/strem-app/strem) - Stream Automation
 * [ppInk](https://github.com/PubPub-zz/ppInk/), [⁠AnnotateWeb](https://annotateweb.com/), [gInk](https://github.com/geovens/gInk), [Screenshot](https://jpgonline.com/screenshot) or [Live Draw](https://github.com/antfu/live-draw) - Screen Annotation
 * [⁠Overlays](https://overlays.uno/) - Live Stream Overlays
 * [Amuse](https://6klabs.com/amuse) or [Songify](https://songify.rocks/) - Now Playing Overlays
@@ -293,12 +293,12 @@
 * ⭐ **[Jellyfin](https://jellyfin.org/)** - Media Server / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_jellyfin_tools) / [Matrix](https://matrix.to/#/#jellyfinorg:matrix.org) / [Discord](https://discord.gg/zHBxVSXdBV) / [GitHub](https://github.com/jellyfin/jellyfin)
 * ⭐ **[Kodi](https://kodi.tv/)** or [Xbox Kodi](https://apps.microsoft.com/detail/9nblggh4t892) - Media Server / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_kodi_tools)
 * [TRaSH Guides](https://trash-guides.info/) / [Discord](https://discord.com/invite/4K2kdvwzFh), [⁠Duck Guides](https://duckkota.gitlab.io/guides/) or [The Complete Guide](https://redd.it/pqsomd) - Server Setup Guides
-* [Simkl](https://simkl.com/), [MDBList](https://mdblist.com/) or [Trakt](https://app.trakt.tv/) - Media Trackers / List Creators
+* [Simkl](https://simkl.com/), [MDBList](https://mdblist.com/) or [Trakt](https://og.trakt.tv/) / [2](https://app.trakt.tv) - Media Trackers / List Creators
 * [Prowlarr](https://prowlarr.com/) / [GitHub](https://github.com/Prowlarr/Prowlarr), [FlexGet](https://flexget.com/) or [r/softwarr](https://reddit.com/r/softwarr) - Autodownload Tools
 * [Reiverr](https://github.com/aleksilassila/reiverr) - Media Server Manager
 * [HTPC Download Box](https://github.com/sebgl/htpc-download-box) - Media Server Automation
 * [Seanime](https://seanime.app/) - Anime Server / [Discord](https://discord.com/invite/3AuhRGqUqh)
-* [swizzin](https://swizzin.ltd/) or [⁠YAMS](https://yams.media/) / [Discord](https://discord.com/invite/Gwae3tNMST) - Media Server Install Script / Debain + Ubuntu
+* [swizzin](https://swizzin.ltd/) or [⁠YAMS](https://yams.media/) / [Discord](https://discord.com/invite/Gwae3tNMST) - Media Server Install Script / Debian + Ubuntu
 * [DMS](https://github.com/anacrolix/dms) - Media Server
 * [Emby](https://emby.media/) - Media Server
 * [Universal Media Server](https://www.universalmediaserver.com/) - Media Server
@@ -356,7 +356,6 @@
 ## ▷ Kodi Tools
 
 * ⭐ **[Elementum](https://elementum.surge.sh/)** - Torrent Streaming / Trakt Sync / Similar to Stremio + Torrentio
-* [Kodi Builds Chart](https://kodiapps.com/builds-chart)
 * [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) / [Tracker](https://kinkeadtech.com/best-kodi-streaming-addons/) / [Trending](https://kodiapps.com/addons-chart) or [⁠TroyPoint](https://troypoint.com/) - Kodi Addons
 * [Kodi Skins](https://kodi.tv/addons/omega/category/skins/) or [WIP Skins](https://forum.kodi.tv/forumdisplay.php?fid=160) - Kodi Skins
 * [Synko](https://github.com/Skaytacium/synko) - Kodi Stream Sync
@@ -373,8 +372,9 @@
 * ↪️ **[Twitch Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_downloaders)**
 * ↪️ **[Download Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_download_managers)**
 * ⭐ **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - Multi-Site / [Commands](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) / Windows, macOS, Linux / [Discord](https://discord.gg/H5MNcFW63r)
-* ⭐ **[cobalt](https://cobalt.tools/)** - Multi-Site / Online / [Instances](https://cobalt.directory/) / [X](https://x.com/justusecobalt) / [Discord](https://discord.com/invite/pQPt8HBUPu) / [GitHub](https://github.com/imputnet/cobalt)
+* ⭐ **[cobalt](https://cobalt.directory/)**, [2](https://cobalt.tools/) - Multi-Site / Online / [Instances](https://cobalt.directory/) / [X](https://x.com/justusecobalt) / [Discord](https://discord.com/invite/pQPt8HBUPu) / [GitHub](https://github.com/imputnet/cobalt)
 * ⭐ **[⁠lostnode](https://dl.lostnode.lol/)** - Multi-Site / Online
+* ⭐ **[Cybrox](https://cybrox.pro/)** - Multi-Site / Online
 * ⭐ **[9xbuddy](https://9xbuddy.com/)**, [2](https://9xbuddy.site/), [3](https://9xbuddy.in/) - Multi-Site / Online
 * [Video Download Helper](https://www.downloadhelper.net/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/video-downloadhelper.md), [FetchV](https://fetchv.net/) or [MPMux](https://mpmux.com/) - Extensions
 * [⁠VideoDL](https://github.com/CharlesPikachu/videodl) - Multi-Site / Windows, macOS, Linux
@@ -384,8 +384,7 @@
 * [you-get](https://you-get.org/) - Multi-Site / CLI / [GitHub](https://github.com/soimort/you-get)
 * [Musvkrobot](https://t.me/musvkrobot) - Multi-Site / Telegram Bot
 * [⁠Rip Anything From Anywhere](https://anything.rip/) - Multi-Site / Online
-* [⁠CYBROX](https://cybrox.pro/) - Multi-Site / Online
-* [vdwn.cloud](https://vdwn.cloud/), [2](https://imov.life/) - Multi-Site / Online
+* [vdwn.cloud](https://vdwn.cloud/) - Multi-Site / Online
 * [yoink.tools](https://yoink.tools/) - Multi-Site / Online
 * [AMP4](https://amp4.cc/) - Multi-Site / Online
 * [AudioFetcher (MP4)](https://audiofetcher.com/) - Multi-Site / Online / [Discord](https://discord.gg/DFZaejcJfg)
@@ -407,7 +406,7 @@
 
 * ⭐ **[r/VideoEditing](https://www.reddit.com/r/VideoEditing/)** - Video Editing Subreddit / [Wiki](https://www.reddit.com/r/VideoEditing/wiki/index/)
 * ⭐ **[Eyecandy](https://eyecannndy.com/)** - Visual Technique Examples / [Discord](https://discord.com/invite/WRyrPkWEzT)
-* ⭐ **[Waifu2x GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)**, [⁠TheAnimeScripter](https://github.com/NevermindNilas/TheAnimeScripter), [Video2x](https://github.com/k4yt3x/video2x), [Warlock-Studio](https://github.com/Ivan-Ayub97/Warlock-Studio), [Lossless Scaling](https://fmhy.net/gaming#download-games) (search) or [Dandere2x](https://github.com/akai-katto/dandere2x) - Video Upscaling
+* ⭐ **[Waifu2x GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)**, [⁠TheAnimeScripter](https://github.com/NevermindNilas/TheAnimeScripter), [Video2x](https://github.com/k4yt3x/video2x), [Warlock-Studio](https://github.com/Ivan-Ayub97/Warlock-Studio), [Lossless Scaling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25BA_download_games) (search) or [Dandere2x](https://github.com/akai-katto/dandere2x) - Video Upscaling
 * [Codecs and Containers](https://www.reddit.com/r/VideoEditing/wiki/codecsandcontainers) - Info on Codecs & Containers
 * [VideoHelp Forum](https://forum.videohelp.com/forums/2-Video) - Video Editing Forums
 
@@ -417,7 +416,8 @@
 
 * ↪️ **[Editing Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites)** / [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites)
 * ↪️ **[Linux Video Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_linux_video)** / [macOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_mac_video)
-* ⭐ **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - Video Editor / Requires Sign-Up (Fake Info Works) / [Guides](https://www.blackmagicdesign.com/products/davinciresolve/training) / [Subtitle Generator](https://tom-moroney.com/auto-subs/) / [Green Screen Extract](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime) / Windows, macOS, Linux / [X](https://x.com/Blackmagic_News) / [Discord](https://discord.gg/davinci-resolve-community-714620142096482314)
+* ⭐ **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** - Video Editor / Requires Sign-Up (Fake Info Works) / [Guides](https://www.blackmagicdesign.com/products/davinciresolve/training) / [Green Screen Extract](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime) / Windows, macOS, Linux / [X](https://x.com/Blackmagic_News) / [Discord](https://discord.gg/davinci-resolve-community-714620142096482314)
+* ⭐ **[Blender](https://www.blender.org/)** - Video Editor / Windows, macOS, Linux / [Forums](https://blenderartists.org/) / [Source Code](https://projects.blender.org/blender/blender)
 * ⭐ **[Kdenlive](https://kdenlive.org/en/)** - Video Editor / Windows, macOS, Linux / [GitHub](https://github.com/KDE/kdenlive)
 * ⭐ **[LosslessCut](https://github.com/mifi/lossless-cut)** - Video Editor / Windows, macOS, Linux
 * ⭐ **[Shotcut](https://shotcut.org/)** - Video Editor / Windows, macOS, Linux / [GitHub](https://github.com/mltframework/shotcut)
@@ -425,7 +425,6 @@
 * [Keyflame](https://rentry.co/FMHYB64#keyflame) - Video Editors / Plugins
 * [VSDC](https://www.videosoftdev.com/) - Video Editor / Windows, macOS
 * [Avidemux](http://fixounet.free.fr/avidemux/) - Video Editor / Windows, macOS, Linux
-* [Blender](https://www.blender.org/) - Video Editor / Windows, macOS, Linux / [Forums](https://blenderartists.org/) / [Source Code](https://projects.blender.org/blender/blender)
 * [Auto-Editor](https://auto-editor.com/) - CLI Editor
 * [MoviePy](https://zulko.github.io/moviepy/) - Python Editor / [GitHub](https://github.com/Zulko/moviepy/)
 * [Webm Generator](https://github.com/dfaker/WebmGenerator) - Webm Editor / Windows
@@ -496,7 +495,7 @@
 * [AETemp](https://t.me/AETemp)
 * [Visual Effects Pack](https://t.me/visual_effects_pack)
 * [AEDownloadPro](https://aedownloadpro.com/)
-* [Intro HD](https://intro-hd.net/) / **[Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/introhd-warning.md)**
+* [Intro HD](https://intro-hd.net/) / **[Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/introhd-critical.md)**
 
 ***
 

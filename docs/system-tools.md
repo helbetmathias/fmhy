@@ -29,6 +29,7 @@
 * [Winbindex](https://winbindex.m417z.com/) - Windows System Files / Binaries / [GitHub](https://github.com/m417z/winbindex)
 * [OfflineInsiderEnroll](https://github.com/abbodi1406/offlineinsiderenroll), [2](https://gitlab.com/stdout12/offlineinsiderenroll), [3](https://codeberg.org/stdout12/offlineinsiderenroll) - Enable Windows Insider without Account
 * [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) - Voice Assistant
+* [⁠Hex](https://anoma.ly/hex/) - Voice Dictation
 * [OpenRecall](https://github.com/openrecall/openrecall) or [Windrecorder](https://github.com/yuka-friends/Windrecorder/) - Memory Search App / System Recorders
 * [Time.is](https://time.is/) - Check Accuracy of System Clock
 * [⁠LenovoLegionToolkit](https://github.com/LenovoLegionToolkit-Team/LenovoLegionToolkit) - Lenovo Vantage + Hotkeys Replacement for Lenovo Legion Laptops
@@ -39,9 +40,9 @@
 
 ## ▷ System Tweaks
 
-* ⭐ **[Windhawk](https://windhawk.net/)** / [Discord](https://discord.com/invite/windhawk-923944342991818753) / [GitHub](https://github.com/ramensoftware/windhawk), [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html) or [Winaero](https://winaero.com/) / [2](https://winaerotweaker.com/) - System Tweaking Tools / **[Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/general-tweak-warning.md)**
+* ⭐ **[Windhawk](https://windhawk.net/)** / [Discord](https://discord.com/invite/windhawk-923944342991818753) / [GitHub](https://github.com/ramensoftware/windhawk), [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html) or [Winaero](https://winaero.com/) / [2](https://winaerotweaker.com/) - System Tweaking Tools / **[Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/general-tweak-critical.md)**
 * ⭐ **[StartAllBack](https://www.startallback.com/)** - Tweaked Start Menu & Taskbar / Windows 11 / [Fix](https://rentry.co/FMHYB64#startxback)
-* ⭐ **[Open Shell](https://open-shell.github.io/Open-Shell-Menu/)** or [StartIsBack](https://startisback.com/) / [Fix](https://rentry.co/FMHYB64#startxback) - Classic Start Menus
+* ⭐ **[Open Shell](https://open-shell.github.io/Open-Shell-Menu/)** / [GitHub](https://github.com/Open-Shell/Open-Shell-Menu) or [StartIsBack](https://startisback.com/) / [Fix](https://rentry.co/FMHYB64#startxback) - Classic Start Menus
 * ⭐ **[EarTrumpet](https://eartrumpet.app/)** / [GitHub](https://github.com/File-New-Project/EarTrumpet), [Volumey](https://github.com/G-Stas/Volumey), [BetterTrumpet](https://bettertrumpet.com/) / [Subreddit](https://www.reddit.com/r/Bettertrumpet/) / [GitHub](https://github.com/xammen/BetterTrumpet) or [Volume2](https://github.com/irzyxa/Volume2) - Tweaked Volume Mixer
 * ⭐ **[AltSnap](https://github.com/RamonUnch/AltSnap)** - Tweaked Windows Dragging
 * ⭐ **[Edge-Uninstall](https://gist.github.com/ave9858/c3451d9f452389ac7607c99d45edecc6)** - Microsoft Edge Removal Script
@@ -72,9 +73,9 @@
 * ⭐ **[UniGetUI](https://devolutions.net/unigetui/)** - GUI for Popular Package Managers / [GitHub](https://github.com/Devolutions/UniGetUI)
 * ⭐ **[Scoop](https://scoop.sh/)** - Portable Package Manager / [GitHub](https://github.com/ScoopInstaller/Scoop)
 * [Chocolatey](https://chocolatey.org/) - Package Manager / [GUI](https://github.com/chocolatey/ChocolateyGUI) / [GitHub](https://github.com/chocolatey/choco)
-* [Topgrade](https://github.com/topgrade-rs/topgrade) - CLI Package Manager
+* [Topgrade](https://github.com/topgrade-rs/topgrade) - CLI Package Updater
 * [sfsu](https://github.com/winpax/sfsu/) or [hok](https://github.com/chawyehsu/hok) - Fast Scoop Utilities
-* [0Install](https://0install.net/) - Decentralized Cross-Platform Package Manager
+* [Zero Install](https://0install.net/) - Decentralized Cross-Platform Package Manager
 * [portableapps](https://portableapps.com/download) - Package Manager for Portable Apps
 * [Baulk](https://github.com/baulk/baulk) - Minimalist Package Manager
 * [NirLauncher](https://launcher.nirsoft.net/) - Portable Package Manager for NirSoft Utilities
@@ -88,7 +89,7 @@
 * [Scheduler](https://www.splinterware.com/products/scheduler.html), [⁠FluentTaskScheduler](https://github.com/TRGamer-tech/FluentTaskScheduler) or [TaskRunner](https://www.keyefficiency.com/) - System Task Scheduler / Windows
 * [AutoIt](https://www.autoitscript.com/) / Windows
 * [TinyTask](https://tinytask.net/) - Find "Free" Button on Homepage / Windows
-* [⁠CrossMacro](https://github.com/alper-han/CrossMacro) / Windows, macOS, Linux
+* [⁠CrossMacro](https://alper-han.github.io/CrossMacro/) / Windows, macOS, Linux / [GitHub](https://github.com/alper-han/CrossMacro)
 * [OculiX](https://oculix.org/) / Windows, macOS, Linux / [GitHub](https://github.com/oculix-org/Oculix)
 * [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy) / Windows
 * [MacroRecorder](https://www.macrorecorder.com/) / Windows, macOS
@@ -124,7 +125,7 @@
 * ⭐ **[Parsec](https://parsec.app/)** / Windows, macOS, Linux, Android, Web / [X](https://x.com/parsecteam) / [Discord](https://discord.com/invite/cQjEGFy) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/parsec.md)
 * ⭐ **[RustDesk](https://rustdesk.com/)** / All Platforms / [Subreddit](https://www.reddit.com/r/rustdesk/) / [Discord](https://discord.com/invite/nDceKgxnkV) / [GitHub](https://github.com/rustdesk/rustdesk)
 * ⭐ **[Aspia](https://aspia.org/)** / Windows, macOS, Linux / [Telegram](https://t.me/aspia_talks) / [GitHub](https://github.com/dchapyshev/aspia)
-* ⭐ **[Sunshine](https://app.lizardbyte.dev/Sunshine/)** or [Apollo](https://github.com/ClassicOldSong/Apollo) - Remote Server for Moonlight / Windows, macOS, Linux / [Discord](https://discord.com/invite/d6MpcrbYQs) / [GitHub](https://github.com/LizardByte/Sunshine)
+* ⭐ **[Apollo](https://github.com/ClassicOldSong/Apollo)** - Remote Server for Moonlight / Windows, macOS, Linux
 * [Moonlight](https://moonlight-stream.org/) or [Artemis](https://github.com/ClassicOldSong/moonlight-android) (android) - Gaming Remote Desktop Client / Windows, macOS, Linux, Android, iOS / [Discord](https://discord.com/invite/CGg5JxN) / [GitHub](https://github.com/moonlight-stream)
 * [Kasm](https://kasm.com/) - Container Streaming Platform / Resource Intensive / Windows, Linux / [GitHub](https://github.com/kasmtech/KasmVNC)
 * [HopToDesk](https://www.hoptodesk.com/) / Windows, macOS, Linux, Android, iOS / [GitLab](https://gitlab.com/hoptodesk/hoptodesk)
@@ -134,10 +135,10 @@
 * [Remotly](https://remotly.com/) / Windows, Linux
 * [ChromeRemoteDesktop](https://remotedesktop.google.com/) - Browser
 * [InputDirector](https://www.inputdirector.com/) - Multi-Computer Client / Windows
-* [Mouse Without Borders](https://www.microsoft.com/en-us/garage/wall-of-fame/mouse-without-borders/) - Multi-Computer Client / Windows
+* [Mouse Without Borders](https://www.microsoft.com/en-us/download/details.aspx?id=35460) - Multi-Computer Client / Windows
 * [Screensy](https://screensy.marijn.it/) - Web-Based / [GitHub](https://github.com/screensy/screensy)
 * [Screego](https://app.screego.net/) - Web-Based / [GitHub](https://github.com/screego/server/)
-* [Screen-Sharing](https://share-your-screen.vercel.app/) - Web-Based / [GitHub](https://github.com/tonghohin/screen-sharing)
+* [Screen-Sharing](https://github.com/tonghohin/screen-sharing) - Web-Based
 * [TigerVNC](https://tigervnc.org/) - VNC Client / Windows, Linux / [GitHub](https://github.com/TigerVNC/tigervnc)
 * [TightVNC](https://www.tightvnc.com/) - VNC Client
 * [noVNC](https://novnc.com/info.html) - JavaScript VNC Client / [GitHub](https://github.com/novnc/noVNC)
@@ -199,7 +200,7 @@
 ***
 
 * ⭐ **[Hackintosh](https://hackintosh.com/) / [Subreddit](https://www.reddit.com/r/hackintosh/) / [Discord](https://discord.gg/u8V7N5C)** - Hackintosh Building Guides
-* ⭐ **[Dortania](https://dortania.github.io/OpenCore-Install-Guide/)** - Hackintosh Installation Guide
+* ⭐ **[Dortania](https://dortania.github.io/OpenCore-Install-Guide/)** - Hackintosh Installation Guide / [GitHub](https://github.com/dortania/OpenCore-Install-Guide)
 * [⁠Hackmate](https://github.com/riftaway7-code/hackmate) - Hackintosh Bootable USB Automation
 * [OpenCore-Legacy-Patcher](https://dortania.github.io/OpenCore-Legacy-Patcher) - macOS on Unsupported Hardware
 * [OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - macOS VM with QEMU
@@ -264,7 +265,7 @@
 * ⭐ **[Validrive](https://www.grc.com/validrive.htm)** - Check True Storage Size of USB Devices
 * [TrueNAS](https://www.truenas.com/) - Storage System
 * [QDirStat](https://github.com/shundhammer/qdirstat) - Directory Statistics
-* [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/crystaldiskinfo.md), [Scrutiny](https://github.com/AnalogJ/scrutiny), [GSmartControl](https://gsmartcontrol.shaduri.dev/) / [GitHub](https://github.com/ashaduri/gsmartcontrol) or [smartmontools](https://www.smartmontools.org/) - Drive Diagnostics
+* [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/crystaldiskinfo-critical.md), [Scrutiny](https://github.com/AnalogJ/scrutiny), [GSmartControl](https://gsmartcontrol.shaduri.dev/) / [GitHub](https://github.com/ashaduri/gsmartcontrol) or [smartmontools](https://www.smartmontools.org/) - Drive Diagnostics
 * [Macrorit Partition Expert](https://macrorit.com/partition-magic-manager/partition-expert-download.html) - Disk Usage Analyzer
 * [Diskovery](https://diskovery.io/) - Disk Usage Analyzer
 * [Gdu](https://github.com/dundee/gdu) or [dua](https://lib.rs/crates/dua-cli) - Disk Usage Analyzer with Parallel Processing
@@ -321,7 +322,7 @@
 * [StrokeIt](https://www.tcbmi.com/strokeit/) - Mouse Gestures
 * [Espanso](https://espanso.org/) - Typing Shortcuts / [GitHub](https://github.com/espanso/espanso)
 * [win-vind](https://pit-ray.github.io/win-vind/) - Vim Style Keybindings for Windows
-* [Vial](https://get.vial.today/) - Custom Keyboard Config Tool
+* [Vial](https://get.vial.today/) - Custom Keyboard Config Tool / [GitHub](https://github.com/vial-kb)
 * [KeyViz](https://github.com/mulaRahul/keyviz) - Keystroke Visualizer
 * [Plover](https://www.openstenoproject.org/plover/) - Stenography Engine / [Discord](https://discord.gg/NAzMz7C3wq) / [GitHub](https://github.com/openstenoproject/plover)
 * [WhatPulse](https://whatpulse.org/) - Mouse / Keyboard Usage Analyzer
@@ -484,8 +485,10 @@
 * [Wallpaper Abyss](https://wall.alphacoders.com/) - Search Wallpapers
 * [r/Wallpaper](https://www.reddit.com/r/wallpaper/) - Wallpapers Subreddit
 * [r/WallpaperRequests](https://www.reddit.com/r/WallpaperRequests/) - Wallpaper Request Subreddit
-* [Hue Design](https://perfecthue.com/) - Hand-Made Frutiger Aero Wallpapers ⁠Perfect
+* [Perfect Hue](https://perfecthue.com/) - Hand-Made Frutiger Aero Wallpapers
 * [Frutiger Aero Archive](https://frutigeraeroarchive.org/) - 2000s Style Wallpapers
+* [⁠PhWalls](https://phwalls.com/) - Stock System Wallpapers
+* [⁠Apple Walls](https://applewalls.com/) - Apple Wallpapers
 * [Basic Apple Guy](https://basicappleguy.com/basicappleblog/category/Wallpaper) / [2](https://basicappleguy.com/haberdashery/category/Wallpaper) - Apple Wallpaper Interpretations
 * [⁠WSupercars](https://www.wsupercars.com/) - Car Wallpapers
 * [⁠Kawaii Hoshi](https://kawaiihoshi.com/) - Cute Wallpapers

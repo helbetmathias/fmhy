@@ -44,7 +44,7 @@
 * ↪️ **[Machine / Deep Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_machine_learning)**
 * ↪️ **[Markup Tools / Markdown Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25BA_markup_tools)**
 * ⭐ **[DevToys](https://devtoys.app/)** - Dev Multi-Tool App / Windows, macOS, Linux / [GitHub](https://github.com/DevToys-app/DevToys)
-* ⭐ **[DevDocs](https://devdocs.io/)** / [GitHub](https://github.com/freeCodeCamp/devdocs) or [ZealDocs](https://zealdocs.org/) - Dev Documentation / Windows, macOS, Linux /
+* ⭐ **[DevDocs](https://devdocs.io/)** / [GitHub](https://github.com/freeCodeCamp/devdocs) or [ZealDocs](https://zealdocs.org/) - Dev Documentation / Windows, macOS, Linux
 * ⭐ **[ImHex](https://imhex.werwolv.net/)** / [Web Version](https://web.imhex.werwolv.net/) / Windows, macOS, Linux, Web / [GitHub](https://github.com/WerWolv/ImHex) or [HexEd.it](https://hexed.it/) - Hex Editors
 * ⭐ **[Free for Developers](https://free-for.dev/)** - Tool Index / [GitHub](https://github.com/ripienaar/free-for-dev)
 * [Tiny Helpers](https://tiny-helpers.dev/) - Tool Index / [GitHub](https://github.com/stefanjudis/tiny-helpers)
@@ -96,7 +96,7 @@
 * 🌐 **[Awesome DOS](https://github.com/balintkissdev/awesome-dos)** - DOS App Development Resources
 * 🌐 **[Awesome Smart TV](https://github.com/vitalets/awesome-smart-tv)** - Smart TV App Development Resources
 * ⭐ **[Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)** or [bookmarks](https://github.com/SansGuidon/bookmarks) - Software Development Tools
-* ⭐ **Electron Tools** - [App Store](https://www.electronjs.org/apps/) / [Debugger](https://github.com/pd4d10/debugtron) / [Builder](https://www.electron.build/)
+* ⭐ **Electron Tools** - [App Store](https://www.electronjs.org/) / [Debugger](https://github.com/pd4d10/debugtron) / [Builder](https://www.electron.build/)
 * [Budibase](https://budibase.com/) or [Appsmith](https://www.appsmith.com/) - Internal Tool Builders
 * [Open Source Guides](https://opensource.guide/) - Open Source Software Tips / [GitHub](https://github.com/github/opensource.guide)
 * [Dokploy](https://github.com/dokploy/dokploy) - App Deployment
@@ -156,7 +156,6 @@
 * [DBeaver](https://dbeaver.io/) - Universal Database Tool
 * [ChartDB](https://chartdb.io/) - Database Visualization / [GitHub](https://github.com/chartdb/chartdb)
 * [Ingestr](https://bruin-data.github.io/ingestr/) - Transfer Data between Databases
-* [franchise](https://franchise.cloud/) - SQL Notebook
 
 ***
 
@@ -402,7 +401,7 @@
 * [GRAM](https://gram-editor.com/) - Code Editor / [Source Code](https://codeberg.org/GramEditor/gram)
 * [Competitive Editor](https://cpeditor.org/) - Competitive Programming Editor
 * [JSON Hero](https://jsonhero.io/) - JSON Viewer / Editor
-* [Blazepack](https://github.com/ameerthehacker/blazepack), [Flox](https://flox.dev/) or [DevPod](https://devpod.sh) - Development Environments
+* [Flox](https://flox.dev/) or [DevPod](https://devpod.sh) - Development Environments
 * [Apache NetBeans](https://netbeans.apache.org/), [KDevelop](https://www.kdevelop.org/), [Mitosis](https://mitosis.builder.io/), [Lazarus](https://www.lazarus-ide.org/) or [OpenShift](https://developers.redhat.com/products/openshift-dev-spaces/overview) - Cross-Platform IDEs
 * [TidalCycles](https://tidalcycles.org/) - Live Algorithmic Coding Environment / [Discord](https://discord.com/invite/ugFq7KfGnB)
 * [Codeface](https://github.com/chrissimpkins/codeface), [Monaspace](https://monaspace.githubnext.com/), [Programming Fonts](https://www.programmingfonts.org/) or [Dev Fonts](https://devfonts.gafi.dev/) - Fonts for Coding / [Comparison](https://www.codingfont.com/)
@@ -445,7 +444,7 @@
 * [Sora](https://github.com/Rosemoe/sora-editor) - Android Code Editor
 * [Visual Code Space](https://github.com/Visual-Code-Space/Visual-Code-Space) - Android Code Editor
 * [Spck Editor](https://play.google.com/store/apps/details?id=io.spck) - Android Code Editor
-* [⁠AndroidHarness](https://github.com/Sanuu7/AndroidHarness) - Native AI Coding Agent
+* [⁠AndroidHarness](https://github.com/Sanuu7/AndroidHarness) - Native AI Coding Agent / [Discord](https://discord.gg/vw5U8DJjBB)
 * [VHEditor](https://github.com/vhqtvn/VHEditor-Android) - VSCode Editor
 * [diohub](https://github.com/NamanShergill/diohub), [PuppyGit](https://github.com/catpuppyapp/PuppyGit) or [OctoDroid](https://github.com/slapperwan/gh4a) - Android Git Clients
 * [GitSync](https://github.com/ViscousPot/GitSync) - Android Git Remote Repo Sync
@@ -530,6 +529,7 @@
 
 ***
 
+* 🌐 **[⁠Free Coding Agents](https://docs.google.com/spreadsheets/d/1j0v2102Xznu06JJoscHZS2C0zdIQqWdA/)**
 * ↪️ **[AI Agents](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_agents)**
 * ⭐ **[OpenCode](https://opencode.ai/)** - Coding AI / DeepSeek V4.1 Flash / GLM-5.3-Flash / MiMo-V2.6-Flash / [Config Manager](https://opencode-studio.micr.dev/) / [Discord](https://discord.com/invite/opencode) / [GitHub](https://github.com/anomalyco/opencode)
 * ⭐ **[⁠Pi](https://pi.dev/)** - Terminal Coding Agent / [GUI](https://pi-docs.aiuo.net/) / [GitHub](https://github.com/earendil-works/pi)
@@ -564,13 +564,13 @@
 
 ***
 
-* [Arena](https://arena.ai/code) - Multiple Coding AI / Multiple Models / Sign-Up (Direct mode) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
-* [Design Arena](https://www.designarena.ai/) - Multiple Coding AI / No Direct Mode / Reset Limits / w Temp Mail / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
-* [⁠Z.ai](https://chat.z.ai/) - GLM-5.2 (Deep Think Max) / GLM-5 Turbo / Coding AI / Sign-Up / [Discord](https://discord.gg/QR7SARHRxK)
-* [Kimi](https://www.kimi.ai/agent), [2](https://www.kimi.com/agent) - Kimi K3 (Max) / Kimi K2.6 / Coding AI / Google Login or Phone # Required / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
-* [Google AI Studio](https://aistudio.google.com/app/apps) - Gemini 3.8 Flash / Gemini 3.1 Pro Preview / Gemini 3.5 Flash-Lite / Google Sign-Up / Coding AI / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
-* [Qwen](https://chat.qwen.ai/) - Qwen 3.8 Max (Thinking) / Qwen 3.7 Plus / Coding AI / Sign-Up / Unlimited / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
-* [MiniMax AI](https://agent.minimax.io/) - MiniMax M3 (Thinking) / Coding AI / Sign-Up [GitHub](https://github.com/MiniMax-AI/)
+* [Arena](https://arena.ai/code) - Multiple Models / Sign-Up (Direct mode) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
+* [Design Arena](https://www.designarena.ai/) - Multiple Models / No Direct Mode / Reset Limits / w Temp Mail / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
+* [⁠Z.ai](https://chat.z.ai/) - GLM-5.3 (Sign-Up) / GLM-5.3-Flash (No Sign-Up) / [Discord](https://discord.gg/QR7SARHRxK)
+* [Kimi](https://www.kimi.ai/agent), [2](https://www.kimi.com/agent) - Kimi K3.1 Pro / Kimi K3 / Kimi K2.8 Preview / Google Login or Phone # Required / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
+* [Google AI Studio](https://aistudio.google.com/app/apps) - Gemini 4 Hydrogen / Gemini 3.5 Flash-Lite / Google Sign-Up / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
+* [Qwen](https://chat.qwen.ai/) - Qwen4-Max-Preview / Qwen3.8-Max / Qwen3.7-Plus / No Sign-Up / Unlimited / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
+* [MiniMax AI](https://agent.minimax.io/) - MiniMax M3.1-Flash (Max) / MiniMax M3 (Thinking) / Sign-Up / [GitHub](https://github.com/MiniMax-AI/)
 * [⁠Cloud CLI](https://github.com/siteboon/claudecodeui) - AI Coding Agent Web Manager
 * [Perchance](https://perchance.org/minimal#edit) / [Subreddit](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a), [Fragments](https://fragments.e2b.dev/) / [Discord](https://discord.com/invite/U7KEcGErtQ) / [GitHub](https://github.com/e2b-dev), [Websim](https://websim.com/) / [Subreddit](https://www.reddit.com/r/websim) / [X](https://x.com/websim_ai), [⁠AnyCoder](https://huggingface.co/spaces/akhaliq/anycoder), or [Llama Coder](https://llamacoder.together.ai/) / [GitHub](https://github.com/Nutlope/llamacoder) - App Builders
 * [v0](https://v0.app/) - Text to Site Code
@@ -583,7 +583,7 @@
 * 🌐 **[⁠Awesome AI Coding Tools](https://github.com/ai-for-developers/awesome-ai-coding-tools)** - Index of AI Dev Tools
 * 🌐 **[⁠MCP Market](https://mcpmarket.com/)** - MCP Server Index
 * 🌐 **[Skills](https://skills.sh/)** or **[⁠an-eye](https://rentry.co/an-eye)** - AI Agent Skill Indexes
-* ⭐ **[⁠CodeRabbit](https://www.coderabbit.ai/)** / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/CodeRabbit.md) or [PR-Agent](https://github.com/qodo-ai/pr-agent) - Pull Request Reviews / Feedback
+* ⭐ **[⁠CodeRabbit](https://www.coderabbit.ai/)** / [Discord](https://discord.gg/coderabbit) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/CodeRabbit.md) or [PR-Agent](https://github.com/qodo-ai/pr-agent) - Pull Request Reviews / Feedback
 * [Honey](https://github.com/Green-PT/honey-for-devs) or [⁠Ponytail](https://ponytail.dev/) - Make AI Coding Agents More Efficient / Save Tokens / [GitHub](https://github.com/DietrichGebert/ponytail)
 * [⁠9Router](https://github.com/decolua/9router) - Local AI Model Proxy & Token Saver
 * [CC Switch](https://ccswitch.io/en/) - AI Coding Agent Manager / [GitHub](https://github.com/farion1231/cc-switch)
@@ -835,7 +835,7 @@
 
 ## ▷ Website Builders
 
-* 🌐 **[Awesome Static Generators](https://myles.github.io/awesome-static-generators/)** / [GitHub](https://github.com/myles/awesome-static-generators) or **[Jamstack Generators](https://jamstack.org/generators/)** - Static Site Generator Indexes
+* 🌐 **[Jamstack Generators](https://jamstack.org/generators/)** - Static Site Generator Index
 * ⭐ **[Eleventy](https://11ty.dev/)** - Static Site Generator / [Discord](https://discord.gg/GBkBy9u) / [GitHub](https://github.com/11ty/eleventy)
 * ⭐ **[Hugo](https://gohugo.io/)** - Static Site Generator
 * ⭐ **[Webstudio](https://webstudio.is/)** - Website Builder
@@ -897,7 +897,8 @@
 * ⭐ **[ThemeWagon](https://themewagon.com/theme-price/free/)** - Free HTML Templates
 * ⭐ **[awwwards](https://www.awwwards.com/websites)**, **[Boilerplate](https://html5boilerplate.com/)** or [html5up](https://html5up.net/) - Custom HTML Templates
 * [UI Design Daily](https://www.uidesigndaily.com/) or [UIVerse](https://uiverse.io/) - Free UI Design Resources
-* [CollectUI](https://collectui.com/), [Hoverstat](https://www.hoverstat.es/), [httpster](https://httpster.net/), [Recent](https://recent.design/), [Websitevice](https://websitevice.com/), [Dribbble](https://dribbble.com/), [ReallyGoodUX](https://goodux.appcues.com/) or [Pageflows](https://pageflows.com/) - UI / Site Design Inspiration
+* [CollectUI](https://collectui.com/), [Hoverstat](https://www.hoverstat.es/), [httpster](https://httpster.net/), [Recent](https://recent.design/), [Websitevice](https://websitevice.com/), [Dribbble](https://dribbble.com/), [ReallyGoodUX](https://goodux.appcues.com/), [⁠Designeer](https://designeer.xyz/inspiration), [Pixlpin](https://pixlpin.com/) or [Pageflows](https://pageflows.com/) - UI / Site Design Inspiration
+* [⁠Supahero](https://supahero.io/) - Hero Design Inspiration
 * [Templatemo](https://www.templatemo.com/) - Free CSS Templates
 * [Repth Themes](https://repth.neocities.org/theme) - Y2K Anime Themes
 * ⁠Human Interface Guidelines: [Windows](https://learn.microsoft.com/en-us/windows/apps/design/) / [Gnome](https://developer.gnome.org/hig/) / [KDE](https://develop.kde.org/hig/) / [Apple](https://developer.apple.com/design/human-interface-guidelines) - Interface Guidelines
@@ -928,7 +929,6 @@
 * [⁠BlurHash](https://blurha.sh/) - Compact Representation Algorithm for Image Placeholders / [GitHub](https://github.com/woltapp/blurhash)
 * [Visiwig](https://www.visiwig.com/) - Copy / Paste Site Graphics
 * [T3](https://github.com/tooll3/t3), [⁠Lottie Creator](https://creator.lottiefiles.com/) or [Mantra](https://jeremyckahn.github.io/mantra/) - Create Motion Graphics
-* [NakerApp](https://app.naker.io/back/) - Interactive Background Maker
 * [HTTP Cats](https://http.cat/) - Put Cat Pictures in Your Status Codes
 
 ***
@@ -1001,7 +1001,7 @@
 * [⁠GLORP](https://zack-gphom.itch.io/glorp-pixel-to-svg) - Convert Pixel Art to Optimized SVGs / Windows / [GitHub](https://github.com/ZackGphom/GLORP/)
 * [⁠Book Of Shapes](https://bookofshapes.com/) - Customizable SVG Shape & Patterns
 * [Pattern Monster](https://pattern.monster/) - SVG Pattern Generator
-* [Blobs](https://lokesh-coder.github.io/blobs.app/) - SVG Shape Generator
+* [Abztract](https://abztract.arhamkhnz.com/) or [Blobs](https://lokesh-coder.github.io/blobs.app/) - SVG Shape Generators
 * [Broider](https://maxbittker.github.io/broider/) - Create Border Designs
 * [ShapeDivider](https://www.shapedivider.app/) - Make SVG Shape Divider
 * [SVG Path](https://svg-path-visualizer.netlify.app/) - SVG Path Visualizer
@@ -1019,7 +1019,7 @@
 * ↪️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_dns_adblocking)** - DNS Providers & Adblocking
 * ↪️ **[Self-Hosted Wiki Alts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_self-hosted_wiki_alts)**
 * ⭐ **[TLDES](https://tldes.com/)**, [TLDHub](https://tldhub.com/), [TLD-List](https://tld-list.com/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/tld-list-note.md) or [SitePrice](https://www.siteprice.org/) - Domain Price Comparisons
-* ⭐ **[censys](https://platform.censys.io/home)**, [WebDNA](https://webdna.xtra.wtf/), [⁠ICANN Lookup](https://lookup.icann.org/), [wtfis](https://github.com/pirxthepilot/wtfis), [whois_](https://whois.b1s4.xyz/) / [GitHub](https://github.com/b1s4/whois), [RDAP](https://client.rdap.org/), [digger.tools](https://digger.tools/), [LinkScope](https://accentusoft.com/), [DNSlytics](https://dnslytics.com/), [WhoisRequest](https://whoisrequest.com/), [⁠W.is](https://w.is/) or [Whois Lookup](https://whois.domaintools.com/) - Domain Info / Whois Search
+* ⭐ **[censys](https://platform.censys.io/home)**, [⁠ICANN Lookup](https://lookup.icann.org/), [wtfis](https://github.com/pirxthepilot/wtfis), [whois_](https://whois.b1s4.xyz/) / [GitHub](https://github.com/b1s4/whois), [RDAP](https://client.rdap.org/), [digger.tools](https://digger.tools/), [LinkScope](https://accentusoft.com/), [DNSlytics](https://dnslytics.com/), [WhoisRequest](https://whoisrequest.com/), [⁠W.is](https://w.is/) or [Whois Lookup](https://whois.domaintools.com/) - Domain Info / Whois Search
 * ⭐ **[Check-Host](https://check-host.net/)** or [Uptime](https://betterstack.com/uptime) - Web-Based Uptime Monitors
 * [Secure Backend Guide](https://rentry.co/FMHYB64#backend-guide) - Secure Backend Guide
 * [Oracle Cloud](https://www.oracle.com/cloud/free/) - Free VPS / Requires Real Information / [Guide (Important)](https://guides.viren070.me/selfhosting/oracle)
@@ -1128,7 +1128,7 @@
 
 * ⭐ **[deSEC](https://desec.io/)** - Free Dynamic DNS with DNSSEC
 * [DuckDNS](https://www.duckdns.org/), [ClouDNS](https://www.cloudns.net/), [FreeDNS](https://freedns.afraid.org/) / [Warning](https://freedns.afraid.org/queue/explanation.php), [dynu](https://dynu.com/), [myaddr](https://myaddr.tools/), [nsupdate](https://www.nsupdate.info/) / [GitHub](https://github.com/nsupdate-info/nsupdate.info) - Dynamic DNS Providers
-* [DigitalPlat](https://domain.digitalplat.org/) / [GitHub](https://github.com/DigitalPlatDev/FreeDomain), [is-a.dev](https://www.is-a.dev/), [JS.ORG](https://js.org/), [TheDev](https://upset.dev/), [GetFreeDomain](https://www.getfreedomain.name/) - Free Subdomain Services
+* [DigitalPlat](https://domain.digitalplat.org/) / [GitHub](https://github.com/DigitalPlatDev/FreeDomain), [is-a.dev](https://www.is-a.dev/), [JS.ORG](https://js.org/), [TheDev](https://upset.dev/), [GetFreeDomain](https://www.getfreedomain.name/) or [Free For Life](https://free.hrsn.dev/#/?id=domains) - Free Subdomain Services
 
 ***
 
@@ -1141,7 +1141,7 @@
 * [Open Source Security Software](https://open-source-security-software.net/) - Cybersecurity Software
 * [osquery](https://osquery.io) or [Nmap](https://nmap.org/) / [Results](https://nmap.org/ndiff/) - Security Monitors
 * [Canarytokens](https://canarytokens.org/generate) - Network Breach Check
-* [masscan](https://github.com/robertdavidgraham/masscan) - Port Scanner
+* [masscan](https://github.com/robertdavidgraham/masscan) or [⁠RustScan](https://github.com/bee-san/RustScan) - Port Scanners
 * [Zeek](https://zeek.org/), [Kismet](https://www.kismetwireless.net/), [ntop](https://www.ntop.org/) or [Sniffnet](https://sniffnet.app/) / [GitHub](https://github.com/GyulyVGC/sniffnet) - Network Monitors
 * [Crowdsec](https://crowdsec.net/) - Crowd-Sourced Intrusion Detection / Prevention / [GitHub](https://github.com/crowdsecurity/crowdsec)
 * [BBRadar](https://bbradar.io/), [⁠Open Bug Bounty](https://www.openbugbounty.org/) or [BugBountyHunting](https://www.bugbountyhunting.com/) - Bug Bounty Trackers
@@ -1184,7 +1184,6 @@
 * 🌐 **[Awesome Pen Testing](https://github.com/enaqx/awesome-pentest)** - Penetration Testing Resources
 * 🌐 **[Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)** - Pentesting / Security Index
 * [Metasploit](https://www.metasploit.com/) / [Cheatsheet](https://www.comparitech.com/net-admin/metasploit-cheat-sheet/) - Pentesting Framework
-* [Pentest Contracts](https://github.com/cure53/Contracts) - Security Contract Templates
 * [OSCP-Exam-Report-Template-Markdown](https://noraj.github.io/OSCP-Exam-Report-Template-Markdown/) - Offensive Security Exam Report Markdown / [GitHub](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown)
 * [Kali NetHunter](https://store.nethunter.com/) or [AndroGuard](https://github.com/androguard/androguard) - Penetration Testing / Forensics Apps
 
@@ -1211,7 +1210,7 @@
 * ⭐ **[Cap](https://trycap.dev/)** / [GitHub](https://github.com/tiagozip/cap), [LibreCaptcha](https://github.com/librecaptcha/lc-core), [mCaptcha](https://mcaptcha.org/) / [GitHub](https://github.com/mCaptcha/mCaptcha) or [Anubis](https://anubis.techaro.lol/) / [GitHub](https://github.com/TecharoHQ/anubis) - Bot Protection / Captchas
 * [⁠Iocaine](https://iocaine.madhouse-project.org/) - Anti-Web Crawler Software / [Source Code](https://git.madhouse-project.org/iocaine/iocaine)
 * [⁠The Crawler Zoo](https://crawlerzoo.com/) - Web Crawler Database / Bot Blocking Guides
-* [SupaBase](https://supabase.com/), [PocketBase](https://pocketbase.io/) / [GitHub](https://github.com/pocketbase/pocketbase), [⁠Convex](https://www.convex.dev/) / [GitHub](https://github.com/convex) or [Neon](https://neon.com/) / [GitHub](https://github.com/neondatabase/neon) - Open-Source Backend Platforms
+* [SupaBase](https://supabase.com/), [PocketBase](https://pocketbase.io/) / [Source Code](https://ganigeorgiev.com/pocketbase/pocketbase), [⁠Convex](https://www.convex.dev/) / [GitHub](https://github.com/convex) or [Neon](https://neon.com/) / [GitHub](https://github.com/neondatabase/neon) - Open-Source Backend Platforms
 * [WebAuthn](https://webauthn.guide/) - Web Authentication API - [Demo](https://webauthn.io/)
 * [Hydra](https://github.com/ory/hydra) - OAuth 2.0 Server / OpenID Connect Provider
 * [SuperTokens](https://supertokens.com/), [⁠Better Auth](https://better-auth.com/) or [Lucia](https://lucia-auth.com/) - User Authentication

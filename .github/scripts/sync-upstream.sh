@@ -16,6 +16,7 @@ git fetch upstream main
 base_file=.github/upstream-sync-base
 if [[ -f "$base_file" ]]; then
   read -r last_upstream < "$base_file"
+  last_upstream=${last_upstream%$'\r'}
 else
   # Bootstrap from the last upstream commit already merged into the fork.
   last_upstream=$(git merge-base HEAD upstream/main)
@@ -35,12 +36,16 @@ fi
 
 patch=$(mktemp)
 trap 'rm -f "$patch"' EXIT
-# Keep wiki pages and upstream's search navigation current. Theme/layout/config
-# changes need deliberate review so they cannot overwrite Mathy branding or
-# silently break the fork's navigation and deployment.
+# Keep wiki pages and search together with their reviewed dependencies.
+# DiscordWiki renders the Discord page. CriticalBadge and criticalRegistry
+# are imports of the upstream search box. Other theme/layout/config changes
+# require separate review.
 git diff --binary --full-index "$last_upstream" "$current_upstream" -- \
   ':(glob)docs/**/*.md' \
+  docs/.vitepress/theme/components/DiscordWiki.vue \
+  docs/.vitepress/theme/components/CriticalBadge.vue \
   docs/.vitepress/theme/components/VPLocalSearchBox.vue \
+  docs/.vitepress/theme/composables/criticalRegistry.ts \
   docs/.vitepress/theme/composables/searchScroll.ts > "$patch"
 
 if [[ -s "$patch" ]] && ! git apply --3way --index "$patch"; then

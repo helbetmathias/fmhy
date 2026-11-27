@@ -36,17 +36,11 @@ fi
 
 patch=$(mktemp)
 trap 'rm -f "$patch"' EXIT
-# Keep wiki pages and search together with their reviewed dependencies.
-# DiscordWiki renders the Discord page. CriticalBadge and criticalRegistry
-# are imports of the upstream search box. Other theme/layout/config changes
-# require separate review.
+# Sync wiki content and its notes. Search and other site code stay at the
+# versions reviewed for the fork: upstream can change the search UI, engine,
+# build hooks and dependencies together in a single commit.
 git diff --binary --full-index "$last_upstream" "$current_upstream" -- \
-  ':(glob)docs/**/*.md' \
-  docs/.vitepress/theme/components/DiscordWiki.vue \
-  docs/.vitepress/theme/components/CriticalBadge.vue \
-  docs/.vitepress/theme/components/VPLocalSearchBox.vue \
-  docs/.vitepress/theme/composables/criticalRegistry.ts \
-  docs/.vitepress/theme/composables/searchScroll.ts > "$patch"
+  ':(glob)docs/**/*.md' > "$patch"
 
 if [[ -s "$patch" ]] && ! git apply --3way --index "$patch"; then
   mapfile -d '' conflicts < <(git diff --name-only --diff-filter=U -z)
